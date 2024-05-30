@@ -1,33 +1,23 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>GovNoteBook</title>
-      <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
-      <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.GovCon.com/tags/sustainability/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 30 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/sustainability/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.GovCon.com/blog/Physics/SecureEnergy</guid>
-    <title>Harnessing Nikola Teslas Legacy The Path to Secure Energy and Wireless Power Transmission</title>
-    <link>https://www.GovCon.com/blog/Physics/SecureEnergy</link>
-    <description>This post delves into Nikola Teslas groundbreaking ideas for Secure energy and wireless power transmission, exploring how these technologies could revolutionize our energy infrastructure, create a sustainable future, and bolster national security.</description>
-    <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+    <guid>https://www.govcon.com/blog/Reviews/RicsNoteBook</guid>
+    <title>Rics Notebook Blog Review</title>
+    <link>https://www.govcon.com/blog/Reviews/RicsNoteBook</link>
+    <description>A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Tesla</category><category>Sustainability</category><category>Physics</category>
-  </item>
-
-  <item>
-    <guid>https://www.GovCon.com/blog/EV/RethinkingClimateChange</guid>
-    <title>Facing the Climate Crisis Together: How Global Warming is an Opportunity for Unity and Innovation</title>
-    <link>https://www.GovCon.com/blog/EV/RethinkingClimateChange</link>
-    <description>In the face of the global warming crisis, humanity has a unique opportunity to come together, innovate, and create a sustainable future. Discover how this challenge can be a catalyst for unity, scientific breakthroughs, and a brighter tomorrow for our planet.</description>
-    <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Climate Change</category><category>Global Warming</category><category>Unity</category><category>Innovation</category><category>Sustainability</category><category>Scientific Advancements</category><category>Quantum Technology</category>
+    <category>Quantum Technology</category><category>Cybersecurity</category><category>AI</category><category>Sustainability</category><category>Blog Review</category>
   </item>
 
     </channel>
