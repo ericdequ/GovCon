@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Gov NoteBook',
+  title: 'Gov Con',
   author: 'Eric deQuevedo',
-  headerTitle: `Ric's NoteBook`,
-  description: `Ric's Guide to the Galaxy`,
+  headerTitle: `Gov Cons Guide to the Galaxy`,
+  description: `Learn about Government Contracting!`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://www.GovCon.com',

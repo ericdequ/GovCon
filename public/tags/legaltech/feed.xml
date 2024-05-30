@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 06 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/legaltech/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/resolving_contract_disputes_with_government_agencies</guid>
+    <title>Resolving Contract Disputes with Government Agencies</title>
+    <link>https://www.GovCon.com/blog/resolving_contract_disputes_with_government_agencies</link>
+    <description>Unpacking the complexities of contract disputes with government agencies and how technology is paving the way for smoother resolutions.</description>
+    <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Contracts</category><category>LegalTech</category>
+  </item>
+
+    </channel>
+  </rss>

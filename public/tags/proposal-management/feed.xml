@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/proposal-management/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/proposal_management_software_streamlining_your_government_contracting_process</guid>
+    <title>Proposal Management Software: Streamlining Your Government Contracting Process</title>
+    <link>https://www.GovCon.com/blog/proposal_management_software_streamlining_your_government_contracting_process</link>
+    <description>Explore how proposal management software can revolutionize your approach to securing government contracts, making the process efficient, accurate, and far less stressful.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Proposal Management</category><category>Government Contracting</category><category>Software</category>
+  </item>
+
+    </channel>
+  </rss>

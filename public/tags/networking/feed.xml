@@ -1,15 +1,25 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Gov NoteBook</title>
+      <title>Gov Con</title>
       <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about Government Contracting!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 28 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/networking/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.GovCon.com/blog/building_relationships_with_government_agencies_networking_strategies_for_contractors</guid>
+    <title>Building Relationships with Government Agencies: Networking Strategies for Contractors</title>
+    <link>https://www.GovCon.com/blog/building_relationships_with_government_agencies_networking_strategies_for_contractors</link>
+    <description>Unlock the potential of government contracts by mastering networking strategies that foster lasting relationships with government agencies!</description>
+    <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracting</category><category>Networking</category><category>Business Strategy</category>
+  </item>
+
   <item>
     <guid>https://www.GovCon.com/blog/Government/Relationships</guid>
     <title>Building Relationships: The Key to Long-Term Government Sales Success 🤝🏛️</title>

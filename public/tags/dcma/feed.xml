@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 25 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/dcma/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/navigating_defense_contract_management_agency_dcma_requirements</guid>
+    <title>Navigating Defense Contract Management Agency (DCMA) Requirements</title>
+    <link>https://www.GovCon.com/blog/navigating_defense_contract_management_agency_dcma_requirements</link>
+    <description>Unravel the complexities of working with the Defense Contract Management Agency (DCMA) and learn how to navigate its requirements efficiently. From compliance to collaboration, this guide offers actionable insights for contractors aiming to succeed in the defense sector.</description>
+    <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Defense</category><category>Contract Management</category><category>DCMA</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,15 +1,35 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Gov NoteBook</title>
+      <title>Gov Con</title>
       <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about Government Contracting!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/government-procurement/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.GovCon.com/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</guid>
+    <title>Navigating Compliance: The Buy American Act and Trade Agreements Act</title>
+    <link>https://www.GovCon.com/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</link>
+    <description>Understand the complexities and strategies involved in adhering to the Buy American Act and Trade Agreements Act for businesses engaged in government procurement.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Compliance</category><category>Global Trade</category><category>Government Procurement</category>
+  </item>
+
+  <item>
+    <guid>https://www.GovCon.com/blog/navigating_the_government_procurement_process_a_flowchart_for_success</guid>
+    <title>Navigating the Government Procurement Process: A Flowchart for Success</title>
+    <link>https://www.GovCon.com/blog/navigating_the_government_procurement_process_a_flowchart_for_success</link>
+    <description>Unlock the secrets to successfully navigating the government procurement process with our in-depth guide and flowchart. Discover the strategies you need to secure lucrative contracts and grow your business.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Procurement</category><category>Business</category><category>Innovation</category>
+  </item>
+
   <item>
     <guid>https://www.GovCon.com/blog/Government/TheProcess</guid>
     <title>Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜</title>

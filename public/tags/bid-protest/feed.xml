@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/bid-protest/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/bid_protests_what_to_do_when_you_disagree_with_a_contract_award</guid>
+    <title>Bid Protests: What to Do When You Disagree with a Contract Award</title>
+    <link>https://www.GovCon.com/blog/bid_protests_what_to_do_when_you_disagree_with_a_contract_award</link>
+    <description>Discover the ins and outs of bid protests, learn the steps to take when a contract award doesn’t go your way, and find out how to turn a setback into an opportunity.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Contracting</category><category>Bid Protest</category><category>Legal Process</category>
+  </item>
+
+    </channel>
+  </rss>

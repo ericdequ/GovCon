@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 01 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/itar/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/navigating_international_traffic_in_arms_regulations_itar_in_government_contracts</guid>
+    <title>Navigating International Traffic in Arms Regulations (ITAR) in Government Contracts</title>
+    <link>https://www.GovCon.com/blog/navigating_international_traffic_in_arms_regulations_itar_in_government_contracts</link>
+    <description>Dive deep into the intricacies of ITAR compliance in government contracts, ensuring your projects sail smoothly while adhering to critical regulations.</description>
+    <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>ITAR</category><category>Government Contracts</category><category>Compliance</category>
+  </item>
+
+    </channel>
+  </rss>

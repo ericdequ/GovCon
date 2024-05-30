@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/market-research/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/market_research_methods_for_identifying_government_contracting_opportunities</guid>
+    <title>Market Research Methods for Identifying Government Contracting Opportunities</title>
+    <link>https://www.GovCon.com/blog/market_research_methods_for_identifying_government_contracting_opportunities</link>
+    <description>Unveil the secrets to discovering lucrative government contracts through advanced market research techniques. From data mining to leveraging technological tools, explore the methods that will put your business ahead of the competition.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracting</category><category>Market Research</category><category>Business Strategy</category>
+  </item>
+
+    </channel>
+  </rss>

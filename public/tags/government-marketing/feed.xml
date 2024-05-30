@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/government-marketing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/marketing_your_products_and_services_to_government_agencies_via_gsa_advantage</guid>
+    <title>Marketing Your Products and Services to Government Agencies via GSA Advantage!</title>
+    <link>https://www.GovCon.com/blog/marketing_your_products_and_services_to_government_agencies_via_gsa_advantage</link>
+    <description>Unlock the secrets to successfully marketing your products and services to government agencies through GSA Advantage! Learn how to navigate the platform, optimize your listings, and stand out in the competitive landscape.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GSA Advantage</category><category>Government Marketing</category><category>Technology</category>
+  </item>
+
+    </channel>
+  </rss>

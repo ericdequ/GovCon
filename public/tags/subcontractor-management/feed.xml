@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/subcontractor-management/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/effective_subcontractor_management_for_government_projects</guid>
+    <title>Effective Subcontractor Management for Government Projects</title>
+    <link>https://www.GovCon.com/blog/effective_subcontractor_management_for_government_projects</link>
+    <description>Unlock the secrets to managing subcontractors effectively in government projects with our comprehensive guide. Learn best practices, key strategies, and innovative approaches to ensure project success and compliance.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Projects</category><category>Subcontractor Management</category><category>Project Management</category>
+  </item>
+
+    </channel>
+  </rss>

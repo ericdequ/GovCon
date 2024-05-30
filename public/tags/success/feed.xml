@@ -1,23 +1,23 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>GovNoteBook</title>
+      <title>Gov Con</title>
       <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <description>Learn about Government Contracting!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 24 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/success/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.GovCon.com/blog/Books/LawsOPower</guid>
-    <title>The 48 Laws of Power A Guide to Success and Mastery 💪</title>
-    <link>https://www.GovCon.com/blog/Books/LawsOPower</link>
-    <description>Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.</description>
-    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.GovCon.com/blog/leveraging_small_business_administration_sba_resources_for_contracting_success</guid>
+    <title>Leveraging Small Business Administration (SBA) Resources for Contracting Success</title>
+    <link>https://www.GovCon.com/blog/leveraging_small_business_administration_sba_resources_for_contracting_success</link>
+    <description>Discover how the Small Business Administration (SBA) can be a game-changer for small businesses seeking to break into government contracting. Learn about the myriad resources and programs SBA offers to help your business soar.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Power</category><category>Success</category><category>Mastery</category><category>life-lessons</category>
+    <category>Small Business</category><category>SBA</category><category>Contracting</category><category>Success</category>
   </item>
 
     </channel>

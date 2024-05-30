@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/rfq/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</guid>
+    <title>Mastering the Art of Crafting Effective Responses to Government Contract RFPs and RFQs</title>
+    <link>https://www.GovCon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</link>
+    <description>Unlock the secrets to creating winning responses to government contract RFPs and RFQs. Learn the strategies that can give you the competitive edge.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracts</category><category>RFP</category><category>RFQ</category>
+  </item>
+
+    </channel>
+  </rss>

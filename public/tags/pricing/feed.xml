@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/pricing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/navigating_the_complexities_of_government_contract_pricing</guid>
+    <title>Navigating the Complexities of Government Contract Pricing</title>
+    <link>https://www.GovCon.com/blog/navigating_the_complexities_of_government_contract_pricing</link>
+    <description>Dive deep into the multifaceted world of government contract pricing and discover how technology is making this intricate process more manageable.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracts</category><category>Pricing</category><category>Technology</category>
+  </item>
+
+    </channel>
+  </rss>

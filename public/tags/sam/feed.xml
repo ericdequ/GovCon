@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.GovCon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 04 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.GovCon.com/tags/sam/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.GovCon.com/blog/sam_registration_and_maintenance_ensuring_your_business_stays_compliant</guid>
+    <title>SAM Registration and Maintenance: Ensuring Your Business Stays Compliant</title>
+    <link>https://www.GovCon.com/blog/sam_registration_and_maintenance_ensuring_your_business_stays_compliant</link>
+    <description>Discover how to keep your business compliant with streamlined SAM Registration and ongoing maintenance.</description>
+    <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Compliance</category><category>Business</category><category>SAM</category>
+  </item>
+
+    </channel>
+  </rss>
