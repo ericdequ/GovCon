@@ -5,7 +5,7 @@ const siteMetadata = {
   description: `Learn about Government Contracting!`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://www.GovCon.com',
+  siteUrl: 'https://www.govcon.com',
   siteRepo: 'https://https://github.com/ericdequ/GovCon',
   siteLogo: 'logoo-removebg.webp',
   image: '/static/profile.webp',
