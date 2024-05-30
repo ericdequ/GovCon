@@ -1,6 +1,6 @@
 ---
 title: 'PlantHealth Blog Review'
-date: '2024-05-30'
+date: '2022-05-30'
 tags: ['Nature', 'Technology', 'Holistic Health', 'Blog Review']
 draft: false
 summary: 'A detailed review of the PlantHealth blog, highlighting its insightful articles on the intersection of nature, technology, and holistic health.'

@@ -1,23 +1,33 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>GovNoteBook</title>
-      <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>Learn about Government Contracting!</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
-      <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.GovCon.com/tags/api-integration/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 30 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/api-integration/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.GovCon.com/blog/Construction/Agave</guid>
-    <title>Agave: Revolutionizing Construction Data Integration and Interoperability</title>
-    <link>https://www.GovCon.com/blog/Construction/Agave</link>
-    <description>Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.</description>
-    <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+    <guid>https://www.govcon.com/blog/api/sam</guid>
+    <title>Unlocking Government Contract Opportunities with the SAM.gov API</title>
+    <link>https://www.govcon.com/blog/api/sam</link>
+    <description>Explore how to leverage the SAM.gov API to discover and access government contract opportunities efficiently. This guide provides an overview, key functionalities, and practical examples to get you started.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>API Integration</category><category>Construction Software</category>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/api/usaspending</guid>
+    <title>Navigating Federal Spending Data with the USAspending API</title>
+    <link>https://www.govcon.com/blog/api/usaspending</link>
+    <description>Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
   </item>
 
     </channel>

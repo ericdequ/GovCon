@@ -1,6 +1,6 @@
 ---
 title: 'ConTechNews Blog Review'
-date: '2024-05-30'
+date: '2022-05-30'
 tags: ['Construction Technology', 'Innovation', 'Blog Review']
 draft: false
 summary: 'A detailed review of the ConTechNews blog, highlighting its comprehensive coverage of the latest trends and advancements in construction technology.'

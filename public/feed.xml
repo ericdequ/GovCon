@@ -11,33 +11,23 @@
       <atom:link href="https://www.govcon.com/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Reviews/contechnews</guid>
-    <title>ConTechNews Blog Review</title>
-    <link>https://www.govcon.com/blog/Reviews/contechnews</link>
-    <description>A detailed review of the ConTechNews blog, highlighting its comprehensive coverage of the latest trends and advancements in construction technology.</description>
+    <guid>https://www.govcon.com/blog/api/sam</guid>
+    <title>Unlocking Government Contract Opportunities with the SAM.gov API</title>
+    <link>https://www.govcon.com/blog/api/sam</link>
+    <description>Explore how to leverage the SAM.gov API to discover and access government contract opportunities efficiently. This guide provides an overview, key functionalities, and practical examples to get you started.</description>
     <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Construction Technology</category><category>Innovation</category><category>Blog Review</category>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/Reviews/Plantheath</guid>
-    <title>PlantHealth Blog Review</title>
-    <link>https://www.govcon.com/blog/Reviews/Plantheath</link>
-    <description>A detailed review of the PlantHealth blog, highlighting its insightful articles on the intersection of nature, technology, and holistic health.</description>
+    <guid>https://www.govcon.com/blog/api/usaspending</guid>
+    <title>Navigating Federal Spending Data with the USAspending API</title>
+    <link>https://www.govcon.com/blog/api/usaspending</link>
+    <description>Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.</description>
     <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Nature</category><category>Technology</category><category>Holistic Health</category><category>Blog Review</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Reviews/RicsNoteBook</guid>
-    <title>Rics Notebook Blog Review</title>
-    <link>https://www.govcon.com/blog/Reviews/RicsNoteBook</link>
-    <description>A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.</description>
-    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Quantum Technology</category><category>Cybersecurity</category><category>AI</category><category>Sustainability</category><category>Blog Review</category>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
   </item>
 
   <item>
@@ -1181,6 +1171,16 @@
   </item>
 
   <item>
+    <guid>https://www.govcon.com/blog/Reviews/RicsNoteBook</guid>
+    <title>Rics Notebook Blog Review</title>
+    <link>https://www.govcon.com/blog/Reviews/RicsNoteBook</link>
+    <description>A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.</description>
+    <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Quantum Technology</category><category>Cybersecurity</category><category>AI</category><category>Sustainability</category><category>Blog Review</category>
+  </item>
+
+  <item>
     <guid>https://www.govcon.com/blog/Government/GettingStarted</guid>
     <title>How to Start a Government Contracting Small Business</title>
     <link>https://www.govcon.com/blog/Government/GettingStarted</link>
@@ -1201,6 +1201,16 @@
   </item>
 
   <item>
+    <guid>https://www.govcon.com/blog/Reviews/contechnews</guid>
+    <title>ConTechNews Blog Review</title>
+    <link>https://www.govcon.com/blog/Reviews/contechnews</link>
+    <description>A detailed review of the ConTechNews blog, highlighting its comprehensive coverage of the latest trends and advancements in construction technology.</description>
+    <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Construction Technology</category><category>Innovation</category><category>Blog Review</category>
+  </item>
+
+  <item>
     <guid>https://www.govcon.com/blog/Reviews/ElonTusk</guid>
     <title>Elon Tusk Blog Review</title>
     <link>https://www.govcon.com/blog/Reviews/ElonTusk</link>
@@ -1208,6 +1218,16 @@
     <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Science</category><category>Technology</category><category>Innovation</category><category>Blog Review</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/Reviews/Plantheath</guid>
+    <title>PlantHealth Blog Review</title>
+    <link>https://www.govcon.com/blog/Reviews/Plantheath</link>
+    <description>A detailed review of the PlantHealth blog, highlighting its insightful articles on the intersection of nature, technology, and holistic health.</description>
+    <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Nature</category><category>Technology</category><category>Holistic Health</category><category>Blog Review</category>
   </item>
 
   <item>

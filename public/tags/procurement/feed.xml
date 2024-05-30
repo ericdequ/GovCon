@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
-      <lastBuildDate>Fri, 20 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 30 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/procurement/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/api/sam</guid>
+    <title>Unlocking Government Contract Opportunities with the SAM.gov API</title>
+    <link>https://www.govcon.com/blog/api/sam</link>
+    <description>Explore how to leverage the SAM.gov API to discover and access government contract opportunities efficiently. This guide provides an overview, key functionalities, and practical examples to get you started.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/api/usaspending</guid>
+    <title>Navigating Federal Spending Data with the USAspending API</title>
+    <link>https://www.govcon.com/blog/api/usaspending</link>
+    <description>Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.</description>
+    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/using_reverse_auctions_for_government_procurement</guid>
     <title>Using Reverse Auctions for Government Procurement</title>
