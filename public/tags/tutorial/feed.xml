@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 26 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/tutorial/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Next/PWA</guid>
+    <title>Elevate Your Web App: Transforming Next.js Project into a PWA 🚀</title>
+    <link>https://www.rics-notebook.com/blog/Next/PWA</link>
+    <description>Delve into the journey of augmenting your Next.js project with PWA features, leveraging the pages directory for an organized and efficient structure.</description>
+    <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Next.js</category><category>PWA</category><category>Web Development</category><category>Tutorial</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Python/PythonSetup</guid>
+    <title>Getting Started with Python: Your First Python Script 🚀</title>
+    <link>https://www.rics-notebook.com/blog/Python/PythonSetup</link>
+    <description>Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Python</category><category>Programming</category><category>Tutorial</category><category>education</category><category>devops</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Setup/Manim</guid>
+    <title>Getting Started with Manim: A Step-by-Step Guide</title>
+    <link>https://www.rics-notebook.com/blog/Setup/Manim</link>
+    <description>Learn how to create stunning mathematical animations using Manim, a powerful Python library. This step-by-step guide will walk you through the process of setting up Manim and creating your first animation, providing code examples and practical tips along the way.</description>
+    <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Manim</category><category>Python</category><category>Animation</category><category>Data Visualization</category><category>Tutorial</category>
+  </item>
+
+    </channel>
+  </rss>

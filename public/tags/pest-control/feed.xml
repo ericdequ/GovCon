@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/pest-control/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/Cordyceps</guid>
+    <title>Using Cordyceps for Pest Management: Sustainable Solutions for a Healthy Yard</title>
+    <link>https://www.rics-notebook.com/blog/fungus/Cordyceps</link>
+    <description>Explore the benefits of using Cordyceps fungi for pest management and its positive effects on plant and yard growth. Learn how to create your own Cordyceps-based pest control solutions and introduce them naturally to your yard.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Pest Control</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 24 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/taylor-swift/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Pharma/TaylorSwiftandThePharmaceuticalIndustry</guid>
+    <title>🎤 Taylor Swift And The Pharmaceutical Industry: The Surprising Parallels 🎤</title>
+    <link>https://www.rics-notebook.com/blog/Pharma/TaylorSwiftandThePharmaceuticalIndustry</link>
+    <description>Explore the unexpected parallels between Taylor Swifts breakup-driven music career and the pharmaceutical industrys dependence on sickness for profit.</description>
+    <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Taylor Swift</category><category>Pharmaceutical Industry</category><category>Music</category><category>Healthcare</category><category>Epidemics</category><category>Ethics</category><category>Comparison</category>
+  </item>
+
+    </channel>
+  </rss>

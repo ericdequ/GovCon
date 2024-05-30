@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 13 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/training/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumEducationAndTraining</guid>
+    <title>Quantum Education &amp; Training Preparing for the Quantum Future 🎓</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumEducationAndTraining</link>
+    <description>Understanding the significance of education and training in the quantum domain and the avenues available for learning!</description>
+    <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Education</category><category>Training</category>
+  </item>
+
+    </channel>
+  </rss>

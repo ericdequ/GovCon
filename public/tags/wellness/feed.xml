@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 27 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/wellness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/SchumannResonance</guid>
+    <title>Exploring the Schumann Resonance: Effects on Healing, Wellness, and Plant Growth 🌍✨</title>
+    <link>https://www.rics-notebook.com/blog/Health/SchumannResonance</link>
+    <description>Discover the intriguing effects of the Schumann Resonance on healing, wellness, and plant growth. This blog post explores the science behind Earths natural frequency and its potential benefits for living organisms. 🌍✨</description>
+    <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Schumann Resonance</category><category>Healing</category><category>Wellness</category><category>Plant Growth</category><category>Earths Frequency</category><category>Alternative Medicine</category><category>Biophysics</category><category>Natural Phenomena</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</guid>
+    <title>The Benefits of Ingesting Cordyceps: A Natural Boost for Health and Vitality</title>
+    <link>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</link>
+    <description>Explore the remarkable health benefits of ingesting Cordyceps. Learn how this powerful fungus can boost your energy, improve immunity, enhance athletic performance, and more.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Health</category><category>Nutrition</category><category>Herbal Medicine</category><category>Cordyceps</category><category>Fungi</category><category>Mycology</category><category>Wellness</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/ElectromagneticFieldTherapy</guid>
+    <title>Exploring Electromagnetic Field Therapy: Healing with Energy Waves 🌟✨</title>
+    <link>https://www.rics-notebook.com/blog/Health/ElectromagneticFieldTherapy</link>
+    <description>Discover the potential of Electromagnetic Field Therapy for healing and wellness. This blog post explores the science behind EMF Therapy, its applications, benefits, and the current state of research in this emerging field. 🌟✨</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Electromagnetic Field Therapy</category><category>EMF Therapy</category><category>Alternative Medicine</category><category>Pain Management</category><category>Chronic Conditions</category><category>Healing Technologies</category><category>Wellness</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/mushrooms</guid>
+    <title>Functional Mushrooms: Natures Superpower 🍄💊🌿</title>
+    <link>https://www.rics-notebook.com/blog/Health/mushrooms</link>
+    <description>Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.</description>
+    <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Health</category><category>Mushrooms</category><category>Wellness</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 20 May 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/history/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/Absinthe</guid>
+    <title>Absinthe: A Storied Elixir Poised for a Modern Revival</title>
+    <link>https://www.rics-notebook.com/blog/Health/Absinthe</link>
+    <description>Dive into the rich history of absinthe, the legendary spirit that has captivated artists and writers for centuries. Discover why it’s time for absinthe to make a comeback in modern mixology and cultural appreciation. 🍸</description>
+    <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Absinthe</category><category>History</category><category>Spirits</category><category>Revival</category><category>Cultural Heritage</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Idols/AlbertHoffman</guid>
+    <title>Albert Hofmann: Accidental Discovery of LSD and the Bicycle Ride that Changed the World</title>
+    <link>https://www.rics-notebook.com/blog/Idols/AlbertHoffman</link>
+    <description>Explore the remarkable story of Albert Hofmann, the Swiss chemist who accidentally discovered LSD and embarked on a mind-altering bicycle ride that would forever change our understanding of consciousness and the human psyche.</description>
+    <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Drug-Discovery</category><category>History</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/Ergot</guid>
+    <title>From the Eleusinian Mysteries to the Salem Witch Trials: The Role of Ergot and LSA in History 🌾🔮</title>
+    <link>https://www.rics-notebook.com/blog/Health/Ergot</link>
+    <description>Explore the fascinating connections between the ancient Eleusinian Mysteries, the psychoactive properties of ergot and LSA, and the infamous Salem Witch Trials. Delve into how these elements intersected to shape pivotal moments in history. 🌾🔮</description>
+    <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Eleusinian Mysteries</category><category>Ergot</category><category>LSA</category><category>Salem Witch Trials</category><category>Psychedelics</category><category>History</category><category>Mysticism</category><category>Anthropology</category><category>Ancient Cultures</category>
+  </item>
+
+    </channel>
+  </rss>

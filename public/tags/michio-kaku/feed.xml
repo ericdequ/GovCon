@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/michio-kaku/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</guid>
+    <title>Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku</title>
+    <link>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</link>
+    <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Quantum Computing</category><category>Michio Kaku</category><category>Physics</category><category>Technology</category><category>Future</category>
+  </item>
+
+    </channel>
+  </rss>
