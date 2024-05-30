@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
+      <title>GovNoteBook</title>
+      <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 18 May 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/construction-equipment/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.GovCon.com/tags/construction-equipment/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/Construction/Cranes</guid>
+    <guid>https://www.GovCon.com/blog/Construction/Cranes</guid>
     <title>How Are Cranes Built ?</title>
-    <link>https://www.rics-notebook.com/blog/Construction/Cranes</link>
+    <link>https://www.GovCon.com/blog/Construction/Cranes</link>
     <description>Discover the fascinating process of how tower cranes, the giants of the construction world, erect themselves to reach dizzying heights. This blog post delves into the intricate mechanics and engineering behind self-erecting cranes, shedding light on one of the most impressive feats in modern construction.</description>
     <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

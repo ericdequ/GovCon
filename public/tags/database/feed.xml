@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
+      <title>GovNoteBook</title>
+      <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.GovCon.com/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/Web_Dev/Full_Stack_Social</guid>
+    <guid>https://www.GovCon.com/blog/Web_Dev/Full_Stack_Social</guid>
     <title>Full Stack Social Media App</title>
-    <link>https://www.rics-notebook.com/blog/Web_Dev/Full_Stack_Social</link>
+    <link>https://www.GovCon.com/blog/Web_Dev/Full_Stack_Social</link>
     <description>This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse </description>
     <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Web_Dev/Firebase</guid>
+    <guid>https://www.GovCon.com/blog/Web_Dev/Firebase</guid>
     <title>Firebase </title>
-    <link>https://www.rics-notebook.com/blog/Web_Dev/Firebase</link>
+    <link>https://www.GovCon.com/blog/Web_Dev/Firebase</link>
     <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Database/Mongo</guid>
+    <guid>https://www.GovCon.com/blog/Database/Mongo</guid>
     <title>MongoDB</title>
-    <link>https://www.rics-notebook.com/blog/Database/Mongo</link>
+    <link>https://www.GovCon.com/blog/Database/Mongo</link>
     <description>How to Work with and Setup a MongoDB Database 🗄️💾</description>
     <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</guid>
+    <guid>https://www.GovCon.com/blog/Database/SQLvsNOSQL</guid>
     <title>SQL vs NoSQL: Whats the Difference? 📊</title>
-    <link>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</link>
+    <link>https://www.GovCon.com/blog/Database/SQLvsNOSQL</link>
     <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
     <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

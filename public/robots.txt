@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Specify the location of the sitemap
-Sitemap: https://www.rics-notebook.com/sitemap.xml
+Sitemap: https://www.GovCon.com/sitemap.xml
 
 # Disallow crawling of specific directories or files
 Disallow: /admin/

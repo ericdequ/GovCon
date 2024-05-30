@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
+      <title>GovNoteBook</title>
+      <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/factoring/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.GovCon.com/tags/factoring/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</guid>
+    <guid>https://www.GovCon.com/blog/cyber/QuadraticSieve</guid>
     <title>The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm 🔍✨</title>
-    <link>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</link>
+    <link>https://www.GovCon.com/blog/cyber/QuadraticSieve</link>
     <description>Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/cyber/RSACryptosystem</guid>
+    <guid>https://www.GovCon.com/blog/cyber/RSACryptosystem</guid>
     <title>RSA Cryptosystem and Shor’s Algorithm: A Quantum Leap in Cryptography 🔐✨</title>
-    <link>https://www.rics-notebook.com/blog/cyber/RSACryptosystem</link>
+    <link>https://www.GovCon.com/blog/cyber/RSACryptosystem</link>
     <description>Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

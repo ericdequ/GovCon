@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Rics NoteBook',
+  title: 'Gov NoteBook',
   author: 'Eric deQuevedo',
   headerTitle: `Ric's NoteBook`,
   description: `Ric's Guide to the Galaxy`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://www.rics-notebook.com',
-  siteRepo: 'https://https://github.com/ericdequ/My-Blog',
+  siteUrl: 'https://www.GovCon.com',
+  siteRepo: 'https://https://github.com/ericdequ/GovCon',
   siteLogo: 'logoo-removebg.webp',
   image: '/static/profile.webp',
   socialBanner: '/static/images/twitter-card.webp',
@@ -21,7 +21,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://www.rics-notebook.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://www.GovCon.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: 'G-ERCKXSBZLY', // e.g. UA-000000-2 or G-XXXXXXX

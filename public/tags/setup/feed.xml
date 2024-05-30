@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
+      <title>GovNoteBook</title>
+      <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Mon, 21 Nov 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/setup/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.GovCon.com/tags/setup/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/Setup/vs-code</guid>
+    <guid>https://www.GovCon.com/blog/Setup/vs-code</guid>
     <title>vs-code</title>
-    <link>https://www.rics-notebook.com/blog/Setup/vs-code</link>
+    <link>https://www.GovCon.com/blog/Setup/vs-code</link>
     <description>example and tutorial how to setup vscode</description>
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

@@ -20,5 +20,5 @@ def convert_webp_to_png(src_folder):
                     print(f"Error converting {src_path}: {e}")
 
 if __name__ == "__main__":
-    src_folder = "C:/Users/ericd/Desktop/Blog/My-Blog/robotric"
+    src_folder = "C:/Users/ericd/Desktop/Blog/GovCon/robotric"
     convert_webp_to_png(src_folder)

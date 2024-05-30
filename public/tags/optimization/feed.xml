@@ -1,19 +1,19 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
+      <title>GovNoteBook</title>
+      <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/optimization/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.GovCon.com/tags/optimization/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/Logistics/Optimization</guid>
+    <guid>https://www.GovCon.com/blog/Logistics/Optimization</guid>
     <title>Quantum Algorithms for Logistics Optimization: A Technical Deep Dive</title>
-    <link>https://www.rics-notebook.com/blog/Logistics/Optimization</link>
+    <link>https://www.GovCon.com/blog/Logistics/Optimization</link>
     <description>Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.</description>
     <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumFood</guid>
+    <guid>https://www.GovCon.com/blog/Quantum/QuantumFood</guid>
     <title>Quantum Computing: A Game-Changer in Solving Global Hunger</title>
-    <link>https://www.rics-notebook.com/blog/Quantum/QuantumFood</link>
+    <link>https://www.GovCon.com/blog/Quantum/QuantumFood</link>
     <description>Explore how quantum computing can revolutionize food transportation and distribution, tackling the global hunger epidemic and unlocking unprecedented advancements for humanity. Discover the potential of quantum algorithms in optimizing logistics, considering variables such as food shelf life, to ensure efficient and equitable food distribution worldwide.</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Logistics/AirLine</guid>
+    <guid>https://www.GovCon.com/blog/Logistics/AirLine</guid>
     <title>Quantum Computing: The Key to Revolutionizing Airline Routing and Saving Billions</title>
-    <link>https://www.rics-notebook.com/blog/Logistics/AirLine</link>
+    <link>https://www.GovCon.com/blog/Logistics/AirLine</link>
     <description>Discover how quantum algorithms can transform airline routing, leading to billions in cost savings and reduced environmental impact. Explore the power of quantum computing in tackling complex optimization problems and revolutionizing the aviation industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</guid>
+    <guid>https://www.GovCon.com/blog/Space/QuantumOrbitalMechanics</guid>
     <title>Quantum-Enhanced Orbital Mechanics: Unlocking Unprecedented Efficiency in Space Logistics</title>
-    <link>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</link>
+    <link>https://www.GovCon.com/blog/Space/QuantumOrbitalMechanics</link>
     <description>Discover how quantum computing revolutionizes orbital mechanics, enabling highly efficient trajectory planning and optimization for orbital package delivery. By harnessing the power of quantum algorithms, space logistics can achieve unprecedented levels of efficiency, reducing fuel consumption and delivery times.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</guid>
+    <guid>https://www.GovCon.com/blog/Companies/Quantum/DWave</guid>
     <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</link>
+    <link>https://www.GovCon.com/blog/Companies/Quantum/DWave</link>
     <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Logistics/QuantumLogistics</guid>
+    <guid>https://www.GovCon.com/blog/Logistics/QuantumLogistics</guid>
     <title>Quantum Computing: Revolutionizing Logistics, Saving Money, and Conserving Energy</title>
-    <link>https://www.rics-notebook.com/blog/Logistics/QuantumLogistics</link>
+    <link>https://www.GovCon.com/blog/Logistics/QuantumLogistics</link>
     <description>Discover how quantum computers are set to transform the logistics industry, enabling unprecedented optimization, cost savings, and energy efficiency. Explore the potential of this groundbreaking technology and its impact on supply chain management.</description>
     <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

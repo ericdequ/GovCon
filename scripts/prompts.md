@@ -323,7 +323,7 @@ prompts = [
     "Discuss the latest advancements in quantum sensing and its applications in fields like navigation, medical imaging, and scientific research.",
     "Present a revolutionary software idea that utilizes computer vision to automate tasks and improve accuracy in industries like security and quality control.",
     "Examine the future of education and how technologies like AI, virtual reality, and gamification are transforming the learning experience.",
-    "Showcase a groundbreaking invention in the field of wearable technology that could monitor health metrics and provide personalized recommendations."
+    "Showcase a groundbreaking invention in the field of wearable technology that could monitor health metGov and provide personalized recommendations."
 ]
 
 prompts = [
@@ -674,7 +674,7 @@ const morePrompts = [
     "The Role of Forensics in Cybersecurity: Investigating and Responding to Incidents",
     "How to Protect Against Distributed Denial of Service (DDoS) Attacks",
     "The Importance of Privacy in Cybersecurity: Best Practices for Data Protection",
-    "Understanding Cybersecurity Metrics: Measuring and Improving Your Security Posture",
+    "Understanding Cybersecurity MetGov: Measuring and Improving Your Security Posture",
     "The Role of Cybersecurity in Protecting Against Identity Theft",
     "How to Use Cybersecurity Frameworks: NIST, ISO, and More",
     "The Growing Threat of Cybercrime: Trends and Predictions for the Future",
@@ -722,7 +722,7 @@ const morePrompts = [
     "The Importance of Cybersecurity in the Legal Sector: Protecting Client Data",
     "How to Use Cybersecurity for Data Loss Prevention: Strategies and Solutions",
     "The Role of Cybersecurity in Protecting the Entertainment Industry",
-    "How to Use Cybersecurity Metrics to Drive Improvement",
+    "How to Use Cybersecurity MetGov to Drive Improvement",
     "The Growing Importance of Cybersecurity in the Agriculture Sector",
     "How to Use Threat Modeling to Identify and Mitigate Risks",
     "The Role of Cybersecurity in Protecting Digital Identities",

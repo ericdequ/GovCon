@@ -1,8 +1,8 @@
 {
-  "name": "Rics Blog",
+  "name": "GovBlog",
   "short_name": "Blog ",
   "description": "A Blog about my life and my projects",
-  "start_url": "https://www.rics-notebook.com/",
+  "start_url": "https://www.GovCon.com/",
   "display": "standalone",
   "background_color": "#5A4B9A",
   "theme_color": "#5A4B9A",
