@@ -5,8 +5,8 @@
       <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
       <lastBuildDate>Mon, 16 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/data-visualization/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.GovCon.com/blog/Setup/Manim</link>
     <description>Learn how to create stunning mathematical animations using Manim, a powerful Python library. This step-by-step guide will walk you through the process of setting up Manim and creating your first animation, providing code examples and practical tips along the way.</description>
     <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Manim</category><category>Python</category><category>Animation</category><category>Data Visualization</category><category>Tutorial</category>
   </item>
 

@@ -5,8 +5,8 @@
       <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
       <lastBuildDate>Mon, 01 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/google/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.GovCon.com/blog/Companies/Quantum/Google</link>
     <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Quantum Computing</category><category>Google</category><category>Superconducting Qubits</category><category>Quantum AI</category><category>Quantum Supremacy</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.GovCon.com/blog/GoogleCollab/Collab</link>
     <description>Google Colaboratory Colab is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Google</category><category>MachineLearning</category><category>DataScience</category><category>education</category>
   </item>
 

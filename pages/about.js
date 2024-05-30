@@ -26,8 +26,8 @@ export default function About({ authorDetails }) {
   return (
     <>
     <PageSEO
-    title={`About - Eric deQuevedo`}
-    description={`Founder & Quantum Cyber Solutions`}
+    title={`About - Gov Con`}
+    description={`Gov Con is a blog about government contracting and the federal acquisition process.`}
   />
     <motion.div
       initial="initial"

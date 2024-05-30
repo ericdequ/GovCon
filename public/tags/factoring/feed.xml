@@ -5,8 +5,8 @@
       <link>https://www.GovCon.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
       <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.GovCon.com/tags/factoring/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.GovCon.com/blog/cyber/QuadraticSieve</link>
     <description>Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Cryptography</category><category>Factoring</category><category>Quadratic Sieve</category><category>Number Theory</category><category>Algorithm Design</category><category>Mathematics</category><category>Computer Science</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.GovCon.com/blog/cyber/RSACryptosystem</link>
     <description>Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Gov Con)</author>
     <category>Cryptography</category><category>RSA</category><category>Shor’s Algorithm</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Factoring</category><category>Quantum Algorithms</category><category>MIT xPRO</category>
   </item>
 

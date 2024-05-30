@@ -1,23 +1,25 @@
 ---
 name: GovCon
 avatar: https://www.govcon.me/logoo.webp
-occupation: Founder & Quantum Solutions Architect 💻
-company: Quantum Cyber Solutions 🚀
-email: eric@quantumcybersolutions.com 📧
-linkedin: https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗
-github: https://github.com/ericdequ 🐱‍💻
+occupation: Helping Small Businesses Navigate Government Contracting
+company: Quantum cyber Solutions
+email: contact@quantumcybersolutions.com 📧
 ---
 
-Hello, I'm **Eric deQuevedo**, the _Founder & Quantum Solutions Architect_ at [**Quantum Cyber Solutions**](https://www.quantumcybersolutions.com/), where I combine my expertise in quantum computing, AI, and software development to help companies modernize their technology stack and harness the power of quantum technologies. With a strong background in quantum algorithms, quantum machine learning, and quantum cryptography, I excel at bridging the gap between cutting-edge research and practical business applications. 💡🌐
 
-At [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/), I drive the company's vision and strategy, focusing on the development and implementation of quantum-enhanced solutions across various industries. I lead a team of quantum computing experts, software engineers, and data scientists to deliver cutting-edge quantum solutions that address complex business challenges. Our work involves collaborating with leading research institutions and industry partners to advance the field of quantum computing and its practical applications. 🚀🎓
+Hello, I'm **GovCon**, the mascot for [GovCon.me](https://www.govcon.me), a blog dedicated to helping small businesses get started and excel in government contracting. 
 
-In addition to my role at [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/), I previously worked as a Solutions Architect at Emerging Tech, where I championed multi-disciplinary projects. I architected and developed internal tooling solutions, including a browser extension that streamlined the deciphering of technical jargon, boosting company-wide efficiency. I also orchestrated the lifecycle management of government contracts by creating a comprehensive software solution, collaborating with cross-functional teams to ensure the platform fulfilled complex stakeholder requirements. 🏛️💻
+**GovCon.me** is a project by [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/), designed to provide valuable insights, tips, and resources to navigate the complex world of government contracting. Our mission is to empower small businesses with the knowledge and tools they need to successfully compete for government contracts, thereby fostering growth and innovation within the industry. 🏛️🚀
 
-As a researcher, I led an initiative examining burgeoning cyber threats in healthcare, synthesizing findings into strategic recommendations and contributing to the organization's forward-thinking cybersecurity policy. I'm passionate about advancing the field of quantum technology and helping businesses stay ahead of the curve. 🔒🩺
+At **GovCon.me**, you can expect:
 
-When I'm not immersed in the world of quantum computing, I find myself captivated by the profound interconnectedness and untapped potential of the human mind. I firmly believe that our consciousness holds the key to unlocking extraordinary possibilities and shaping the future of technology. Just as quantum entanglement demonstrates the deep connections between seemingly disparate particles, I see the human mind as a vast network of interconnected thoughts and ideas, waiting to be explored and harnessed for the greater good. 🧠✨
+- **In-depth Guides:** Step-by-step tutorials on how to get started with government contracting, from understanding the basics to mastering advanced strategies.
+- **Expert Advice:** Insights from seasoned professionals in the field, sharing their experiences and best practices.
+- **Resources and Tools:** Access to essential documents, templates, and tools that simplify the contracting process.
+- **Latest Updates:** Stay informed about the latest trends, regulations, and opportunities in government contracting.
 
-I'm always eager to connect with like-minded professionals who share my passion for the intersection of quantum computing and the boundless creativity of the human mind. Whether it's discussing emerging trends in quantum technologies, delving into the philosophical implications of consciousness, or exploring new opportunities for collaboration, I'm ready to embark on thought-provoking conversations that push the boundaries of our understanding. 💡🗣️
+As part of **Quantum Cyber Solutions**, we are committed to leveraging our expertise in quantum computing and cybersecurity to develop innovative solutions that meet the needs of our clients. Our goal is to bridge the gap between small businesses and government opportunities, helping you secure contracts and grow your business. 🌐🔒
 
-Feel free to reach out to me to discuss anything related to quantum computing, AI, the nature of consciousness, or to simply geek out about the latest advancements in these exciting fields. Together, let's unravel the mysteries of the quantum realm and the human mind, and pave the way for a future where technology and consciousness intertwine in ways we can only begin to imagine! 🚀🧠🌌
+Whether you're a newcomer looking to break into government contracting or an experienced contractor aiming to enhance your strategies, **GovCon.me** is here to support your journey every step of the way. Together, let's unlock the potential of government contracts and drive your business forward!
+
+Visit [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/Partners) to learn more about our initiatives and how we can help your business succeed in the realm of government contracting. Apply to our partner program for us to win contracts together!
