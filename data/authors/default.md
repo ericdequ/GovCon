@@ -1,5 +1,5 @@
 ---
-name: Eric deQuevedo 😄
+name: GovCon
 avatar: https://www.govcon.me/logoo.webp
 occupation: Founder & Quantum Solutions Architect 💻
 company: Quantum Cyber Solutions 🚀

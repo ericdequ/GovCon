@@ -67,6 +67,7 @@ module.exports = withBundleAnalyzer({
       'www.bmw-services.vercel.app',
       'games-gold-nu.vercel.app',
       'www.games-gold-nu.vercel.app',
+      'www.govcon.me',
     ],
   },
   async headers() {

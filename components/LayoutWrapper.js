@@ -3,7 +3,7 @@ import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
-import Footer from './Footer'
+
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import Image from 'next/image'
@@ -83,7 +83,6 @@ const LayoutWrapper = ({ children }) => {
         >
           {children}
         </motion.main>
-        <Footer />
       </div>
     </SectionContainer>
   )
