@@ -20,15 +20,5 @@
     <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category><category>government-sales</category><category>government-procurement</category>
   </item>
 
-  <item>
-    <guid>https://www.rics-notebook.com/blog/IOT/Relationship</guid>
-    <title>Relationship-Based IoT Models Enhancing Accuracy, Efficiency, and Security 🔗</title>
-    <link>https://www.rics-notebook.com/blog/IOT/Relationship</link>
-    <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
-    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>IoT</category><category>Relationship</category><category>Technology</category>
-  </item>
-
     </channel>
   </rss>
