@@ -107,7 +107,7 @@
     <loc
       >https://www.govcon.com/blog/developing_a_competitive_edge_in_the_government_contracting_marketplace</loc
     >
-    <lastmod>2024-05-30T15:03:02.859Z</lastmod>
+    <lastmod>2024-05-30T20:17:24.621Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1038,8 +1038,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/3d-bin-packing</loc>
-    <lastmod>2024-05-30T18:37:14.168Z</lastmod>
+    <loc>https://www.govcon.com/tags/2c-b</loc>
+    <lastmod>2024-05-30T18:37:15.155Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1052,8 +1052,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/2c-b</loc>
-    <lastmod>2024-05-30T18:37:15.155Z</lastmod>
+    <loc>https://www.govcon.com/tags/3d-bin-packing</loc>
+    <lastmod>2024-05-30T18:37:14.168Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1061,6 +1061,13 @@
   <url>
     <loc>https://www.govcon.com/tags/5-card-poker</loc>
     <lastmod>2024-05-30T18:37:15.156Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/ac</loc>
+    <lastmod>2024-05-30T18:37:15.157Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1080,13 +1087,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ac</loc>
-    <lastmod>2024-05-30T18:37:15.157Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/access-management</loc>
     <lastmod>2024-05-30T18:37:14.191Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1101,15 +1101,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/acquisition</loc>
-    <lastmod>2024-05-30T20:09:28.068Z</lastmod>
+    <loc>https://www.govcon.com/tags/adblocker</loc>
+    <lastmod>2024-05-30T18:37:14.172Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/adblocker</loc>
-    <lastmod>2024-05-30T18:37:14.172Z</lastmod>
+    <loc>https://www.govcon.com/tags/acquisition</loc>
+    <lastmod>2024-05-30T20:20:44.961Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1129,15 +1129,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/adversarial-testing</loc>
-    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
+    <loc>https://www.govcon.com/tags/advanced-propulsion</loc>
+    <lastmod>2024-05-30T18:37:15.155Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/administration</loc>
-    <lastmod>2024-05-30T20:09:28.263Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.133Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1150,8 +1150,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/advanced-propulsion</loc>
-    <lastmod>2024-05-30T18:37:15.155Z</lastmod>
+    <loc>https://www.govcon.com/tags/adversarial-testing</loc>
+    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1171,13 +1171,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/aerospace-design</loc>
-    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/agave</loc>
     <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1185,7 +1178,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/agriculture</loc>
+    <loc>https://www.govcon.com/tags/aerospace-design</loc>
     <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1199,7 +1192,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ai-in-business</loc>
+    <loc>https://www.govcon.com/tags/agriculture</loc>
     <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1207,6 +1200,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ai-development</loc>
+    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/ai-in-business</loc>
     <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1262,6 +1262,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/alternative-medicine</loc>
+    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/american-dream</loc>
     <lastmod>2024-05-30T18:37:15.140Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1269,8 +1276,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/alternative-medicine</loc>
-    <lastmod>2024-05-30T18:37:15.140Z</lastmod>
+    <loc>https://www.govcon.com/tags/anatomy</loc>
+    <lastmod>2024-05-30T18:37:15.129Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1283,13 +1290,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/angels--demons</loc>
-    <lastmod>2024-05-30T07:28:08.748Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/ancient-cultures</loc>
     <lastmod>2024-05-30T18:37:15.124Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1297,8 +1297,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/anatomy</loc>
-    <lastmod>2024-05-30T18:37:15.129Z</lastmod>
+    <loc>https://www.govcon.com/tags/angels--demons</loc>
+    <lastmod>2024-05-30T07:28:08.748Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/animal-communication</loc>
+    <lastmod>2024-05-30T18:37:15.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1318,13 +1325,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/animal-communication</loc>
-    <lastmod>2024-05-30T18:37:15.128Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/animation</loc>
     <lastmod>2024-05-30T18:37:14.179Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1332,14 +1332,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/anomalous-properties</loc>
+    <loc>https://www.govcon.com/tags/ansible</loc>
     <lastmod>2024-05-30T18:37:14.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ansible</loc>
+    <loc>https://www.govcon.com/tags/anomalous-properties</loc>
     <lastmod>2024-05-30T18:37:14.174Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1360,15 +1360,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/antibodies</loc>
-    <lastmod>2024-05-30T18:37:15.128Z</lastmod>
+    <loc>https://www.govcon.com/tags/anti-aging</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/anti-aging</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
+    <loc>https://www.govcon.com/tags/antibodies</loc>
+    <lastmod>2024-05-30T18:37:15.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1388,15 +1388,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ants</loc>
-    <lastmod>2024-05-30T18:37:14.176Z</lastmod>
+    <loc>https://www.govcon.com/tags/anxiety</loc>
+    <lastmod>2024-05-30T18:37:14.179Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/anxiety</loc>
-    <lastmod>2024-05-30T18:37:14.179Z</lastmod>
+    <loc>https://www.govcon.com/tags/ants</loc>
+    <lastmod>2024-05-30T18:37:14.176Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1409,15 +1409,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/api-integration</loc>
-    <lastmod>2024-05-30T18:37:14.179Z</lastmod>
+    <loc>https://www.govcon.com/tags/api</loc>
+    <lastmod>2024-05-30T18:37:15.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/api</loc>
-    <lastmod>2024-05-30T18:37:15.119Z</lastmod>
+    <loc>https://www.govcon.com/tags/api-integration</loc>
+    <lastmod>2024-05-30T18:37:14.179Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1430,22 +1430,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/applications</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/apple</loc>
     <lastmod>2024-05-30T18:37:14.181Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/architecture</loc>
-    <lastmod>2024-05-30T18:37:15.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1458,8 +1444,15 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/applications</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/arboriculture</loc>
-    <lastmod>2024-05-30T20:09:26.910Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.622Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1472,7 +1465,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/architecture</loc>
+    <lastmod>2024-05-30T18:37:15.119Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/artificial-intelligence</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/asteroid-belt</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1481,13 +1488,6 @@
   <url>
     <loc>https://www.govcon.com/tags/ast</loc>
     <lastmod>2024-05-30T18:37:14.184Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/asteroid-belt</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1514,14 +1514,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/atom-interferometry</loc>
+    <loc>https://www.govcon.com/tags/atmosphere</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/atmosphere</loc>
+    <loc>https://www.govcon.com/tags/atom-interferometry</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1535,13 +1535,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/audio</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/audio-processing</loc>
     <lastmod>2024-05-30T18:37:14.187Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1549,15 +1542,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/aurora-borealis</loc>
-    <lastmod>2024-05-30T18:37:14.189Z</lastmod>
+    <loc>https://www.govcon.com/tags/audio</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/audit</loc>
-    <lastmod>2024-05-30T20:09:25.027Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.222Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/aurora-borealis</loc>
+    <lastmod>2024-05-30T18:37:14.189Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1584,6 +1584,20 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/automotive-technology</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/autonomous-vehicles</loc>
+    <lastmod>2024-05-30T18:37:14.191Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/autonomous-landing</loc>
     <lastmod>2024-05-30T18:37:14.211Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1591,7 +1605,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/automotive-technology</loc>
+    <loc>https://www.govcon.com/tags/aviation</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1605,14 +1619,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/autonomous-vehicles</loc>
-    <lastmod>2024-05-30T18:37:14.191Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/aviation</loc>
+    <loc>https://www.govcon.com/tags/aws</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1626,21 +1633,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/backend</loc>
-    <lastmod>2024-05-30T18:37:14.193Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/azure</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/aws</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1654,6 +1647,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/backend</loc>
+    <lastmod>2024-05-30T18:37:14.193Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/bard</loc>
     <lastmod>2024-05-30T18:37:14.194Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1661,15 +1661,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/bar-hopping</loc>
-    <lastmod>2024-05-30T18:37:14.195Z</lastmod>
+    <loc>https://www.govcon.com/tags/bats</loc>
+    <lastmod>2024-05-30T18:37:14.196Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/bats</loc>
-    <lastmod>2024-05-30T18:37:14.196Z</lastmod>
+    <loc>https://www.govcon.com/tags/bar-hopping</loc>
+    <lastmod>2024-05-30T18:37:14.195Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1717,6 +1717,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/best-practices</loc>
+    <lastmod>2024-05-30T20:20:44.405Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/bernoullis-principle</loc>
     <lastmod>2024-05-30T18:37:14.198Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1724,22 +1731,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/best-practices</loc>
-    <lastmod>2024-05-30T20:09:27.552Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/betasamgov</loc>
-    <lastmod>2024-05-30T20:09:28.553Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/bid-protest</loc>
-    <lastmod>2024-05-30T20:09:21.038Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.379Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1759,6 +1759,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/biodegradable-spaceships</loc>
+    <lastmod>2024-05-30T18:37:14.203Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/bioacoustics</loc>
     <lastmod>2024-05-30T18:37:14.201Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1766,7 +1773,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/biodegradable-spaceships</loc>
+    <loc>https://www.govcon.com/tags/bioengineering</loc>
     <lastmod>2024-05-30T18:37:14.203Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1775,13 +1782,6 @@
   <url>
     <loc>https://www.govcon.com/tags/biology</loc>
     <lastmod>2024-05-30T18:37:14.204Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/bioengineering</loc>
-    <lastmod>2024-05-30T18:37:14.203Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1815,20 +1815,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/blackjack</loc>
-    <lastmod>2024-05-30T18:37:14.209Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/blockchain</loc>
-    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/bitcoin</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1836,7 +1822,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/blackjack</loc>
+    <lastmod>2024-05-30T18:37:14.209Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/blue</loc>
+    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/blockchain</loc>
     <lastmod>2024-05-30T18:37:15.091Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1850,15 +1850,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/bmw-services</loc>
-    <lastmod>2024-05-30T20:09:26.621Z</lastmod>
+    <loc>https://www.govcon.com/tags/boat-building</loc>
+    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/boat-building</loc>
-    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
+    <loc>https://www.govcon.com/tags/bmw-services</loc>
+    <lastmod>2024-05-30T20:20:43.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1899,13 +1899,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/brain-synchronization</loc>
-    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/breach-simulation</loc>
     <lastmod>2024-05-30T18:37:15.091Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -1913,8 +1906,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/brick-paving</loc>
-    <lastmod>2024-05-30T20:09:26.637Z</lastmod>
+    <loc>https://www.govcon.com/tags/brain-synchronization</loc>
+    <lastmod>2024-05-30T18:37:15.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1922,6 +1915,13 @@
   <url>
     <loc>https://www.govcon.com/tags/breathing</loc>
     <lastmod>2024-05-30T18:37:15.106Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/brick-paving</loc>
+    <lastmod>2024-05-30T20:20:43.368Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1948,78 +1948,71 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/business-development</loc>
-    <lastmod>2024-05-30T20:09:22.575Z</lastmod>
+    <loc>https://www.govcon.com/tags/business</loc>
+    <lastmod>2024-05-30T20:20:37.294Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-continuity</loc>
-    <lastmod>2024-05-30T20:09:27.582Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/business</loc>
-    <lastmod>2024-05-30T20:09:22.537Z</lastmod>
+    <loc>https://www.govcon.com/tags/business-development</loc>
+    <lastmod>2024-05-30T20:20:38.039Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-efficiency</loc>
-    <lastmod>2024-05-30T20:09:28.264Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/business-opportunities</loc>
-    <lastmod>2024-05-30T20:09:28.527Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.185Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-growth</loc>
-    <lastmod>2024-05-30T20:09:24.386Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.232Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/business-opportunities</loc>
+    <lastmod>2024-05-30T20:20:45.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-partnerships</loc>
-    <lastmod>2024-05-30T20:09:27.567Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/business-plan</loc>
-    <lastmod>2024-05-30T20:09:21.845Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.405Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/businessgrowth</loc>
-    <lastmod>2024-05-30T20:09:23.695Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.965Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/business-plan</loc>
+    <lastmod>2024-05-30T20:20:36.578Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-strategy</loc>
-    <lastmod>2024-05-30T20:09:21.538Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/calculus-2</loc>
-    <lastmod>2024-05-30T18:37:14.219Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2032,8 +2025,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/camino-de-santiago</loc>
-    <lastmod>2024-05-30T07:28:08.785Z</lastmod>
+    <loc>https://www.govcon.com/tags/calculus-2</loc>
+    <lastmod>2024-05-30T18:37:14.219Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2041,6 +2034,13 @@
   <url>
     <loc>https://www.govcon.com/tags/cameras</loc>
     <lastmod>2024-05-30T18:37:14.251Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/camino-de-santiago</loc>
+    <lastmod>2024-05-30T07:28:08.785Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2060,15 +2060,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/card-games</loc>
-    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
+    <loc>https://www.govcon.com/tags/capabilities</loc>
+    <lastmod>2024-05-30T18:37:14.222Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/capabilities</loc>
-    <lastmod>2024-05-30T18:37:14.222Z</lastmod>
+    <loc>https://www.govcon.com/tags/card-games</loc>
+    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2088,6 +2088,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/casino</loc>
+    <lastmod>2024-05-30T18:37:14.225Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/carotenoids</loc>
     <lastmod>2024-05-30T18:37:14.226Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2096,21 +2103,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/cas</loc>
-    <lastmod>2024-05-30T20:09:28.379Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/casino</loc>
-    <lastmod>2024-05-30T18:37:14.225Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/casino-games</loc>
-    <lastmod>2024-05-30T18:37:14.234Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.255Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2123,15 +2116,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cd</loc>
-    <lastmod>2024-05-30T18:37:14.225Z</lastmod>
+    <loc>https://www.govcon.com/tags/casino-games</loc>
+    <lastmod>2024-05-30T18:37:14.234Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cdrl</loc>
-    <lastmod>2024-05-30T20:09:24.928Z</lastmod>
+    <loc>https://www.govcon.com/tags/cd</loc>
+    <lastmod>2024-05-30T18:37:14.225Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2144,22 +2137,29 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/certifications</loc>
-    <lastmod>2024-05-30T20:09:24.362Z</lastmod>
+    <loc>https://www.govcon.com/tags/certification</loc>
+    <lastmod>2024-05-30T20:20:44.721Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/certification</loc>
-    <lastmod>2024-05-30T20:09:27.863Z</lastmod>
+    <loc>https://www.govcon.com/tags/cdrl</loc>
+    <lastmod>2024-05-30T20:20:41.711Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/certifications</loc>
+    <lastmod>2024-05-30T20:20:41.237Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cfl-arbor-care</loc>
-    <lastmod>2024-05-30T20:09:26.620Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.622Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2179,6 +2179,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/chemical-analysis</loc>
+    <lastmod>2024-05-30T18:37:14.236Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/chameleons</loc>
     <lastmod>2024-05-30T18:37:14.236Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2187,14 +2194,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/checklist</loc>
-    <lastmod>2024-05-30T20:09:22.497Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/chemical-analysis</loc>
-    <lastmod>2024-05-30T18:37:14.236Z</lastmod>
+    <lastmod>2024-05-30T20:20:37.294Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2207,8 +2207,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/chromatophores</loc>
-    <lastmod>2024-05-30T18:37:14.241Z</lastmod>
+    <loc>https://www.govcon.com/tags/chlorophyll</loc>
+    <lastmod>2024-05-30T18:37:14.238Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2221,15 +2221,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/chlorophyll</loc>
-    <lastmod>2024-05-30T18:37:14.238Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/chronic-conditions</loc>
-    <lastmod>2024-05-30T18:37:14.243Z</lastmod>
+    <loc>https://www.govcon.com/tags/chromatophores</loc>
+    <lastmod>2024-05-30T18:37:14.241Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2237,6 +2230,13 @@
   <url>
     <loc>https://www.govcon.com/tags/circular-economy</loc>
     <lastmod>2024-05-30T18:37:14.244Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/chronic-conditions</loc>
+    <lastmod>2024-05-30T18:37:14.243Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2263,6 +2263,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/cloud-computing</loc>
+    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/cloud-based-platform</loc>
     <lastmod>2024-05-30T18:37:14.250Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2277,8 +2284,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cloud-computing</loc>
-    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
+    <loc>https://www.govcon.com/tags/cmmc</loc>
+    <lastmod>2024-05-30T20:20:43.061Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2291,15 +2298,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cmmc</loc>
-    <lastmod>2024-05-30T20:09:25.708Z</lastmod>
+    <loc>https://www.govcon.com/tags/code</loc>
+    <lastmod>2024-05-30T18:37:14.274Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/code</loc>
-    <lastmod>2024-05-30T18:37:14.274Z</lastmod>
+    <loc>https://www.govcon.com/tags/codegeneration</loc>
+    <lastmod>2024-05-30T18:37:14.250Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2319,20 +2326,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/codegeneration</loc>
-    <lastmod>2024-05-30T18:37:14.250Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/cognitive-enhancement</loc>
-    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/cold</loc>
     <lastmod>2024-05-30T18:37:14.259Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2340,8 +2333,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/college</loc>
-    <lastmod>2024-05-30T18:37:14.259Z</lastmod>
+    <loc>https://www.govcon.com/tags/cognitive-enhancement</loc>
+    <lastmod>2024-05-30T18:37:15.091Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2368,7 +2361,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/college</loc>
+    <lastmod>2024-05-30T18:37:14.259Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/communications</loc>
+    <lastmod>2024-05-30T18:37:14.259Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/community</loc>
     <lastmod>2024-05-30T18:37:14.259Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2377,13 +2384,6 @@
   <url>
     <loc>https://www.govcon.com/tags/community-building</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/community</loc>
-    <lastmod>2024-05-30T18:37:14.259Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2418,14 +2418,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/competitive-strategy</loc>
-    <lastmod>2024-05-30T20:09:22.240Z</lastmod>
+    <lastmod>2024-05-30T20:20:37.311Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/compliance</loc>
-    <lastmod>2024-05-30T20:09:22.240Z</lastmod>
+    <lastmod>2024-05-30T20:20:37.278Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2445,7 +2445,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/computational-physics</loc>
+    <loc>https://www.govcon.com/tags/consciousness</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2459,7 +2459,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/consciousness</loc>
+    <loc>https://www.govcon.com/tags/computational-physics</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2480,14 +2480,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/construction-innovation</loc>
+    <loc>https://www.govcon.com/tags/construction-software</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/construction-software</loc>
+    <loc>https://www.govcon.com/tags/construction-innovation</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2523,49 +2523,49 @@
 
   <url>
     <loc>https://www.govcon.com/tags/continuous-improvement</loc>
-    <lastmod>2024-05-30T20:09:24.336Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.884Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-administration</loc>
-    <lastmod>2024-05-30T20:09:27.840Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-management</loc>
-    <lastmod>2024-05-30T20:09:24.055Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.804Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting</loc>
-    <lastmod>2024-05-30T20:09:20.534Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/contracting-professionals</loc>
-    <lastmod>2024-05-30T20:09:27.855Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.363Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contractors</loc>
-    <lastmod>2024-05-30T20:09:27.552Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.400Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/contracting-professionals</loc>
+    <lastmod>2024-05-30T20:20:44.672Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracts</loc>
-    <lastmod>2024-05-30T20:09:24.020Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.224Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2585,13 +2585,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cosine</loc>
-    <lastmod>2024-05-30T18:37:14.275Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/cosmic-radiation</loc>
     <lastmod>2024-05-30T18:37:14.275Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2599,8 +2592,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cost-accounting</loc>
-    <lastmod>2024-05-30T20:09:28.325Z</lastmod>
+    <loc>https://www.govcon.com/tags/cosine</loc>
+    <lastmod>2024-05-30T18:37:14.275Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2613,15 +2606,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/counterculture</loc>
-    <lastmod>2024-05-30T18:37:14.278Z</lastmod>
+    <loc>https://www.govcon.com/tags/cpsr</loc>
+    <lastmod>2024-05-30T20:20:42.211Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cpsr</loc>
-    <lastmod>2024-05-30T20:09:25.060Z</lastmod>
+    <loc>https://www.govcon.com/tags/cost-accounting</loc>
+    <lastmod>2024-05-30T20:20:45.238Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/counterculture</loc>
+    <lastmod>2024-05-30T18:37:14.278Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2648,6 +2648,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/critical-infrastructure</loc>
+    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/creditcard</loc>
     <lastmod>2024-05-30T18:37:14.305Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2662,15 +2669,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/critical-infrastructure</loc>
+    <loc>https://www.govcon.com/tags/cross-breeding</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cross-breeding</loc>
-    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
+    <loc>https://www.govcon.com/tags/cryptography</loc>
+    <lastmod>2024-05-30T18:37:14.317Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2690,28 +2697,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/cryptography</loc>
-    <lastmod>2024-05-30T18:37:14.317Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/csfc</loc>
-    <lastmod>2024-05-30T18:37:14.318Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/cultural-heritage</loc>
-    <lastmod>2024-05-30T18:37:14.311Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/cyber</loc>
     <lastmod>2024-05-30T18:37:14.318Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2720,6 +2706,13 @@
   <url>
     <loc>https://www.govcon.com/tags/cuquantum</loc>
     <lastmod>2024-05-30T18:37:14.318Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/cultural-heritage</loc>
+    <lastmod>2024-05-30T18:37:14.311Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2739,8 +2732,15 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/cyber</loc>
+    <lastmod>2024-05-30T18:37:14.318Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/cybersecurity</loc>
-    <lastmod>2024-05-30T20:09:21.899Z</lastmod>
+    <lastmod>2024-05-30T20:20:36.628Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2774,15 +2774,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/data-centers</loc>
-    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
+    <loc>https://www.govcon.com/tags/dancing-ghosts</loc>
+    <lastmod>2024-05-30T18:37:14.318Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dancing-ghosts</loc>
-    <lastmod>2024-05-30T18:37:14.318Z</lastmod>
+    <loc>https://www.govcon.com/tags/data-centers</loc>
+    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2802,15 +2802,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/data-management</loc>
-    <lastmod>2024-05-30T20:09:24.741Z</lastmod>
+    <loc>https://www.govcon.com/tags/data-protection</loc>
+    <lastmod>2024-05-30T20:20:36.645Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/data-protection</loc>
-    <lastmod>2024-05-30T20:09:22.074Z</lastmod>
+    <loc>https://www.govcon.com/tags/data-management</loc>
+    <lastmod>2024-05-30T20:20:41.694Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2831,7 +2831,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/data-systems</loc>
-    <lastmod>2024-05-30T20:09:25.529Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.999Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2880,14 +2880,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/dcaa</loc>
-    <lastmod>2024-05-30T20:09:25.074Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.181Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/dcma</loc>
-    <lastmod>2024-05-30T20:09:25.311Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.474Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2907,15 +2907,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/decision-making</loc>
-    <lastmod>2024-05-30T20:09:27.871Z</lastmod>
+    <loc>https://www.govcon.com/tags/defense</loc>
+    <lastmod>2024-05-30T20:20:42.452Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/density</loc>
-    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
+    <loc>https://www.govcon.com/tags/decision-making</loc>
+    <lastmod>2024-05-30T20:20:44.691Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2928,8 +2928,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/defense</loc>
-    <lastmod>2024-05-30T20:09:25.280Z</lastmod>
+    <loc>https://www.govcon.com/tags/density</loc>
+    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2942,14 +2942,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dermatology</loc>
+    <loc>https://www.govcon.com/tags/descent-phase</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/descent-phase</loc>
+    <loc>https://www.govcon.com/tags/dermatology</loc>
     <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2977,22 +2977,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/devops</loc>
-    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
+    <loc>https://www.govcon.com/tags/dialogue</loc>
+    <lastmod>2024-05-30T18:37:14.381Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/diamondback-flooring</loc>
-    <lastmod>2024-05-30T20:09:27.023Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.806Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dialogue</loc>
-    <lastmod>2024-05-30T18:37:14.381Z</lastmod>
+    <loc>https://www.govcon.com/tags/devops</loc>
+    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3012,15 +3012,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/digital-storage</loc>
-    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
+    <loc>https://www.govcon.com/tags/digital-communication</loc>
+    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/digital-communication</loc>
-    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
+    <loc>https://www.govcon.com/tags/digital-storage</loc>
+    <lastmod>2024-05-30T18:37:14.319Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3047,13 +3047,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/divination</loc>
-    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/diversity</loc>
     <lastmod>2024-05-30T18:37:14.319Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3068,8 +3061,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dmt</loc>
-    <lastmod>2024-05-30T18:37:14.320Z</lastmod>
+    <loc>https://www.govcon.com/tags/divination</loc>
+    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3082,7 +3075,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dna-sequencing</loc>
+    <loc>https://www.govcon.com/tags/documentation</loc>
+    <lastmod>2024-05-30T18:37:14.320Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/dmt</loc>
     <lastmod>2024-05-30T18:37:14.320Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3096,14 +3096,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/dogs</loc>
+    <loc>https://www.govcon.com/tags/dna-sequencing</loc>
     <lastmod>2024-05-30T18:37:14.320Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/documentation</loc>
+    <loc>https://www.govcon.com/tags/dogs</loc>
     <lastmod>2024-05-30T18:37:14.320Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3124,22 +3124,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/double-slit-experiment</loc>
-    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/don-juan-matus</loc>
     <lastmod>2024-05-30T07:28:09.586Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/dreams</loc>
-    <lastmod>2024-05-30T18:37:14.330Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3152,8 +3138,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/drug-discovery</loc>
-    <lastmod>2024-05-30T18:37:14.336Z</lastmod>
+    <loc>https://www.govcon.com/tags/double-slit-experiment</loc>
+    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/dreams</loc>
+    <lastmod>2024-05-30T18:37:14.330Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3161,6 +3154,13 @@
   <url>
     <loc>https://www.govcon.com/tags/drones</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/drug-discovery</loc>
+    <lastmod>2024-05-30T18:37:14.336Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3174,7 +3174,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/e-verify</loc>
-    <lastmod>2024-05-30T20:09:22.218Z</lastmod>
+    <lastmod>2024-05-30T20:20:36.643Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/earth</loc>
+    <lastmod>2024-05-30T18:37:14.339Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/eco-friendly-construction</loc>
+    <lastmod>2024-05-30T18:37:14.346Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3188,14 +3202,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ebuy</loc>
-    <lastmod>2024-05-30T20:09:28.839Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/earth</loc>
-    <lastmod>2024-05-30T18:37:14.339Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.855Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3215,8 +3222,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/eco-friendly-construction</loc>
-    <lastmod>2024-05-30T18:37:14.346Z</lastmod>
+    <loc>https://www.govcon.com/tags/education</loc>
+    <lastmod>2024-05-30T18:37:14.347Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3229,15 +3236,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/education</loc>
+    <loc>https://www.govcon.com/tags/electric-cars</loc>
     <lastmod>2024-05-30T18:37:14.347Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/electric-cars</loc>
-    <lastmod>2024-05-30T18:37:14.347Z</lastmod>
+    <loc>https://www.govcon.com/tags/electricity</loc>
+    <lastmod>2024-05-30T18:37:14.349Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3257,7 +3264,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/electricity</loc>
+    <loc>https://www.govcon.com/tags/electromagnetic-field-therapy</loc>
     <lastmod>2024-05-30T18:37:14.349Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3266,13 +3273,6 @@
   <url>
     <loc>https://www.govcon.com/tags/electrictiy</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/electromagnetic-field-therapy</loc>
-    <lastmod>2024-05-30T18:37:14.349Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3327,13 +3327,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/emerald-tablet</loc>
-    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/emotional-well-being</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3341,15 +3334,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/emotions</loc>
-    <lastmod>2024-05-30T18:37:14.359Z</lastmod>
+    <loc>https://www.govcon.com/tags/emerald-tablet</loc>
+    <lastmod>2024-05-30T18:37:15.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/employee-training</loc>
-    <lastmod>2024-05-30T20:09:28.240Z</lastmod>
+    <loc>https://www.govcon.com/tags/emotions</loc>
+    <lastmod>2024-05-30T18:37:14.359Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3376,6 +3369,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/employee-training</loc>
+    <lastmod>2024-05-30T20:20:45.163Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/energy-efficiency</loc>
     <lastmod>2024-05-30T18:37:14.359Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3383,14 +3383,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/engineering</loc>
+    <loc>https://www.govcon.com/tags/entanglement</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/entanglement</loc>
+    <loc>https://www.govcon.com/tags/engineering</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3411,15 +3411,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/entheogens</loc>
-    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
+    <loc>https://www.govcon.com/tags/entrepreneurship</loc>
+    <lastmod>2024-05-30T20:20:38.360Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/entrepreneurship</loc>
-    <lastmod>2024-05-30T20:09:23.175Z</lastmod>
+    <loc>https://www.govcon.com/tags/entheogens</loc>
+    <lastmod>2024-05-30T18:37:15.059Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3439,6 +3439,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/epoxy-flooring</loc>
+    <lastmod>2024-05-30T20:20:43.639Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/epidemics</loc>
     <lastmod>2024-05-30T18:37:14.359Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3446,8 +3453,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/epoxy-flooring</loc>
-    <lastmod>2024-05-30T20:09:26.993Z</lastmod>
+    <loc>https://www.govcon.com/tags/ergot</loc>
+    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3455,13 +3462,6 @@
   <url>
     <loc>https://www.govcon.com/tags/error-correction</loc>
     <lastmod>2024-05-30T18:37:14.360Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/ergot</loc>
-    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3475,7 +3475,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ethics</loc>
-    <lastmod>2024-05-30T20:09:22.987Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.327Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3488,6 +3488,20 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/evms</loc>
+    <lastmod>2024-05-30T20:20:40.788Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/evm</loc>
+    <lastmod>2024-05-30T20:20:41.162Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/evolution</loc>
     <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3495,15 +3509,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/evm</loc>
-    <lastmod>2024-05-30T20:09:24.388Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/evms</loc>
-    <lastmod>2024-05-30T20:09:24.305Z</lastmod>
+    <loc>https://www.govcon.com/tags/export-control</loc>
+    <lastmod>2024-05-30T20:20:38.053Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3516,22 +3523,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/export-control</loc>
-    <lastmod>2024-05-30T20:09:22.893Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/factoring</loc>
     <lastmod>2024-05-30T18:37:15.059Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/faith</loc>
-    <lastmod>2024-05-30T18:37:14.360Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3544,15 +3537,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fasa</loc>
-    <lastmod>2024-05-30T20:09:28.061Z</lastmod>
+    <loc>https://www.govcon.com/tags/faith</loc>
+    <lastmod>2024-05-30T18:37:14.360Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fbo</loc>
-    <lastmod>2024-05-30T20:09:28.527Z</lastmod>
+    <loc>https://www.govcon.com/tags/fasa</loc>
+    <lastmod>2024-05-30T20:20:44.788Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3565,8 +3558,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/federal-acquisition</loc>
-    <lastmod>2024-05-30T20:09:27.874Z</lastmod>
+    <loc>https://www.govcon.com/tags/fbo</loc>
+    <lastmod>2024-05-30T20:20:45.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3580,35 +3573,42 @@
 
   <url>
     <loc>https://www.govcon.com/tags/federal-acquisition-regulation</loc>
-    <lastmod>2024-05-30T20:09:28.465Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.564Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/federal-contractors</loc>
-    <lastmod>2024-05-30T20:09:28.053Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/federal-contracts</loc>
-    <lastmod>2024-05-30T20:09:25.280Z</lastmod>
+    <loc>https://www.govcon.com/tags/federal-acquisition</loc>
+    <lastmod>2024-05-30T20:20:44.691Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-budget</loc>
-    <lastmod>2024-05-30T20:09:25.296Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.686Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/federal-contractors</loc>
+    <lastmod>2024-05-30T20:20:44.962Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-procurement</loc>
-    <lastmod>2024-05-30T20:09:25.451Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.946Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/federal-contracts</loc>
+    <lastmod>2024-05-30T20:20:42.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3622,14 +3622,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/finance</loc>
-    <lastmod>2024-05-30T20:09:23.116Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/financing</loc>
-    <lastmod>2024-05-30T20:09:28.322Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.343Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3642,8 +3635,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/financing</loc>
+    <lastmod>2024-05-30T20:20:45.204Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/fire-prevention</loc>
     <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/fish</loc>
+    <lastmod>2024-05-30T18:37:14.364Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3663,15 +3670,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fish</loc>
-    <lastmod>2024-05-30T18:37:14.364Z</lastmod>
+    <loc>https://www.govcon.com/tags/flipper-zero</loc>
+    <lastmod>2024-05-30T18:37:14.378Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/fisma</loc>
-    <lastmod>2024-05-30T20:09:28.084Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.921Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3686,20 +3693,6 @@
   <url>
     <loc>https://www.govcon.com/tags/flight</loc>
     <lastmod>2024-05-30T18:37:15.044Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/flipper-zero</loc>
-    <lastmod>2024-05-30T18:37:14.378Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/florida-sprinkler--light</loc>
-    <lastmod>2024-05-30T20:09:27.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3726,8 +3719,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/forensics</loc>
-    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <loc>https://www.govcon.com/tags/florida-sprinkler--light</loc>
+    <lastmod>2024-05-30T20:20:43.964Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3735,6 +3728,20 @@
   <url>
     <loc>https://www.govcon.com/tags/food-transportation</loc>
     <lastmod>2024-05-30T18:37:14.378Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/forensics</loc>
+    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/fraud-detection</loc>
+    <lastmod>2024-05-30T18:37:14.383Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3754,7 +3761,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fraud-detection</loc>
+    <loc>https://www.govcon.com/tags/front-end</loc>
     <lastmod>2024-05-30T18:37:14.383Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3763,13 +3770,6 @@
   <url>
     <loc>https://www.govcon.com/tags/friction</loc>
     <lastmod>2024-05-30T18:37:14.381Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/front-end</loc>
-    <lastmod>2024-05-30T18:37:14.383Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3789,15 +3789,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fun-with-science</loc>
-    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
+    <loc>https://www.govcon.com/tags/fullstack</loc>
+    <lastmod>2024-05-30T18:37:14.394Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/fullstack</loc>
-    <lastmod>2024-05-30T18:37:14.394Z</lastmod>
+    <loc>https://www.govcon.com/tags/fun-with-science</loc>
+    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3846,7 +3846,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/garage-transformation</loc>
-    <lastmod>2024-05-30T20:09:27.021Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.756Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3873,15 +3873,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/geckos</loc>
-    <lastmod>2024-05-30T18:37:14.389Z</lastmod>
+    <loc>https://www.govcon.com/tags/gcp</loc>
+    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/gcp</loc>
-    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <loc>https://www.govcon.com/tags/geckos</loc>
+    <lastmod>2024-05-30T18:37:14.389Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3901,15 +3901,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/gift-etiquette</loc>
-    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <loc>https://www.govcon.com/tags/geospatial-solutions</loc>
+    <lastmod>2024-05-30T18:37:14.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/geospatial-solutions</loc>
-    <lastmod>2024-05-30T18:37:14.388Z</lastmod>
+    <loc>https://www.govcon.com/tags/gift-etiquette</loc>
+    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3937,13 +3937,20 @@
 
   <url>
     <loc>https://www.govcon.com/tags/global-trade</loc>
-    <lastmod>2024-05-30T20:09:25.233Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.246Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/global-warming</loc>
+    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/glow</loc>
     <lastmod>2024-05-30T18:37:15.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3957,8 +3964,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/glow</loc>
-    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
+    <loc>https://www.govcon.com/tags/go</loc>
+    <lastmod>2024-05-30T18:37:14.390Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3971,21 +3978,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/go</loc>
-    <lastmod>2024-05-30T18:37:14.390Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/golf-cart-transportation</loc>
-    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/google</loc>
     <lastmod>2024-05-30T18:37:15.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3994,6 +3987,13 @@
   <url>
     <loc>https://www.govcon.com/tags/gonzo-journalism</loc>
     <lastmod>2024-05-30T18:37:14.392Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/google</loc>
+    <lastmod>2024-05-30T18:37:15.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4020,29 +4020,29 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/government-contract</loc>
-    <lastmod>2024-05-30T20:09:25.544Z</lastmod>
+    <loc>https://www.govcon.com/tags/government</loc>
+    <lastmod>2024-05-30T20:20:36.645Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/government</loc>
-    <lastmod>2024-05-30T20:09:21.892Z</lastmod>
+    <loc>https://www.govcon.com/tags/government-contract</loc>
+    <lastmod>2024-05-30T20:20:42.986Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-contracting</loc>
-    <lastmod>2024-05-30T20:09:21.554Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-contracts</loc>
-    <lastmod>2024-05-30T20:09:21.487Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.695Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4055,57 +4055,43 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/government-marketing</loc>
-    <lastmod>2024-05-30T20:09:24.703Z</lastmod>
+    <loc>https://www.govcon.com/tags/government-procurement</loc>
+    <lastmod>2024-05-30T20:20:38.995Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/government-procurement</loc>
-    <lastmod>2024-05-30T20:09:23.370Z</lastmod>
+    <loc>https://www.govcon.com/tags/government-marketing</loc>
+    <lastmod>2024-05-30T20:20:41.713Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-projects</loc>
-    <lastmod>2024-05-30T20:09:22.823Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/government-sales</loc>
-    <lastmod>2024-05-30T20:09:23.284Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.037Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-shutdown</loc>
-    <lastmod>2024-05-30T20:09:27.604Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.422Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/government-sales</loc>
+    <lastmod>2024-05-30T20:20:38.954Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/governmentcontracting</loc>
-    <lastmod>2024-05-30T20:09:23.215Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/govwin-iq</loc>
-    <lastmod>2024-05-30T20:09:24.038Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/gpt</loc>
-    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.443Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4118,8 +4104,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/govwin-iq</loc>
+    <lastmod>2024-05-30T20:20:40.767Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/gpu-technology</loc>
     <lastmod>2024-05-30T18:37:15.012Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/gpt</loc>
+    <lastmod>2024-05-30T18:37:15.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4132,22 +4132,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/gratitude</loc>
-    <lastmod>2024-05-30T18:37:14.395Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/green-architecture</loc>
-    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/gravity</loc>
     <lastmod>2024-05-30T18:37:15.012Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/gratitude</loc>
+    <lastmod>2024-05-30T18:37:14.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4167,14 +4160,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/green-living</loc>
+    <loc>https://www.govcon.com/tags/green-architecture</loc>
     <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/greenlights</loc>
+    <loc>https://www.govcon.com/tags/green-living</loc>
     <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4188,22 +4181,29 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/greenlights</loc>
+    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/growth-strategies</loc>
-    <lastmod>2024-05-30T20:09:24.653Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.719Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/gsa</loc>
-    <lastmod>2024-05-30T20:09:28.761Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.872Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/gsa-advantage</loc>
-    <lastmod>2024-05-30T20:09:24.703Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.685Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4223,21 +4223,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/gut-health</loc>
-    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/hacking</loc>
-    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/hashicorp</loc>
     <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4251,14 +4237,21 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/healing</loc>
+    <loc>https://www.govcon.com/tags/gut-health</loc>
     <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/healing-technologies</loc>
+    <loc>https://www.govcon.com/tags/hashicorp</loc>
+    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/healing</loc>
     <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4272,8 +4265,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/health-benefits</loc>
-    <lastmod>2024-05-30T18:37:14.398Z</lastmod>
+    <loc>https://www.govcon.com/tags/healing-technologies</loc>
+    <lastmod>2024-05-30T18:37:14.997Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4281,6 +4274,13 @@
   <url>
     <loc>https://www.govcon.com/tags/healthcare</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/health-benefits</loc>
+    <lastmod>2024-05-30T18:37:14.398Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4314,7 +4314,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/herbalism</loc>
+    <loc>https://www.govcon.com/tags/herbicides</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4328,7 +4328,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/herbicides</loc>
+    <loc>https://www.govcon.com/tags/herbalism</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4356,15 +4356,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/high-school-experiences</loc>
-    <lastmod>2024-05-30T18:37:14.399Z</lastmod>
+    <loc>https://www.govcon.com/tags/history</loc>
+    <lastmod>2024-05-30T18:37:14.400Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/history</loc>
-    <lastmod>2024-05-30T18:37:14.400Z</lastmod>
+    <loc>https://www.govcon.com/tags/high-school-experiences</loc>
+    <lastmod>2024-05-30T18:37:14.399Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4377,8 +4377,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/home-automation</loc>
-    <lastmod>2024-05-30T18:37:14.404Z</lastmod>
+    <loc>https://www.govcon.com/tags/home-gardening</loc>
+    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4391,21 +4391,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/home-gardening</loc>
-    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/home-improvement</loc>
+    <loc>https://www.govcon.com/tags/home-automation</loc>
     <lastmod>2024-05-30T18:37:14.404Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/home-ownership</loc>
+    <loc>https://www.govcon.com/tags/home-improvement</loc>
     <lastmod>2024-05-30T18:37:14.404Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4419,14 +4412,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/honeywell-quantum-solutions</loc>
-    <lastmod>2024-05-30T18:37:14.405Z</lastmod>
+    <loc>https://www.govcon.com/tags/home-ownership</loc>
+    <lastmod>2024-05-30T18:37:14.404Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/hosting</loc>
+    <loc>https://www.govcon.com/tags/honeywell-quantum-solutions</loc>
     <lastmod>2024-05-30T18:37:14.405Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4435,6 +4428,13 @@
   <url>
     <loc>https://www.govcon.com/tags/horticulture</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/hosting</loc>
+    <lastmod>2024-05-30T18:37:14.405Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4475,13 +4475,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/humor</loc>
-    <lastmod>2024-05-30T18:37:14.407Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/hunger-epidemic</loc>
     <lastmod>2024-05-30T18:37:14.407Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4489,8 +4482,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/hunter-s-thompson</loc>
-    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <loc>https://www.govcon.com/tags/humor</loc>
+    <lastmod>2024-05-30T18:37:14.407Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4503,7 +4496,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/hybrid-quantum-classical-algorithms</loc>
+    <loc>https://www.govcon.com/tags/hunter-s-thompson</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4517,7 +4510,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/hypnosis</loc>
+    <loc>https://www.govcon.com/tags/hybrid-quantum-classical-algorithms</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4526,6 +4519,13 @@
   <url>
     <loc>https://www.govcon.com/tags/ibm</loc>
     <lastmod>2024-05-30T18:37:14.411Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/hypnosis</loc>
+    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4566,6 +4566,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/idols</loc>
+    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/identity-management</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4574,14 +4581,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/idiq</loc>
-    <lastmod>2024-05-30T20:09:25.060Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/idols</loc>
-    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.235Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4594,14 +4594,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/immunology</loc>
+    <loc>https://www.govcon.com/tags/image-sensors</loc>
     <lastmod>2024-05-30T18:37:14.416Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/image-sensors</loc>
+    <loc>https://www.govcon.com/tags/immunology</loc>
     <lastmod>2024-05-30T18:37:14.416Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4616,14 +4616,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/indirect-costs</loc>
-    <lastmod>2024-05-30T20:09:28.434Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/individualism</loc>
-    <lastmod>2024-05-30T18:37:14.421Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.622Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4631,6 +4624,13 @@
   <url>
     <loc>https://www.govcon.com/tags/inertial-measurement</loc>
     <lastmod>2024-05-30T18:37:14.454Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/individualism</loc>
+    <lastmod>2024-05-30T18:37:14.421Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4658,7 +4658,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/innovation</loc>
-    <lastmod>2024-05-30T20:09:21.835Z</lastmod>
+    <lastmod>2024-05-30T20:20:36.578Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4671,15 +4671,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/insects</loc>
-    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <loc>https://www.govcon.com/tags/innovative-solutions</loc>
+    <lastmod>2024-05-30T18:37:14.979Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/innovative-solutions</loc>
-    <lastmod>2024-05-30T18:37:14.979Z</lastmod>
+    <loc>https://www.govcon.com/tags/insects</loc>
+    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4700,7 +4700,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/integrity</loc>
-    <lastmod>2024-05-30T20:09:23.102Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.342Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4727,15 +4727,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/internet-of-things</loc>
-    <lastmod>2024-05-30T18:37:14.425Z</lastmod>
+    <loc>https://www.govcon.com/tags/interoperability</loc>
+    <lastmod>2024-05-30T18:37:14.424Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/interoperability</loc>
-    <lastmod>2024-05-30T18:37:14.424Z</lastmod>
+    <loc>https://www.govcon.com/tags/internet-of-things</loc>
+    <lastmod>2024-05-30T18:37:14.425Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4755,15 +4755,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/invisible-ink</loc>
-    <lastmod>2024-05-30T18:37:14.426Z</lastmod>
+    <loc>https://www.govcon.com/tags/invoicing</loc>
+    <lastmod>2024-05-30T20:20:44.963Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/invoicing</loc>
-    <lastmod>2024-05-30T20:09:28.099Z</lastmod>
+    <loc>https://www.govcon.com/tags/invisible-ink</loc>
+    <lastmod>2024-05-30T18:37:14.426Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4804,6 +4804,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/irrigation</loc>
+    <lastmod>2024-05-30T20:20:43.793Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/iphone</loc>
     <lastmod>2024-05-30T18:37:14.430Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4818,8 +4825,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/irrigation</loc>
-    <lastmod>2024-05-30T20:09:26.991Z</lastmod>
+    <loc>https://www.govcon.com/tags/itar</loc>
+    <lastmod>2024-05-30T20:20:42.706Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4827,13 +4834,6 @@
   <url>
     <loc>https://www.govcon.com/tags/javascript</loc>
     <lastmod>2024-05-30T18:37:14.432Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/itar</loc>
-    <lastmod>2024-05-30T20:09:25.280Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4847,7 +4847,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/joint-ventures</loc>
-    <lastmod>2024-05-30T20:09:27.875Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.622Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4860,15 +4860,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/kids-science</loc>
-    <lastmod>2024-05-30T18:37:14.979Z</lastmod>
+    <loc>https://www.govcon.com/tags/kernels</loc>
+    <lastmod>2024-05-30T18:37:14.433Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/kernels</loc>
-    <lastmod>2024-05-30T18:37:14.433Z</lastmod>
+    <loc>https://www.govcon.com/tags/kids-science</loc>
+    <lastmod>2024-05-30T18:37:14.979Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4888,13 +4888,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/kubernetes</loc>
-    <lastmod>2024-05-30T18:37:14.434Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/kundalini</loc>
     <lastmod>2024-05-30T18:37:14.965Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4902,8 +4895,15 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/kubernetes</loc>
+    <lastmod>2024-05-30T18:37:14.434Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/labor-compliance</loc>
-    <lastmod>2024-05-30T20:09:24.369Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.209Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4917,7 +4917,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/landscape-care</loc>
-    <lastmod>2024-05-30T20:09:27.246Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.989Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4951,13 +4951,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/launch-vehicles</loc>
-    <lastmod>2024-05-30T18:37:14.965Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/lava-lamp</loc>
     <lastmod>2024-05-30T18:37:14.436Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4972,15 +4965,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/learning-resources</loc>
-    <lastmod>2024-05-30T18:37:14.438Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/leaves</loc>
-    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <loc>https://www.govcon.com/tags/launch-vehicles</loc>
+    <lastmod>2024-05-30T18:37:14.965Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4993,22 +4979,36 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/learning-resources</loc>
+    <lastmod>2024-05-30T18:37:14.438Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/legal</loc>
-    <lastmod>2024-05-30T20:09:25.466Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.902Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/leaves</loc>
+    <lastmod>2024-05-30T18:37:14.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/legal-process</loc>
-    <lastmod>2024-05-30T20:09:21.214Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.662Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/legaltech</loc>
-    <lastmod>2024-05-30T20:09:26.604Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.336Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5022,6 +5022,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/lichens</loc>
+    <lastmod>2024-05-30T18:37:14.441Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/lidar</loc>
     <lastmod>2024-05-30T18:37:14.441Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5042,21 +5049,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/lidar</loc>
-    <lastmod>2024-05-30T18:37:14.441Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/life-sciences</loc>
-    <lastmod>2024-05-30T18:37:14.950Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/lift</loc>
     <lastmod>2024-05-30T18:37:14.950Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5077,15 +5070,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/lighting</loc>
-    <lastmod>2024-05-30T20:09:26.993Z</lastmod>
+    <loc>https://www.govcon.com/tags/lift</loc>
+    <lastmod>2024-05-30T18:37:14.950Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/linearalgebra</loc>
-    <lastmod>2024-05-30T18:37:14.444Z</lastmod>
+    <loc>https://www.govcon.com/tags/lighting</loc>
+    <lastmod>2024-05-30T20:20:43.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5093,6 +5086,13 @@
   <url>
     <loc>https://www.govcon.com/tags/linkedin</loc>
     <lastmod>2024-05-30T18:37:14.981Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/linearalgebra</loc>
+    <lastmod>2024-05-30T18:37:14.444Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5175,15 +5175,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/machinelearning</loc>
-    <lastmod>2024-05-30T18:37:14.950Z</lastmod>
+    <loc>https://www.govcon.com/tags/magic-mushrooms</loc>
+    <lastmod>2024-05-30T18:37:14.448Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/magic-mushrooms</loc>
-    <lastmod>2024-05-30T18:37:14.448Z</lastmod>
+    <loc>https://www.govcon.com/tags/machinelearning</loc>
+    <lastmod>2024-05-30T18:37:14.950Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5203,14 +5203,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/magnets</loc>
+    <loc>https://www.govcon.com/tags/mandela-effect</loc>
     <lastmod>2024-05-30T18:37:14.950Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mandela-effect</loc>
+    <loc>https://www.govcon.com/tags/magnets</loc>
     <lastmod>2024-05-30T18:37:14.950Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5231,13 +5231,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/maois</loc>
-    <lastmod>2024-05-30T18:37:14.447Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/marine-biology</loc>
     <lastmod>2024-05-30T18:37:14.451Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5245,8 +5238,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mark-zuckerberg</loc>
-    <lastmod>2024-05-30T18:37:14.449Z</lastmod>
+    <loc>https://www.govcon.com/tags/maois</loc>
+    <lastmod>2024-05-30T18:37:14.447Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5254,6 +5247,13 @@
   <url>
     <loc>https://www.govcon.com/tags/marine-life</loc>
     <lastmod>2024-05-30T18:37:14.447Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/mark-zuckerberg</loc>
+    <lastmod>2024-05-30T18:37:14.449Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5267,35 +5267,42 @@
 
   <url>
     <loc>https://www.govcon.com/tags/market-diversification</loc>
-    <lastmod>2024-05-30T20:09:28.629Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/marketing</loc>
-    <lastmod>2024-05-30T20:09:28.619Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/market-research</loc>
-    <lastmod>2024-05-30T20:09:24.741Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.601Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/market-intelligence</loc>
-    <lastmod>2024-05-30T20:09:24.009Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.790Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/marketing</loc>
+    <lastmod>2024-05-30T20:20:45.585Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/market-research</loc>
+    <lastmod>2024-05-30T20:20:41.715Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/marketing-strategy</loc>
-    <lastmod>2024-05-30T20:09:22.649Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.010Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/mars-exploration</loc>
+    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5315,28 +5322,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mars-exploration</loc>
-    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/materials</loc>
-    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/mastery</loc>
-    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/math</loc>
     <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5350,7 +5336,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mathematics</loc>
+    <loc>https://www.govcon.com/tags/materials</loc>
     <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5364,8 +5350,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mediation</loc>
-    <lastmod>2024-05-30T18:37:14.455Z</lastmod>
+    <loc>https://www.govcon.com/tags/math</loc>
+    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/mathematics</loc>
+    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5378,7 +5371,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/mediation</loc>
+    <lastmod>2024-05-30T18:37:14.455Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/medical-technology</loc>
+    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/meditation</loc>
     <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5387,13 +5394,6 @@
   <url>
     <loc>https://www.govcon.com/tags/memoir</loc>
     <lastmod>2024-05-30T18:37:14.457Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/meditation</loc>
-    <lastmod>2024-05-30T18:37:14.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5420,15 +5420,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mentorship</loc>
-    <lastmod>2024-05-30T20:09:25.233Z</lastmod>
+    <loc>https://www.govcon.com/tags/mental-wellness</loc>
+    <lastmod>2024-05-30T18:37:14.459Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mental-wellness</loc>
-    <lastmod>2024-05-30T18:37:14.459Z</lastmod>
+    <loc>https://www.govcon.com/tags/mentorship</loc>
+    <lastmod>2024-05-30T20:20:42.190Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5462,6 +5462,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/method-of-loci</loc>
+    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/methods</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5471,13 +5478,6 @@
   <url>
     <loc>https://www.govcon.com/tags/michio-kaku</loc>
     <lastmod>2024-05-30T07:28:09.253Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/method-of-loci</loc>
-    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5518,21 +5518,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mind-body-connection</loc>
-    <lastmod>2024-05-30T18:37:14.466Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/migration</loc>
-    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/mindfulness</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5546,8 +5532,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mobile-app</loc>
-    <lastmod>2024-05-30T18:37:14.468Z</lastmod>
+    <loc>https://www.govcon.com/tags/mind-body-connection</loc>
+    <lastmod>2024-05-30T18:37:14.466Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/mindfulness</loc>
+    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5560,7 +5553,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/model-checking</loc>
+    <loc>https://www.govcon.com/tags/mobile-app</loc>
+    <lastmod>2024-05-30T18:37:14.468Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/molecular-simulation</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5574,7 +5574,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/molecular-simulation</loc>
+    <loc>https://www.govcon.com/tags/model-checking</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5658,15 +5658,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mushrooms</loc>
-    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
+    <loc>https://www.govcon.com/tags/music</loc>
+    <lastmod>2024-05-30T18:37:14.495Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/music</loc>
-    <lastmod>2024-05-30T18:37:14.495Z</lastmod>
+    <loc>https://www.govcon.com/tags/mushrooms</loc>
+    <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5693,14 +5693,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/n-acetylcysteine</loc>
+    <loc>https://www.govcon.com/tags/mysticism</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/mysticism</loc>
+    <loc>https://www.govcon.com/tags/n-acetylcysteine</loc>
     <lastmod>2024-05-30T18:37:14.918Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5721,14 +5721,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/natural-language-processing</loc>
+    <loc>https://www.govcon.com/tags/natural-healing</loc>
     <lastmod>2024-05-30T18:37:14.903Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/natural-healing</loc>
+    <loc>https://www.govcon.com/tags/natural-language-processing</loc>
     <lastmod>2024-05-30T18:37:14.903Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5756,15 +5756,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/navigation</loc>
-    <lastmod>2024-05-30T18:37:14.903Z</lastmod>
+    <loc>https://www.govcon.com/tags/ndaa</loc>
+    <lastmod>2024-05-30T20:20:44.965Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ndaa</loc>
-    <lastmod>2024-05-30T20:09:28.099Z</lastmod>
+    <loc>https://www.govcon.com/tags/navigation</loc>
+    <lastmod>2024-05-30T18:37:14.903Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5777,13 +5777,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/networking</loc>
-    <lastmod>2024-05-30T20:09:21.554Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/network</loc>
     <lastmod>2024-05-30T18:37:14.903Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5791,7 +5784,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/networking</loc>
+    <lastmod>2024-05-30T20:20:35.778Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/neural-networks</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/neuropharmacology</loc>
     <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5812,13 +5819,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/neuropharmacology</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/neurotransmitters</loc>
     <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5833,15 +5833,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/nightlife</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
+    <loc>https://www.govcon.com/tags/nextjs</loc>
+    <lastmod>2024-05-30T18:37:14.903Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/nextjs</loc>
-    <lastmod>2024-05-30T18:37:14.903Z</lastmod>
+    <loc>https://www.govcon.com/tags/nightlife</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5861,13 +5861,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/nomad</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/node</loc>
     <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5876,6 +5869,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/non-newtonian-fluids</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/nomad</loc>
     <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5910,13 +5910,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/observer-effect</loc>
-    <lastmod>2024-05-30T18:37:14.527Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/occultism</loc>
     <lastmod>2024-05-30T18:37:14.559Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5924,8 +5917,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/observer-effect</loc>
+    <lastmod>2024-05-30T18:37:14.527Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/ocean</loc>
     <lastmod>2024-05-30T18:37:14.551Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/online-courses</loc>
+    <lastmod>2024-05-30T18:37:14.502Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -5945,13 +5952,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/online-courses</loc>
-    <lastmod>2024-05-30T18:37:14.502Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/open-source</loc>
     <lastmod>2024-05-30T18:37:14.515Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -5966,15 +5966,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/optimal-performance</loc>
-    <lastmod>2024-05-30T18:37:14.514Z</lastmod>
+    <loc>https://www.govcon.com/tags/optics</loc>
+    <lastmod>2024-05-30T18:37:14.515Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/optics</loc>
-    <lastmod>2024-05-30T18:37:14.515Z</lastmod>
+    <loc>https://www.govcon.com/tags/optimal-performance</loc>
+    <lastmod>2024-05-30T18:37:14.514Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6008,14 +6008,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/orbital-transportation</loc>
+    <loc>https://www.govcon.com/tags/orchestration</loc>
     <lastmod>2024-05-30T18:37:14.527Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/orchestration</loc>
+    <loc>https://www.govcon.com/tags/orbital-transportation</loc>
     <lastmod>2024-05-30T18:37:14.527Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6029,15 +6029,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/outdoor-living</loc>
-    <lastmod>2024-05-30T20:09:26.577Z</lastmod>
+    <loc>https://www.govcon.com/tags/overview</loc>
+    <lastmod>2024-05-30T18:37:14.538Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/overview</loc>
-    <lastmod>2024-05-30T18:37:14.538Z</lastmod>
+    <loc>https://www.govcon.com/tags/outdoor-living</loc>
+    <lastmod>2024-05-30T20:20:43.473Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6057,13 +6057,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/packer</loc>
-    <lastmod>2024-05-30T18:37:14.543Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/pain-management</loc>
     <lastmod>2024-05-30T18:37:14.543Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6071,7 +6064,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/parsing</loc>
+    <loc>https://www.govcon.com/tags/packer</loc>
     <lastmod>2024-05-30T18:37:14.543Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6085,7 +6078,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/particle-physics</loc>
+    <loc>https://www.govcon.com/tags/parsing</loc>
     <lastmod>2024-05-30T18:37:14.543Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6093,6 +6086,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/paulo-coelho</loc>
+    <lastmod>2024-05-30T18:37:14.543Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/particle-physics</loc>
     <lastmod>2024-05-30T18:37:14.543Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6113,8 +6113,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/penetrationtesting</loc>
-    <lastmod>2024-05-30T18:37:14.543Z</lastmod>
+    <loc>https://www.govcon.com/tags/perception</loc>
+    <lastmod>2024-05-30T18:37:14.550Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6127,22 +6127,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/perception</loc>
-    <lastmod>2024-05-30T18:37:14.550Z</lastmod>
+    <loc>https://www.govcon.com/tags/penetrationtesting</loc>
+    <lastmod>2024-05-30T18:37:14.543Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/performance</loc>
-    <lastmod>2024-05-30T20:09:26.289Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.293Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/performance-management</loc>
-    <lastmod>2024-05-30T20:09:28.823Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.855Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6190,15 +6190,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/pharmaceutical-industry</loc>
-    <lastmod>2024-05-30T18:37:14.553Z</lastmod>
+    <loc>https://www.govcon.com/tags/pharmaceuticals</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/pharmaceuticals</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
+    <loc>https://www.govcon.com/tags/pharmaceutical-industry</loc>
+    <lastmod>2024-05-30T18:37:14.553Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6246,28 +6246,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/pickleball</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/piee</loc>
-    <lastmod>2024-05-30T20:09:24.041Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/planets</loc>
-    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/plant</loc>
+    <loc>https://www.govcon.com/tags/pickleball</loc>
     <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6281,6 +6267,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/planets</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/plant-allies</loc>
     <lastmod>2024-05-30T07:28:09.159Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6288,14 +6281,21 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/plant-behavior</loc>
-    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <loc>https://www.govcon.com/tags/plant</loc>
+    <lastmod>2024-05-30T18:37:14.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/plant-communication</loc>
+    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/plant-behavior</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6316,13 +6316,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/plant-medicines</loc>
-    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/plant-neurobiology</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6330,7 +6323,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/plant-perception</loc>
+    <loc>https://www.govcon.com/tags/plant-medicines</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6344,7 +6337,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/plants</loc>
+    <loc>https://www.govcon.com/tags/plant-perception</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6352,6 +6345,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/platforms</loc>
+    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/plants</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6386,15 +6386,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/police-reform</loc>
-    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <loc>https://www.govcon.com/tags/policy</loc>
+    <lastmod>2024-05-30T20:20:37.278Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/policy</loc>
-    <lastmod>2024-05-30T20:09:22.255Z</lastmod>
+    <loc>https://www.govcon.com/tags/police-reform</loc>
+    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6407,14 +6407,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/popcorn</loc>
+    <loc>https://www.govcon.com/tags/portfolio-optimization</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/portfolio-optimization</loc>
+    <loc>https://www.govcon.com/tags/popcorn</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6435,6 +6435,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/prebiotics</loc>
+    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/power-grid-security</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6443,13 +6450,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ppirs</loc>
-    <lastmod>2024-05-30T20:09:28.839Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.891Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/prebiotics</loc>
+    <loc>https://www.govcon.com/tags/predictions</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6463,28 +6470,28 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/predictions</loc>
-    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/pricing</loc>
-    <lastmod>2024-05-30T20:09:25.466Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.691Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/pricing-strategies</loc>
-    <lastmod>2024-05-30T20:09:25.681Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.122Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/private-sector</loc>
+    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/probiotics</loc>
     <lastmod>2024-05-30T18:37:14.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6498,15 +6505,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/probiotics</loc>
-    <lastmod>2024-05-30T18:37:14.856Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/procurement</loc>
-    <lastmod>2024-05-30T20:09:23.365Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.963Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6527,14 +6527,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/professional-development</loc>
-    <lastmod>2024-05-30T20:09:22.460Z</lastmod>
+    <lastmod>2024-05-30T20:20:37.261Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/program-management</loc>
-    <lastmod>2024-05-30T20:09:22.634Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.046Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6547,13 +6547,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/project-management</loc>
-    <lastmod>2024-05-30T20:09:21.523Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/projects</loc>
     <lastmod>2024-05-30T18:37:14.840Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6561,29 +6554,36 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/project-management</loc>
+    <lastmod>2024-05-30T20:20:35.662Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/proposal</loc>
-    <lastmod>2024-05-30T20:09:23.726Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.252Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposal-management</loc>
-    <lastmod>2024-05-30T20:09:25.725Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/proposal-writing</loc>
-    <lastmod>2024-05-30T20:09:21.902Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.165Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposalwriting</loc>
-    <lastmod>2024-05-30T20:09:23.492Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.958Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/proposal-writing</loc>
+    <lastmod>2024-05-30T20:20:36.578Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6624,13 +6624,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/psychology</loc>
-    <lastmod>2024-05-30T18:37:14.840Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/public-health</loc>
     <lastmod>2024-05-30T18:37:14.840Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6645,7 +6638,21 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/psychology</loc>
+    <lastmod>2024-05-30T18:37:14.840Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/purring</loc>
+    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/pwa</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6654,13 +6661,6 @@
   <url>
     <loc>https://www.govcon.com/tags/putty</loc>
     <lastmod>2024-05-30T18:37:14.840Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/pwa</loc>
-    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6680,14 +6680,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/q-ctrl</loc>
+    <loc>https://www.govcon.com/tags/qiskit</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/qiskit</loc>
+    <loc>https://www.govcon.com/tags/q-ctrl</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6701,21 +6701,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quality-assurance</loc>
-    <lastmod>2024-05-30T20:09:25.742Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/quadratic-unconstrained-binary-optimization-qubo</loc>
-    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/quantum-ai</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6729,6 +6715,20 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/quality-assurance</loc>
+    <lastmod>2024-05-30T20:20:43.231Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/quantum-ai</loc>
+    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/quantum-algorithms</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6736,15 +6736,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-annealing</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-biology</loc>
+    <lastmod>2024-05-30T18:37:14.585Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-biology</loc>
-    <lastmod>2024-05-30T18:37:14.585Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-annealing</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6764,14 +6764,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-circuit-simulation</loc>
+    <loc>https://www.govcon.com/tags/quantum-circuits</loc>
     <lastmod>2024-05-30T18:37:14.585Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-circuits</loc>
+    <loc>https://www.govcon.com/tags/quantum-circuit-simulation</loc>
     <lastmod>2024-05-30T18:37:14.585Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6820,15 +6820,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-control</loc>
-    <lastmod>2024-05-30T18:37:14.583Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-cryptography</loc>
+    <lastmod>2024-05-30T18:37:14.579Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-cryptography</loc>
-    <lastmod>2024-05-30T18:37:14.579Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-control</loc>
+    <lastmod>2024-05-30T18:37:14.583Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6855,15 +6855,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-machine-learning</loc>
-    <lastmod>2024-05-30T18:37:14.578Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-firmware</loc>
+    <lastmod>2024-05-30T18:37:14.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-firmware</loc>
-    <lastmod>2024-05-30T18:37:14.575Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-machine-learning</loc>
+    <lastmod>2024-05-30T18:37:14.578Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6883,13 +6883,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-optimization</loc>
-    <lastmod>2024-05-30T18:37:14.571Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/quantum-physics</loc>
     <lastmod>2024-05-30T18:37:14.560Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6897,14 +6890,21 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-processors</loc>
-    <lastmod>2024-05-30T18:37:14.560Z</lastmod>
+    <loc>https://www.govcon.com/tags/quantum-optimization</loc>
+    <lastmod>2024-05-30T18:37:14.571Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/quantum-programming</loc>
+    <lastmod>2024-05-30T18:37:14.560Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/quantum-processors</loc>
     <lastmod>2024-05-30T18:37:14.560Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6925,13 +6925,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-sensors</loc>
-    <lastmod>2024-05-30T18:37:14.559Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/quantum-simulation</loc>
     <lastmod>2024-05-30T18:37:14.560Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6939,7 +6932,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quantum-supremacy</loc>
+    <loc>https://www.govcon.com/tags/quantum-sensors</loc>
     <lastmod>2024-05-30T18:37:14.559Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -6948,6 +6941,13 @@
   <url>
     <loc>https://www.govcon.com/tags/quantum-technology</loc>
     <lastmod>2024-05-30T18:37:14.560Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/quantum-supremacy</loc>
+    <lastmod>2024-05-30T18:37:14.559Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -6974,13 +6974,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/quotes</loc>
-    <lastmod>2024-05-30T18:37:14.585Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/radio-waves</loc>
     <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -6988,14 +6981,21 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/raffle</loc>
-    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
+    <loc>https://www.govcon.com/tags/quotes</loc>
+    <lastmod>2024-05-30T18:37:14.585Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/raid</loc>
+    <lastmod>2024-05-30T18:37:14.825Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/raffle</loc>
     <lastmod>2024-05-30T18:37:14.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7016,8 +7016,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/randomized-benchmarking</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/randy-pausch</loc>
+    <lastmod>2024-05-30T07:28:08.876Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7030,8 +7030,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/randy-pausch</loc>
-    <lastmod>2024-05-30T07:28:08.876Z</lastmod>
+    <loc>https://www.govcon.com/tags/randomized-benchmarking</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7051,15 +7051,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/react</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/rave-culture</loc>
+    <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/rave-culture</loc>
-    <lastmod>2024-05-30T18:37:14.590Z</lastmod>
+    <loc>https://www.govcon.com/tags/react</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7086,15 +7086,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/recreational-sports</loc>
-    <lastmod>2024-05-30T18:37:14.590Z</lastmod>
+    <loc>https://www.govcon.com/tags/rebel</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/rebel</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/recreational-sports</loc>
+    <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7149,22 +7149,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/regulations</loc>
-    <lastmod>2024-05-30T20:09:22.872Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/relationship</loc>
-    <lastmod>2024-05-30T20:09:23.792Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.192Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/relativity</loc>
-    <lastmod>2024-05-30T18:37:14.793Z</lastmod>
+    <loc>https://www.govcon.com/tags/regulations</loc>
+    <lastmod>2024-05-30T20:20:38.053Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7172,6 +7165,13 @@
   <url>
     <loc>https://www.govcon.com/tags/relationships</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/relativity</loc>
+    <lastmod>2024-05-30T18:37:14.793Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7212,15 +7212,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/reporting</loc>
-    <lastmod>2024-05-30T20:09:22.986Z</lastmod>
+    <loc>https://www.govcon.com/tags/research</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/research</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/reporting</loc>
+    <lastmod>2024-05-30T20:20:38.343Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7240,13 +7240,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/reverse-auctions</loc>
-    <lastmod>2024-05-30T20:09:28.808Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/resume</loc>
     <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7254,8 +7247,15 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/reverse-auctions</loc>
+    <lastmod>2024-05-30T20:20:45.855Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/review</loc>
-    <lastmod>2024-05-30T20:09:26.583Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.473Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7268,22 +7268,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/rfq</loc>
+    <lastmod>2024-05-30T20:20:42.185Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/rfp</loc>
-    <lastmod>2024-05-30T20:09:25.018Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.701Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/rfps</loc>
-    <lastmod>2024-05-30T20:09:23.726Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/rfq</loc>
-    <lastmod>2024-05-30T20:09:24.969Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.192Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7303,14 +7303,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/ride-sharing</loc>
+    <loc>https://www.govcon.com/tags/rick-rubin</loc>
     <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/rick-rubin</loc>
+    <loc>https://www.govcon.com/tags/ride-sharing</loc>
     <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7325,7 +7325,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/risk-management</loc>
-    <lastmod>2024-05-30T20:09:27.246Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.022Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7345,14 +7345,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/roadmap</loc>
+    <loc>https://www.govcon.com/tags/room-temperature-quantum-processes</loc>
     <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/room-temperature-quantum-processes</loc>
+    <loc>https://www.govcon.com/tags/roadmap</loc>
     <lastmod>2024-05-30T18:37:14.590Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7401,13 +7401,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/safety-protocols</loc>
-    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/salem-witch-trials</loc>
     <lastmod>2024-05-30T18:37:14.793Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7416,14 +7409,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/sales</loc>
-    <lastmod>2024-05-30T20:09:23.403Z</lastmod>
+    <lastmod>2024-05-30T20:20:38.987Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sam</loc>
-    <lastmod>2024-05-30T20:09:27.231Z</lastmod>
+    <loc>https://www.govcon.com/tags/safety-protocols</loc>
+    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7436,8 +7429,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/sam</loc>
+    <lastmod>2024-05-30T20:20:44.072Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/sbir-grants</loc>
+    <lastmod>2024-05-30T20:20:44.967Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/sba</loc>
-    <lastmod>2024-05-30T20:09:24.726Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.209Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7457,21 +7464,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sbir-grants</loc>
-    <lastmod>2024-05-30T20:09:28.068Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/schumann-resonance</loc>
+    <loc>https://www.govcon.com/tags/science</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/science</loc>
+    <loc>https://www.govcon.com/tags/schumann-resonance</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7492,14 +7492,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/scientific-innovation</loc>
+    <loc>https://www.govcon.com/tags/scientific-discovery</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/scientific-discovery</loc>
+    <loc>https://www.govcon.com/tags/scientific-innovation</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7541,8 +7541,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/self-driving-cars</loc>
-    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
+    <loc>https://www.govcon.com/tags/self-discovery</loc>
+    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7555,8 +7555,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/self-discovery</loc>
-    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
+    <loc>https://www.govcon.com/tags/self-driving-cars</loc>
+    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7583,13 +7583,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/semiconductors</loc>
-    <lastmod>2024-05-30T18:37:14.637Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/semantics</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7597,8 +7590,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/serotonin</loc>
-    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
+    <loc>https://www.govcon.com/tags/semiconductors</loc>
+    <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7618,21 +7611,28 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/service-contract-act</loc>
-    <lastmod>2024-05-30T20:09:25.607Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/service-mesh</loc>
-    <lastmod>2024-05-30T18:37:14.637Z</lastmod>
+    <loc>https://www.govcon.com/tags/serotonin</loc>
+    <lastmod>2024-05-30T18:37:14.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/service-discovery</loc>
+    <lastmod>2024-05-30T18:37:14.637Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/service-contract-act</loc>
+    <lastmod>2024-05-30T20:20:42.957Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/service-mesh</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7654,14 +7654,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/set-asides</loc>
-    <lastmod>2024-05-30T20:09:27.533Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/setae</loc>
-    <lastmod>2024-05-30T18:37:14.621Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.295Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7674,14 +7667,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/shamanism</loc>
+    <loc>https://www.govcon.com/tags/setae</loc>
     <lastmod>2024-05-30T18:37:14.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/shors-algorithm</loc>
+    <loc>https://www.govcon.com/tags/shamanism</loc>
     <lastmod>2024-05-30T18:37:14.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7702,6 +7695,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/shors-algorithm</loc>
+    <lastmod>2024-05-30T18:37:14.621Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/silicon-valley</loc>
     <lastmod>2024-05-30T18:37:14.621Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7716,14 +7716,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sky</loc>
+    <loc>https://www.govcon.com/tags/skin</loc>
     <lastmod>2024-05-30T18:37:14.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/skin</loc>
+    <loc>https://www.govcon.com/tags/sky</loc>
     <lastmod>2024-05-30T18:37:14.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7752,7 +7752,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/small-business</loc>
-    <lastmod>2024-05-30T20:09:24.397Z</lastmod>
+    <lastmod>2024-05-30T20:20:41.209Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/smallbusiness</loc>
+    <lastmod>2024-05-30T20:20:38.427Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7760,20 +7767,6 @@
   <url>
     <loc>https://www.govcon.com/tags/smart-cities</loc>
     <lastmod>2024-05-30T18:37:14.606Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/smart-construction</loc>
-    <lastmod>2024-05-30T18:37:14.621Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/smallbusiness</loc>
-    <lastmod>2024-05-30T20:09:23.184Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7793,6 +7786,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/smart-construction</loc>
+    <lastmod>2024-05-30T18:37:14.621Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/smoke-detectors</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7800,14 +7800,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/soc</loc>
+    <loc>https://www.govcon.com/tags/snacks</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/snacks</loc>
+    <loc>https://www.govcon.com/tags/soc</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7829,14 +7829,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/socioeconomic-programs</loc>
-    <lastmod>2024-05-30T20:09:27.231Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.110Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/software</loc>
-    <lastmod>2024-05-30T20:09:25.710Z</lastmod>
+    <lastmod>2024-05-30T20:20:43.119Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7877,13 +7877,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/soundcloud</loc>
-    <lastmod>2024-05-30T18:37:14.778Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/solar-system</loc>
     <lastmod>2024-05-30T18:37:14.637Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7891,15 +7884,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/space-coast</loc>
+    <loc>https://www.govcon.com/tags/space</loc>
+    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/soundcloud</loc>
     <lastmod>2024-05-30T18:37:14.778Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/space</loc>
-    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
+    <loc>https://www.govcon.com/tags/space-coast</loc>
+    <lastmod>2024-05-30T18:37:14.778Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -7961,6 +7961,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/spiritual</loc>
+    <lastmod>2024-05-30T18:37:14.778Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/spiritual-healing</loc>
     <lastmod>2024-05-30T18:37:14.778Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -7975,7 +7982,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/spiritual</loc>
+    <loc>https://www.govcon.com/tags/spiritual-practices</loc>
     <lastmod>2024-05-30T18:37:14.778Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -7996,15 +8003,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/spiritual-practices</loc>
-    <lastmod>2024-05-30T18:37:14.778Z</lastmod>
+    <loc>https://www.govcon.com/tags/sports-community</loc>
+    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sports-community</loc>
-    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
+    <loc>https://www.govcon.com/tags/sql</loc>
+    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8024,8 +8031,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sql</loc>
-    <lastmod>2024-05-30T18:37:14.809Z</lastmod>
+    <loc>https://www.govcon.com/tags/starfish</loc>
+    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8033,13 +8040,6 @@
   <url>
     <loc>https://www.govcon.com/tags/st-johns-wort</loc>
     <lastmod>2024-05-30T18:37:14.762Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/starfish</loc>
-    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8059,15 +8059,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/statistics</loc>
-    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
+    <loc>https://www.govcon.com/tags/steam-pressure</loc>
+    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/steam-pressure</loc>
-    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
+    <loc>https://www.govcon.com/tags/statistics</loc>
+    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8087,6 +8087,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/strength</loc>
+    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/storage</loc>
     <lastmod>2024-05-30T18:37:14.684Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8095,7 +8102,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/strategy</loc>
-    <lastmod>2024-05-30T20:09:23.419Z</lastmod>
+    <lastmod>2024-05-30T20:20:39.010Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8108,22 +8115,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/strength</loc>
-    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
+    <loc>https://www.govcon.com/tags/subcontractor-management</loc>
+    <lastmod>2024-05-30T20:20:38.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/subcontracting</loc>
-    <lastmod>2024-05-30T20:09:25.451Z</lastmod>
+    <lastmod>2024-05-30T20:20:42.689Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/subcontractor-management</loc>
-    <lastmod>2024-05-30T20:09:22.756Z</lastmod>
+    <loc>https://www.govcon.com/tags/success</loc>
+    <lastmod>2024-05-30T20:20:41.241Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8136,8 +8143,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/success</loc>
-    <lastmod>2024-05-30T20:09:24.682Z</lastmod>
+    <loc>https://www.govcon.com/tags/summer-activities</loc>
+    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8150,7 +8157,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/summer-activities</loc>
+    <loc>https://www.govcon.com/tags/superconducting-qubits</loc>
     <lastmod>2024-05-30T18:37:14.653Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8171,13 +8178,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/superconducting-qubits</loc>
-    <lastmod>2024-05-30T18:37:14.653Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/supplements</loc>
     <lastmod>2024-05-30T18:37:14.653Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8186,7 +8186,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/supply-chain</loc>
-    <lastmod>2024-05-30T20:09:27.519Z</lastmod>
+    <lastmod>2024-05-30T20:20:44.327Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8206,13 +8206,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sustainable-architecture</loc>
-    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/sustainable-building</loc>
     <lastmod>2024-05-30T18:37:14.653Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8220,7 +8213,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/sustainable-development</loc>
+    <loc>https://www.govcon.com/tags/sustainable-architecture</loc>
     <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8228,6 +8221,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/sustainable-computing</loc>
+    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/sustainable-development</loc>
     <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8283,15 +8283,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/syn-propanethial-s-oxide</loc>
-    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
+    <loc>https://www.govcon.com/tags/tail-wagging</loc>
+    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tail-wagging</loc>
-    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
+    <loc>https://www.govcon.com/tags/syn-propanethial-s-oxide</loc>
+    <lastmod>2024-05-30T18:37:14.668Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8326,21 +8326,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/team-building</loc>
-    <lastmod>2024-05-30T20:09:21.538Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/teaming-agreements</loc>
-    <lastmod>2024-05-30T20:09:27.849Z</lastmod>
+    <lastmod>2024-05-30T20:20:35.696Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/tech-innovation</loc>
-    <lastmod>2024-05-30T20:09:28.264Z</lastmod>
+    <lastmod>2024-05-30T20:20:45.222Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/teaming-agreements</loc>
+    <lastmod>2024-05-30T20:20:44.522Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8389,14 +8389,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/technology</loc>
-    <lastmod>2024-05-30T20:09:24.030Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/temperature</loc>
-    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.787Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8409,14 +8402,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tesla</loc>
-    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
+    <loc>https://www.govcon.com/tags/temperature</loc>
+    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/thank-you-cards</loc>
+    <loc>https://www.govcon.com/tags/tesla</loc>
     <lastmod>2024-05-30T18:37:14.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8430,8 +8423,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/the-creative-act</loc>
-    <lastmod>2024-05-30T07:28:09.128Z</lastmod>
+    <loc>https://www.govcon.com/tags/thank-you-cards</loc>
+    <lastmod>2024-05-30T18:37:14.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8444,7 +8437,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/the-pilgrimage</loc>
+    <loc>https://www.govcon.com/tags/the-creative-act</loc>
     <lastmod>2024-05-30T07:28:09.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8452,6 +8445,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/the-valkyries</loc>
+    <lastmod>2024-05-30T07:28:09.128Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/the-pilgrimage</loc>
     <lastmod>2024-05-30T07:28:09.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8486,14 +8486,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/thriller</loc>
+    <loc>https://www.govcon.com/tags/tides</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tides</loc>
+    <loc>https://www.govcon.com/tags/thriller</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8514,13 +8514,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/time-perception</loc>
-    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/tips</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8528,7 +8521,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tools</loc>
+    <loc>https://www.govcon.com/tags/time-perception</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8536,6 +8529,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/topological-qubits</loc>
+    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/tools</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8556,14 +8556,14 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tracking-and-monitoring</loc>
+    <loc>https://www.govcon.com/tags/traction</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/traction</loc>
+    <loc>https://www.govcon.com/tags/tracking-and-monitoring</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8584,15 +8584,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/training</loc>
-    <lastmod>2024-05-30T20:09:22.255Z</lastmod>
+    <loc>https://www.govcon.com/tags/trains</loc>
+    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/trains</loc>
-    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
+    <loc>https://www.govcon.com/tags/training</loc>
+    <lastmod>2024-05-30T20:20:37.276Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8612,6 +8612,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/tree-cutting</loc>
+    <lastmod>2024-05-30T20:20:43.539Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/transportation</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8619,21 +8626,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/tree-cutting</loc>
-    <lastmod>2024-05-30T20:09:26.574Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/trigger-action-platforms</loc>
-    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/trimble</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8647,8 +8640,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/trust</loc>
-    <lastmod>2024-05-30T20:09:23.775Z</lastmod>
+    <loc>https://www.govcon.com/tags/trimble</loc>
+    <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8662,7 +8655,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ttp</loc>
-    <lastmod>2024-05-30T20:09:23.695Z</lastmod>
+    <lastmod>2024-05-30T20:20:40.175Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/trust</loc>
+    <lastmod>2024-05-30T20:20:40.244Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8682,13 +8682,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/udp</loc>
-    <lastmod>2024-05-30T18:37:14.731Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/typescript</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8696,7 +8689,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/unity</loc>
+    <loc>https://www.govcon.com/tags/udp</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8704,6 +8697,13 @@
 
   <url>
     <loc>https://www.govcon.com/tags/unit-circle</loc>
+    <lastmod>2024-05-30T18:37:14.731Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/unity</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8738,6 +8738,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/vacuum-balloon</loc>
+    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/vacation-destinations</loc>
     <lastmod>2024-05-30T18:37:14.746Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8759,20 +8766,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/vault</loc>
-    <lastmod>2024-05-30T18:37:14.731Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/vacuum-balloon</loc>
-    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/van-der-waals-forces</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8780,15 +8773,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/vector-databases</loc>
+    <loc>https://www.govcon.com/tags/vault</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/vector-encryption</loc>
-    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8801,8 +8787,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/vehicle-routing-problem-vrp</loc>
+    <loc>https://www.govcon.com/tags/vector-encryption</loc>
     <lastmod>2024-05-30T18:37:14.684Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/vector-databases</loc>
+    <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8815,14 +8808,21 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/veronica</loc>
+    <loc>https://www.govcon.com/tags/voice</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/voice</loc>
+    <loc>https://www.govcon.com/tags/vehicle-routing-problem-vrp</loc>
+    <lastmod>2024-05-30T18:37:14.684Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/veronica</loc>
     <lastmod>2024-05-30T18:37:14.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8836,15 +8836,15 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/vs-code</loc>
-    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
+    <loc>https://www.govcon.com/tags/wakefulness</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/wakefulness</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
+    <loc>https://www.govcon.com/tags/vs-code</loc>
+    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8871,13 +8871,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/web-api</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/web-development</loc>
     <lastmod>2024-05-30T18:37:14.715Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -8885,8 +8878,22 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/web-api</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/webdev</loc>
     <lastmod>2024-05-30T18:37:14.715Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/whales</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8906,35 +8913,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/whales</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/wildlife</loc>
-    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/wimhof</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/wireless</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/wireless-charging</loc>
     <lastmod>2024-05-30T18:37:14.715Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8948,14 +8927,28 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/wireless-power-transmission</loc>
+    <loc>https://www.govcon.com/tags/wireless</loc>
     <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/workforce-management</loc>
+    <loc>https://www.govcon.com/tags/wimhof</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/wireless-charging</loc>
+    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/wireless-power-transmission</loc>
     <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -8969,15 +8962,22 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/writing</loc>
-    <lastmod>2024-05-30T20:09:23.726Z</lastmod>
+    <loc>https://www.govcon.com/tags/workloads</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/workloads</loc>
+    <loc>https://www.govcon.com/tags/workforce-management</loc>
     <lastmod>2024-05-30T18:37:14.700Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/writing</loc>
+    <lastmod>2024-05-30T20:20:40.301Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -8990,13 +8990,6 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/xss</loc>
-    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/yaqui</loc>
     <lastmod>2024-05-30T07:28:09.112Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -9004,7 +8997,7 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/yawning</loc>
+    <loc>https://www.govcon.com/tags/xss</loc>
     <lastmod>2024-05-30T18:37:14.715Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -9018,8 +9011,8 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/yoga</loc>
-    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
+    <loc>https://www.govcon.com/tags/yawning</loc>
+    <lastmod>2024-05-30T18:37:14.715Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9027,6 +9020,13 @@
   <url>
     <loc>https://www.govcon.com/tags/yopo-seeds</loc>
     <lastmod>2024-05-30T18:37:14.715Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/yoga</loc>
+    <lastmod>2024-05-30T18:37:14.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
