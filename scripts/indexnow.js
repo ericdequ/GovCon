@@ -9,7 +9,7 @@ dotenv.config()
 const API_KEY = process.env.API_KEY
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
 const BASE_URL = 'https://www.www.govcon.me'
-const keyLocation = 'https://www.www.govcon.me/2252e998ff1146cfb763c5b1f9b9a7da.txt'
+const keyLocation = 'https://www.www.govcon.me/3573bd543fc14df2a84eec062a53cd22.txt'
 
 ;(async () => {
   const pages = await globby([
