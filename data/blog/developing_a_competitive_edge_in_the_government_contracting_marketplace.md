@@ -52,7 +52,7 @@ A Company with an example of having a link on their Website is Quantum Cyber Sol
 
 If it is your first or 100th Partnership you can use the link below to Apply and strengthen your next proposal. 
 
-Visit [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/Logistics) to learn more.
+Visit [Quantum Cyber Solutions](https://www.quantumcybersolutions.com/Partners) to learn more.
 
 ### 1. **Teaming Arrangements**
 
