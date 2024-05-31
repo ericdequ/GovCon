@@ -1,8 +1,7 @@
 ---
 name: GovCon
-avatar: https://www.govcon.me/logoo.webp
+avatar: /logoo.webp
 occupation: Helping Small Businesses Navigate Government Contracting
-company: Quantum cyber Solutions
 email: contact@quantumcybersolutions.com 📧
 ---
 
