@@ -1,17 +1,17 @@
-import Link from '@/components/Link'
-import { PageSEO } from '@/components/SEO'
-import Tag from '@/components/Tag'
-import siteMetadata from '@/data/siteMetadata'
-import { getAllFilesFrontMatter } from '@/lib/mdx'
-import formatDate from '@/lib/utils/formatDate'
+import Link from '@/components/Link';
+import { PageSEO } from '@/components/SEO';
+import Tag from '@/components/Tag';
+import siteMetadata from '@/data/siteMetadata';
+import { getAllFilesFrontMatter } from '@/lib/mdx';
+import formatDate from '@/lib/utils/formatDate';
 
-import { motion } from 'framer-motion'
+import { motion } from 'framer-motion';
 
-const MAX_DISPLAY = 5
+const MAX_DISPLAY = 5;
 
 export async function getStaticProps() {
-  const posts = await getAllFilesFrontMatter('blog')
-  return { props: { posts } }
+  const posts = await getAllFilesFrontMatter('blog');
+  return { props: { posts } };
 }
 
 export default function Home({ posts }) {
@@ -23,7 +23,7 @@ export default function Home({ posts }) {
         staggerChildren: 0.1,
       },
     },
-  }
+  };
 
   const postVariants = {
     hidden: { opacity: 0, y: 20 },
@@ -35,7 +35,7 @@ export default function Home({ posts }) {
         ease: 'easeInOut',
       },
     },
-  }
+  };
 
   return (
     <>
@@ -46,9 +46,8 @@ export default function Home({ posts }) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
-          
         >
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-red-600 dark:text-red-400 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
@@ -63,7 +62,7 @@ export default function Home({ posts }) {
         >
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, date, title, summary, tags } = frontMatter;
             return (
               <motion.li key={slug} className="py-12" variants={postVariants}>
                 <article>
@@ -80,7 +79,7 @@ export default function Home({ posts }) {
                           <h2 className="text-2xl font-bold leading-8 tracking-tight">
                             <Link
                               href={`/blog/${slug}`}
-                              className="text-gray-900 dark:text-gray-100"
+                              className="text-blue-600 dark:text-blue-400"
                             >
                               {title}
                             </Link>
@@ -98,7 +97,7 @@ export default function Home({ posts }) {
                       <div className="text-base font-medium leading-6">
                         <Link
                           href={`/blog/${slug}`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                          className="text-red-600 hover:text-red-500 dark:hover:text-red-400"
                           aria-label={`Read "${title}"`}
                         >
                           Read more &rarr;
@@ -108,7 +107,7 @@ export default function Home({ posts }) {
                   </div>
                 </article>
               </motion.li>
-            )
+            );
           })}
         </motion.ul>
       </div>
@@ -121,7 +120,7 @@ export default function Home({ posts }) {
         >
           <Link
             href="/blog"
-            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+            className="text-blue-600 hover:text-blue-500 dark:hover:text-blue-400"
             aria-label="all posts"
           >
             All Posts &rarr;
@@ -135,10 +134,9 @@ export default function Home({ posts }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
-          
-
+          {/* Newsletter subscription form can be added here */}
         </motion.div>
       )}
     </>
-  )
+  );
 }
