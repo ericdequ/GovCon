@@ -1,6 +1,6 @@
 ---
 title: 'D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems'
-date: '2024-02-01'
+date: '2022-02-01'
 tags:
   [
     'Quantum Computing',

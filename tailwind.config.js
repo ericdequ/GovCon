@@ -1,5 +1,5 @@
-const defaultTheme = require('tailwindcss/defaultTheme')
-const colors = require('tailwindcss/colors')
+const defaultTheme = require('tailwindcss/defaultTheme');
+const colors = require('tailwindcss/colors');
 
 module.exports = {
   content: [
@@ -29,6 +29,34 @@ module.exports = {
         secondary: colors.blue,
         neutral: colors.gray,
         white: colors.white,
+        red: {
+          light: '#FEE2E2',
+          DEFAULT: '#EF4444',
+          dark: '#B91C1C',
+        },
+        blue: {
+          light: '#BFDBFE',
+          DEFAULT: '#3B82F6',
+          dark: '#1E3A8A',
+        },
+      },
+      boxShadow: {
+        'outline-red': '0 0 0 3px rgba(239, 68, 68, 0.5)',
+        'outline-blue': '0 0 0 3px rgba(59, 130, 246, 0.5)',
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
+        'gradient-conic': 'conic-gradient(var(--tw-gradient-stops))',
+      },
+      keyframes: {
+        wiggle: {
+          '0%, 100%': { transform: 'rotate(-3deg)' },
+          '50%': { transform: 'rotate(3deg)' },
+        },
+      },
+      animation: {
+        wiggle: 'wiggle 1s ease-in-out infinite',
+        fadeIn: 'fadeIn 2s ease-in forwards',
       },
       typography: (theme) => ({
         DEFAULT: {
@@ -38,6 +66,8 @@ module.exports = {
               color: theme('colors.primary.500'),
               '&:hover': {
                 color: `${theme('colors.primary.600')} !important`,
+                textDecoration: 'underline',
+                transition: 'color 0.3s ease-in-out',
               },
               code: { color: theme('colors.primary.400') },
             },
@@ -106,6 +136,8 @@ module.exports = {
               color: theme('colors.primary.500'),
               '&:hover': {
                 color: `${theme('colors.primary.400')} !important`,
+                textDecoration: 'underline',
+                transition: 'color 0.3s ease-in-out',
               },
               code: { color: theme('colors.primary.400') },
             },
@@ -163,5 +195,5 @@ module.exports = {
       }),
     },
   },
-  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography')],
-}
+  plugins: [require('@tailwindcss/forms'), require('@tailwindcss/typography'), require('@tailwindcss/aspect-ratio')],
+};

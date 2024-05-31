@@ -1,6 +1,6 @@
 ---
 title: 'Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing'
-date: '2024-02-01'
+date: '2022-02-01'
 tags:
   ['Quantum Computing', 'Q-CTRL', 'Quantum Control', 'Quantum Firmware', 'Quantum Error Correction']
 draft: false

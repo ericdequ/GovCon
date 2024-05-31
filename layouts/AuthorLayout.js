@@ -8,7 +8,7 @@ export default function AuthorLayout({ children, frontMatter }) {
 
   const variants = {
     hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 },
+    visible: { opacity: 1, y: 0, transition: { duration: 0.5, delay: 0.2 } },
   }
 
   return (
@@ -19,12 +19,9 @@ export default function AuthorLayout({ children, frontMatter }) {
           className="space-y-2 pt-6 pb-8 md:space-y-5"
           initial="hidden"
           animate="visible"
-          variants={{
-            hidden: { opacity: 0, y: 20 },
-            visible: { opacity: 1, y: 0, transition: { duration: 0.5, delay: 0.2 } },
-          }}
+          variants={variants}
         >
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-blue-900 dark:text-blue-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-red-600 dark:text-red-400 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             About
           </h1>
         </motion.div>
@@ -43,9 +40,9 @@ export default function AuthorLayout({ children, frontMatter }) {
               alt="avatar"
               width="192"
               height="192"
-              className="h-48 w-48 rounded-full"
+              className="h-48 w-48 rounded-full shadow-outline-red"
             />
-            <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight text-blue-900 dark:text-blue-100">
+            <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight text-blue-600 dark:text-blue-400">
               {name}
             </h3>
             <div className="text-gray-700 dark:text-gray-400">{occupation}</div>

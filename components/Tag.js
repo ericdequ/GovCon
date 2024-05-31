@@ -37,7 +37,12 @@ const Tag = ({ text }) => {
   const tagSlug = kebabCase(text)
 
   return (
-    <motion.div className="inline-block" variants={tagVariants} whileHover="hover" whileTap="tap">
+    <motion.div
+      className="inline-block p-3"
+      variants={tagVariants}
+      whileHover="hover"
+      whileTap="tap"
+    >
       <Link href={`/tags/${tagSlug}`} className={textVariants} passHref>
         {text}
       </Link>

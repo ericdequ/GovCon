@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft: Developing Topological Qubits and Quantum Development Kit'
-date: '2024-02-01'
+date: '2022-02-01'
 tags: ['Quantum Computing', 'Microsoft', 'Topological Qubits', 'Quantum Development Kit', 'Q#']
 draft: false
 summary: "Explore Microsoft's unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications."
