@@ -69,12 +69,12 @@ export default function Tags({ tags }) {
             return (
               <motion.div key={tagSlug} className="mt-2 mb-2 mr-5" variants={tagVariants}>
                 <Tag text={t} />
-                <Link
+                <div
                   href={`/tags/${tagSlug}`}
                   className="ml-3 P-3 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
                 >
                   {`(${tags[t]})`}
-                </Link>
+                </div>
               </motion.div>
             )
           })}
