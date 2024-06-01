@@ -3,10 +3,10 @@
     <channel>
       <title>Gov Con</title>
       <link>https://www.govcon.com/blog</link>
-      <description>Learn about Government Contracting!</description>
+      <description>The Guide To government Contracting!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Thu, 30 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/api-integration/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,17 +16,7 @@
     <link>https://www.govcon.com/blog/api/sam</link>
     <description>Explore how to leverage the SAM.gov API to discover and access government contract opportunities efficiently. This guide provides an overview, key functionalities, and practical examples to get you started.</description>
     <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/api/usaspending</guid>
-    <title>Navigating Federal Spending Data with the USAspending API</title>
-    <link>https://www.govcon.com/blog/api/usaspending</link>
-    <description>Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.</description>
-    <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
   </item>
 

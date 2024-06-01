@@ -3,20 +3,30 @@
     <channel>
       <title>Gov Con</title>
       <link>https://www.govcon.com/blog</link>
-      <description>Learn about Government Contracting!</description>
+      <description>The Guide To government Contracting!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
-      <lastBuildDate>Wed, 11 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Mon, 23 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/cybersecurity/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/Certifications/QuantumLearn</guid>
+    <title>Discover QuantumLearn: The Open-Source Learning Revolution 🌐</title>
+    <link>https://www.govcon.com/blog/Certifications/QuantumLearn</link>
+    <description>Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀</description>
+    <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Open Source</category><category>Learning</category><category>Community</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Project Management</category><category>Comptia</category><category>Education</category><category>Devops</category><category>digitaltransformation</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/the_impact_of_defense_federal_acquisition_regulation_supplement_dfars_on_contractors</guid>
     <title>The Impact of Defense Federal Acquisition Regulation Supplement (DFARS) on Contractors</title>
     <link>https://www.govcon.com/blog/the_impact_of_defense_federal_acquisition_regulation_supplement_dfars_on_contractors</link>
     <description>Explore how DFARS compliance is transforming contractor responsibilities and the proactive steps you can take to stay ahead in the defense industry.</description>
     <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Technology</category><category>Cybersecurity</category><category>Government</category>
   </item>
 
@@ -26,7 +36,7 @@
     <link>https://www.govcon.com/blog/cybersecurity_essentials_for_government_contractors_protecting_sensitive_data</link>
     <description>Explore the crucial cybersecurity measures that government contractors need to adopt to protect sensitive data and ensure compliance with federal regulations.</description>
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Cybersecurity</category><category>Government</category><category>Data Protection</category>
   </item>
 
@@ -36,7 +46,7 @@
     <link>https://www.govcon.com/blog/preparing_for_cybersecurity_maturity_model_certification_cmmc</link>
     <description>Dive into the essentials of preparing for the Cybersecurity Maturity Model Certification (CMMC) and discover how to protect your business with top-tier cybersecurity strategies.</description>
     <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Cybersecurity</category><category>CMMC</category><category>Compliance</category>
   </item>
 
@@ -46,7 +56,7 @@
     <link>https://www.govcon.com/blog/the_impact_of_federal_information_security_modernization_act_fisma_on_contractors</link>
     <description>Explore how the Federal Information Security Modernization Act (FISMA) influences contractors working with federal agencies. From compliance to implementation, discover the key facets and burgeoning opportunities in federal cybersecurity mandates.</description>
     <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>FISMA</category><category>Cybersecurity</category><category>Federal Contractors</category>
   </item>
 
@@ -56,7 +66,7 @@
     <link>https://www.govcon.com/blog/Reviews/RicsNoteBook</link>
     <description>A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.</description>
     <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Quantum Technology</category><category>Cybersecurity</category><category>AI</category><category>Sustainability</category><category>Blog Review</category>
   </item>
 

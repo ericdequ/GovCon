@@ -1,33 +1,23 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>GovNoteBook</title>
-      <link>https://www.GovCon.com/blog</link>
-      <description>Ric&#39;s Guide to the Galaxy</description>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
-      <lastBuildDate>Sat, 23 Sep 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.GovCon.com/tags/open-source/feed.xml" rel="self" type="application/rss+xml"/>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Mon, 23 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/open-source/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.GovCon.com/blog/Certifications/QuantumLearn</guid>
+    <guid>https://www.govcon.com/blog/Certifications/QuantumLearn</guid>
     <title>Discover QuantumLearn: The Open-Source Learning Revolution 🌐</title>
-    <link>https://www.GovCon.com/blog/Certifications/QuantumLearn</link>
+    <link>https://www.govcon.com/blog/Certifications/QuantumLearn</link>
     <description>Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀</description>
-    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Open Source</category><category>Learning</category><category>Community</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Project Management</category><category>Comptia</category><category>Education</category><category>Devops</category><category>digitaltransformation</category>
-  </item>
-
-  <item>
-    <guid>https://www.GovCon.com/blog/Companies/Redhat/RedHat</guid>
-    <title>Red Hat: Championing the Open Source Spirit in the Enterprise Arena 🌐🔥</title>
-    <link>https://www.GovCon.com/blog/Companies/Redhat/RedHat</link>
-    <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
-    <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
-    <category>Red Hat</category><category>Open Source</category><category>Enterprise Solutions</category><category>devops</category>
   </item>
 
     </channel>

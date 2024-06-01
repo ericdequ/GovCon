@@ -6,7 +6,7 @@ const dotenv = require('dotenv')
 
 dotenv.config()
 
-const API_KEY = process.env.API_KEY
+const API_KEY = '3573bd543fc14df2a84eec062a53cd22'
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
 const BASE_URL = 'https://www.govcon.me'
 const keyLocation = 'https://www.govcon.me/3573bd543fc14df2a84eec062a53cd22.txt'

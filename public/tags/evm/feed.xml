@@ -3,10 +3,10 @@
     <channel>
       <title>Gov Con</title>
       <link>https://www.govcon.com/blog</link>
-      <description>Learn about Government Contracting!</description>
+      <description>The Guide To government Contracting!</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Gov Con)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Gov Con)</webMaster>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/evm/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.govcon.com/blog/implementing_earned_value_management_evm_in_government_projects</link>
     <description>Explore how Earned Value Management (EVM) can transform government projects, boost efficiency, transparency, and deliver value on time and within budget.</description>
     <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Gov Con)</author>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>EVM</category><category>Project Management</category><category>Government</category>
   </item>
 
