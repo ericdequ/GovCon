@@ -1,6 +1,6 @@
 ---
 title: 'Building Relationships with Government Agencies: Networking Strategies for Contractors'
-date: '2023-10-11'
+date: '2023-02-08'
 tags: ['Government Contracting', 'Networking', 'Business Strategy']
 draft: false
 summary: 'Unlock the potential of government contracts by mastering networking strategies that foster lasting relationships with government agencies!'

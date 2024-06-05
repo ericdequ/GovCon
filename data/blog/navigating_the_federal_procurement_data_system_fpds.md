@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Federal Procurement Data System (FPDS)'
-date: '2023-10-07'
+date: '2023-08-17'
 tags: ['Federal Procurement', 'Data Systems', 'Government Contracts']
 draft: false
 summary: 'Unlock the secrets of navigating the Federal Procurement Data System (FPDS) to explore lucrative opportunities and deepen your understanding of government contracts.'

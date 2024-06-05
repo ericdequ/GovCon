@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Federal Budget Changes: Strategies for Government Contractors'
-date: '2023-10-06'
+date: '2023-09-23'
 tags: ['Government Contracting', 'Federal Budget', 'Strategy']
 draft: false
 summary: 'An engaging exploration of robust strategies for government contractors to navigate federal budget changes effectively.'

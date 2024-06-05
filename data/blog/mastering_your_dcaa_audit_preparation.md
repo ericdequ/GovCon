@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Your DCAA Audit Preparation'
-date: '2023-10-05'
+date: '2023-12-30'
 tags: ['DCAA', 'Audit', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Prepare for a smooth DCAA audit journey with these advanced tips and insights tailored for tech innovators and contractors.'

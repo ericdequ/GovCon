@@ -1,6 +1,6 @@
 ---
 title: 'SAM Registration and Maintenance: Ensuring Your Business Stays Compliant'
-date: '2023-10-04'
+date: '2023-03-09'
 tags: ['Compliance', 'Business', 'SAM']
 draft: false
 summary: 'Discover how to keep your business compliant with streamlined SAM Registration and ongoing maintenance.'

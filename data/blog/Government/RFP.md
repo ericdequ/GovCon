@@ -1,6 +1,6 @@
 ---
 title: 'Government RFPs: Deciphering and Responding Effectively 📜🔍'
-date: '2023-07-29'
+date: '2023-12-30'
 tags:
   [
     'RFPs',

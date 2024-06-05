@@ -1,6 +1,6 @@
 ---
 title: 'Crafting a Winning Proposal: Tips and Tricks for Government Contract Bids'
-date: '2023-10-09'
+date: '2023-07-21'
 tags: ['Government Contracts', 'Business Strategy', 'Proposal Writing']
 draft: false
 summary: 'Unlock the secrets to crafting a compelling and successful government contract bid with our expert tips and tricks. Dive deep into the technical intricacies and learn how to stand out from the competition.'

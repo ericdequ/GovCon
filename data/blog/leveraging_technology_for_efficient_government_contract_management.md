@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Technology for Efficient Government Contract Management'
-date: '2023-10-07'
+date: '2023-12-16'
 tags: ['Technology', 'Government', 'Contract Management', 'Innovation']
 draft: false
 summary: 'Explore how cutting-edge technology is revolutionizing government contract management, making processes more efficient, transparent, and reliable.'

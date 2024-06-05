@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Comprehensive Government Contracting Training Program'
-date: '2023-10-20'
+date: '2024-05-19'
 tags: ['Government Contracting', 'Training', 'Professional Development']
 draft: false
 summary: 'Unlock the secrets of successful government contracting with our all-encompassing training program. Tailored to both beginners and seasoned professionals, this training program demystifies the complexities of government bids and helps you master essential skills such as compliance, proposal writing, and cost management.'

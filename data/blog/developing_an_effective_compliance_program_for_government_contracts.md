@@ -1,6 +1,6 @@
 ---
 title: 'Developing an Effective Compliance Program for Government Contracts'
-date: '2023-10-27'
+date: '2023-05-13'
 tags: ['Compliance', 'Government Contracts', 'Policy']
 draft: false
 summary: 'Delve into the essentials of creating a robust compliance program tailored for government contracts, ensuring your organization meets regulatory standards effortlessly.'

@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Indirect Cost Allocation: A Comprehensive Guide'
-date: '2023-10-11'
+date: '2023-06-15'
 tags: ['Finance', 'Business', 'Technology']
 draft: false
 summary: 'Uncover the nuances of creating an efficient indirect cost allocation plan, tailored to boost your organization’s financial integrity and operational efficiency.'

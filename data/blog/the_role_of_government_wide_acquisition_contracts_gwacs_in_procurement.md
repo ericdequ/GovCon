@@ -1,6 +1,6 @@
 ---
 title: 'The Role of Government-Wide Acquisition Contracts (GWACs) in Procurement'
-date: '2023-10-07'
+date: '2023-10-30'
 tags: ['Procurement', 'Government Contracts', 'Innovation']
 draft: false
 summary: 'Dive into the world of Government-Wide Acquisition Contracts (GWACs) and explore how they revolutionize procurement, streamline operations, and drive innovation in the public sector.'

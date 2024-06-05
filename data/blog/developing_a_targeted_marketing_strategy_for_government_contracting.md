@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Targeted Marketing Strategy for Government Contracting'
-date: '2023-10-24'
+date: '2023-12-27'
 tags: ['Marketing Strategy', 'Government Contracting', 'Business Development']
 draft: false
 summary: 'Unlock the secrets to effectively marketing your business to government entities with a targeted strategy designed specifically for government contracting.'

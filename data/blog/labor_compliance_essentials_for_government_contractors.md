@@ -1,6 +1,6 @@
 ---
 title: 'Labor Compliance Essentials for Government Contractors'
-date: '2023-10-07'
+date: '2023-07-28'
 tags: ['Government Contracts', 'Labor Compliance', 'Regulations']
 draft: false
 summary: 'Dive into the essentials of labor compliance for government contractors, exploring key regulations, innovative strategies, and best practices to ensure your business stays compliant and competitive.'

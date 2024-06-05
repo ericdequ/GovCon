@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Managing Government Contract Terminations'
-date: '2023-10-28'
+date: '2023-08-11'
 tags: ['Government Contracts', 'Contract Management', 'Business']
 draft: false
 summary: 'Explore the intricacies of handling government contract terminations efficiently, ensuring minimal disruption and maximized opportunities for resilience and growth.'

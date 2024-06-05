@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Artificial Intelligence for Contract Management'
-date: '2024-05-21'
+date: '2024-01-18'
 tags:  ['AI', 'contract management', 'government contracting', 'automation', 'compliance', 'technology']
 draft: true
 summary: 'Examine how AI-powered tools are transforming contract management in government contracting, helping businesses automate processes, ensure compliance, and manage large volumes of contracts more effectively.'

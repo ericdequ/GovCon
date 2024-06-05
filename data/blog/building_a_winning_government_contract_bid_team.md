@@ -1,6 +1,6 @@
 ---
 title: 'Building a Winning Government Contract Bid Team'
-date: '2023-10-03'
+date: '2023-04-17'
 tags: ['Government Contracts', 'Project Management', 'Team Building']
 draft: false
 summary: 'Unveil the secrets behind assembling a government contract bid team that guarantees success. Dive into strategy, collaboration, and technical insights to secure that win.'

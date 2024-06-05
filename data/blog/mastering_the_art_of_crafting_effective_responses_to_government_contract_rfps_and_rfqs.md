@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Crafting Effective Responses to Government Contract RFPs and RFQs'
-date: '2023-10-13'
+date: '2023-02-13'
 tags: ['Government Contracts', 'RFP', 'RFQ']
 draft: false
 summary: 'Unlock the secrets to creating winning responses to government contract RFPs and RFQs. Learn the strategies that can give you the competitive edge.'

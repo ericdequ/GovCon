@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the False Claims Act: Protecting Your Business from Liability'
-date: '2023-10-09'
+date: '2023-09-26'
 tags: ['Legal', 'Business', 'Compliance']
 draft: false
 summary: 'Explore the intricacies of the False Claims Act and learn strategies to protect your business from potential liabilities and legal pitfalls.'

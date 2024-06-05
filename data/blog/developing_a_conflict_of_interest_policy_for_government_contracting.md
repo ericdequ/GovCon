@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Conflict of Interest Policy for Government Contracting'
-date: '2023-10-05'
+date: '2024-01-21'
 tags: ['Government', 'Policy', 'Contracting']
 draft: false
 summary: 'Explore the essential steps and key considerations in creating a robust Conflict of Interest Policy for government contracting to ensure transparency and fairness.'

@@ -1,6 +1,6 @@
 ---
 title: 'Using Beta.SAM.gov to Find and Pursue Government Contract Opportunities'
-date: '2023-10-05'
+date: '2023-03-03'
 tags: ['Government Contracts', 'Beta.SAM.gov', 'Business Opportunities']
 draft: false
 summary: 'Dive into the world of government contracts with Beta.SAM.gov! Learn how to navigate this invaluable resource and secure lucrative opportunities for your business.'

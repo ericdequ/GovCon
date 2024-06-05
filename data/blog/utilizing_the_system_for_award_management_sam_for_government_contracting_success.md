@@ -1,6 +1,6 @@
 ---
 title: "Utilizing the System for Award Management (SAM) for Government Contracting Success"
-date: '2024-05-21'
+date: '2023-08-31'
 tags: ['government contracting', 'SAM', 'federal contracts', 'compliance', 'federal agencies', 'visibility', 'contracting opportunities']
 draft: true
 summary: "Learn how to effectively navigate and leverage the SAM database to find contracting opportunities, maintain compliance, and enhance your visibility with federal agencies."

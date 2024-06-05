@@ -1,6 +1,6 @@
 ---
 title: 'Transitioning from Subcontractor to Prime Contractor: Strategies for Growth'
-date: '2023-10-05'
+date: '2023-08-11'
 tags: ['Business Growth', 'Contracting', 'Strategy']
 draft: false
 summary: 'Unlock your potential by transforming from a subcontractor to a prime contractor. Explore strategic steps to ensure a seamless and successful transition.'

@@ -1,7 +1,7 @@
 ---
 title: 'Implementing an Earned Value Management System (EVMS) for Government Projects'
-date: '2023-10-04'
-tags: ['EVMS', 'Government Projects','Project Management']
+date: '2024-05-03'
+tags: ['EVMS', 'Government Projects', 'Project Management']
 draft: false
 summary: 'Dive deep into the world of Earned Value Management Systems (EVMS) and discover the key benefits, challenges, and implementation strategies for managing government projects efficiently and effectively.'
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Government Contracting Compliance Checklist'
-date: '2023-10-05'
+date: '2023-08-07'
 tags: ['Government Contracting', 'Compliance', 'Checklist', 'Business']
 draft: false
 summary: 'Learn how to navigate the complexities of government contracting with a comprehensive compliance checklist.'

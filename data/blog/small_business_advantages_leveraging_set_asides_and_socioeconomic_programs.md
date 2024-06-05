@@ -1,6 +1,6 @@
 ---
 title: 'Small Business Advantages: Leveraging Set-Asides and Socioeconomic Programs'
-date: '2023-10-05'
+date: '2023-10-21'
 tags: ['Small Business', 'Socioeconomic Programs', 'Set-Asides']
 draft: false
 summary: 'Discover how small businesses can harness set-asides and socioeconomic programs to gain a competitive edge in the marketplace.'

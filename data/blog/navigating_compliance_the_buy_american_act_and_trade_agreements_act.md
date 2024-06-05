@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Compliance: The Buy American Act and Trade Agreements Act'
-date: '2023-10-05'
+date: '2024-04-01'
 tags: ['Compliance', 'Global Trade', 'Government Procurement']
 draft: false
 summary: 'Understand the complexities and strategies involved in adhering to the Buy American Act and Trade Agreements Act for businesses engaged in government procurement.'

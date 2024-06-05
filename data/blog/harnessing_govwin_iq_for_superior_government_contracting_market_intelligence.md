@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing GovWin IQ for Superior Government Contracting Market Intelligence'
-date: '2023-10-04'
+date: '2023-12-25'
 tags: ['Government Contracting', 'Market Intelligence', 'GovWin IQ']
 draft: false
 summary: 'Discover how GovWin IQ can transform your approach to government contracting by providing unparalleled market intelligence and contract opportunities.'

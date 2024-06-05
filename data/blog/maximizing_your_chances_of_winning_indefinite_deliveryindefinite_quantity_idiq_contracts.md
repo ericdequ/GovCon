@@ -1,6 +1,6 @@
 ---
 title: 'Maximizing Your Chances of Winning Indefinite Delivery/Indefinite Quantity (IDIQ) Contracts'
-date: '2023-10-12'
+date: '2023-07-10'
 tags: ['IDIQ', 'Government Contracts', 'Business Strategy']
 draft: false
 summary: 'Unlock the secrets to securing lucrative IDIQ contracts in the competitive world of government contracting. This comprehensive guide offers advanced strategies, tips, and real-life examples to help you maximize your chances of success.'

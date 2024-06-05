@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Winning Government Contract Proposal: Step-by-Step Guide'
-date: '2023-10-10'
+date: '2023-04-13'
 tags: ['Government Contracting', 'Proposal Development', 'RFP', 'Compliance', 'Value Proposition']
 draft: true
 summary: 'Get a detailed guide on crafting a compelling government contract proposal, from understanding RFP requirements to presenting a strong value proposition and ensuring compliance.'

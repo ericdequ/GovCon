@@ -1,6 +1,6 @@
 ---
 title: 'Cybersecurity Essentials for Government Contractors: Protecting Sensitive Data'
-date: '2023-10-05'
+date: '2024-05-01'
 tags: ['Cybersecurity', 'Government', 'Data Protection']
 draft: false
 summary: 'Explore the crucial cybersecurity measures that government contractors need to adopt to protect sensitive data and ensure compliance with federal regulations.'

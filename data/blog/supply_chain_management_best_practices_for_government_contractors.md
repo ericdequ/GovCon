@@ -1,6 +1,6 @@
 ---
 title: 'Supply Chain Management Best Practices for Government Contractors'
-date: '2023-10-02'
+date: '2023-08-18'
 tags: ['Supply Chain', 'Government Contracting', 'Best Practices']
 draft: false
 summary: 'Unlock the secrets to seamless supply chain management for government contractors by following these expert best practices, boosting efficiency, and ensuring compliance.'

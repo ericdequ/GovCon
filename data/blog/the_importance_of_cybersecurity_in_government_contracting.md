@@ -1,6 +1,6 @@
 ---
 title: "The Importance of Cybersecurity in Government Contracting"
-date: '2024-05-21'
+date: '2024-05-25'
 tags:  ['cybersecurity', 'government contracting', 'CMMC', 'NIST SP 800-171', 'compliance', 'best practices', 'data protection']
 draft: true
 summary: "Understand the critical role of cybersecurity in government contracts, including best practices for protecting sensitive information and meeting regulatory requirements such as CMMC and NIST SP 800-171."

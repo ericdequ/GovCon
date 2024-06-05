@@ -1,6 +1,6 @@
 ---
 title: 'Ensuring Compliance with Government Contract Reporting Requirements'
-date: '2023-10-03'
+date: '2023-11-21'
 tags: ['Compliance', 'Government Contracts', 'Reporting']
 draft: false
 summary: 'In this deep dive, we explore how businesses can ensure compliance with stringent government contract reporting requirements using innovative technology solutions!'

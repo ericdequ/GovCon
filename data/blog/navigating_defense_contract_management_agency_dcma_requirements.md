@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Defense Contract Management Agency (DCMA) Requirements'
-date: '2023-10-25'
+date: '2024-01-07'
 tags: ['Defense', 'Contract Management', 'DCMA']
 draft: false
 summary: 'Unravel the complexities of working with the Defense Contract Management Agency (DCMA) and learn how to navigate its requirements efficiently. From compliance to collaboration, this guide offers actionable insights for contractors aiming to succeed in the defense sector.'

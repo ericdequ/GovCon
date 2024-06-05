@@ -1,6 +1,6 @@
 ---
 title: 'The Benefits of Defense Acquisition University (DAU) Training for Contractors'
-date: '2023-10-05'
+date: '2023-06-08'
 tags: ['Defense', 'Training', 'Contractors', 'Innovation']
 draft: false
 summary: 'Discover how Defense Acquisition University (DAU) training programs are revolutionizing the way contractors operate, fostering innovation, efficiency, and compliance in the defense industry.'

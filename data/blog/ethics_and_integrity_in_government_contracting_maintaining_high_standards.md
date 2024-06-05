@@ -1,6 +1,6 @@
 ---
 title: 'Ethics and Integrity in Government Contracting: Maintaining High Standards'
-date: '2023-10-01'
+date: '2023-02-24'
 tags: ['Ethics', 'Government', 'Integrity', 'Contracting']
 draft: false
 summary: 'Exploring the crucial role of ethics and integrity in government contracting and how maintaining high standards ensures transparent, fair, and effective procurement processes. This post delves into the key aspects and benefits while uncovering best practices in the field.'

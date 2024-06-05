@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Competitive Edge in the Government Contracting Marketplace'
-date: '2023-10-05'
+date: '2023-01-18'
 tags: ['Government Contracting', 'Competitive Strategy', 'Innovation']
 draft: false
 summary: 'Explore strategies and innovative technologies that can give your business a competitive advantage in the government contracting marketplace.'

@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Government Contract Opportunities with the SAM.gov API'
-date: '2024-05-30'
+date: '2024-03-23'
 tags: ['Government Contracts', 'API Integration', 'Procurement']
 draft: false
 summary: 'Explore how to leverage the SAM.gov API to discover and access government contract opportunities efficiently. This guide provides an overview, key functionalities, and practical examples to get you started.'

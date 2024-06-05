@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Defense Federal Acquisition Regulation Supplement (DFARS) on Contractors'
-date: '2023-10-11'
+date: '2023-03-09'
 tags: ['Technology', 'Cybersecurity', 'Government']
 draft: false
 summary: 'Explore how DFARS compliance is transforming contractor responsibilities and the proactive steps you can take to stay ahead in the defense industry.'

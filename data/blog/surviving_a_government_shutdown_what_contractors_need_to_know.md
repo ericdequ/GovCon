@@ -1,6 +1,6 @@
 ---
 title: 'Surviving a Government Shutdown: What Contractors Need to Know'
-date: '2023-10-01'
+date: '2023-07-17'
 tags: ['Government Shutdown', 'Contractors', 'Business Continuity']
 draft: false
 summary: 'A comprehensive guide for contractors on how to navigate the uncertainties and challenges of a government shutdown, ensuring business continuity and stability.'

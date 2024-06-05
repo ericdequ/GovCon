@@ -1,6 +1,6 @@
 ---
 title: 'The Advantages of Task Order Contracts for Government Projects'
-date: '2023-10-18'
+date: '2023-07-27'
 tags: ['Government Contracts', 'Project Management', 'Procurement']
 draft: false
 summary: 'Discover how task order contracts are revolutionizing government projects by adding flexibility, efficiency, and cost-effectiveness.'

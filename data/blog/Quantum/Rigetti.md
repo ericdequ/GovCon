@@ -1,6 +1,6 @@
 ---
 title: 'Rigetti Computing: Building Superconducting Quantum Computers'
-date: '2022-02-01'
+date: '2023-11-29'
 tags:
   [
     'Quantum Computing',

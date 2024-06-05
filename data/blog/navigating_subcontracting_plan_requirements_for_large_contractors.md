@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Subcontracting Plan Requirements for Large Contractors'
-date: '2023-10-01'
+date: '2024-01-05'
 tags: ['Subcontracting', 'Contract Management', 'Small Business']
 draft: false
 summary: 'Unlock successful project management and compliance by effectively navigating subcontracting plan requirements for large contractors.'

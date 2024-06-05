@@ -1,6 +1,6 @@
 ---
 title: 'The Contracting Officer Representatives Role in Contract Management'
-date: '2023-10-05'
+date: '2024-03-28'
 tags: ['Contract Management', 'Procurement', 'Business']
 draft: false
 summary: 'Learn about the pivotal role that a Contracting Officer Representative (COR) plays in contract management, ensuring smooth execution, compliance, and mutual success between parties involved.'

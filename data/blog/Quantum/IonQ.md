@@ -1,6 +1,6 @@
 ---
 title: 'IonQ: Pioneering Trapped Ion Quantum Computing'
-date: '2022-02-01'
+date: '2023-02-16'
 tags:
   [
     'Quantum Computing',

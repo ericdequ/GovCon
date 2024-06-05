@@ -1,6 +1,6 @@
 ---
 title: 'Pricing Strategies for Winning Government Contracts: Balancing Profit and Competitiveness'
-date: '2023-10-10'
+date: '2024-02-03'
 tags: ['Government Contracts', 'Pricing Strategies', 'Business Growth']
 draft: false
 summary: 'Unlock the secrets to securing lucrative government contracts by mastering the art of pricing strategy—a delicate equilibrium between maximizing profit and staying competitive.'

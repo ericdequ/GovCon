@@ -1,6 +1,6 @@
 ---
 title: 'Discover QuantumLearn: The Open-Source Learning Revolution 🌐'
-date: '2023-10-23'
+date: '2024-04-07'
 tags:
   [
     'Open Source',

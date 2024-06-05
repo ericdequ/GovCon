@@ -1,6 +1,6 @@
 ---
 title: 'The Critical Role of Contract Administration in Government Projects'
-date: '2023-10-15'
+date: '2023-01-30'
 tags: ['Government', 'Contract Administration', 'Project Management']
 draft: false
 summary: 'Dive into the unsung hero of government projects — contract administration, and discover why its pivotal for project success.'

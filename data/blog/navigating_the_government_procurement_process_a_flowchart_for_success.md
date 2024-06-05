@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Government Procurement Process: A Flowchart for Success'
-date: '2023-10-02'
+date: '2023-08-09'
 tags: ['Government Procurement', 'Business', 'Innovation']
 draft: false
 summary: 'Unlock the secrets to successfully navigating the government procurement process with our in-depth guide and flowchart. Discover the strategies you need to secure lucrative contracts and grow your business.'

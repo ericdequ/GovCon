@@ -1,6 +1,6 @@
 ---
 title: 'The Pre-Award Survey: What It Is and How to Prepare'
-date: '2023-10-07'
+date: '2024-05-31'
 tags: ['Government Contracts', 'Business Development', 'Compliance']
 draft: false
 summary: 'Learn what a pre-award survey is, why its important, and how to best prepare your business to ace it and land that all-important government contract.'

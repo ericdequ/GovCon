@@ -1,6 +1,6 @@
 ---
 title: 'Marketing Your Products and Services to Government Agencies via GSA Advantage!'
-date: '2023-10-10'
+date: '2023-01-22'
 tags: ['GSA Advantage', 'Government Marketing', 'Technology']
 draft: false
 summary: 'Unlock the secrets to successfully marketing your products and services to government agencies through GSA Advantage! Learn how to navigate the platform, optimize your listings, and stand out in the competitive landscape.'

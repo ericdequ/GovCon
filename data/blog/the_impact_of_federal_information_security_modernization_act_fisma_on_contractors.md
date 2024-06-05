@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of Federal Information Security Modernization Act (FISMA) on Contractors'
-date: '2023-10-02'
+date: '2024-03-30'
 tags: ['FISMA', 'Cybersecurity', 'Federal Contractors']
 draft: false
 summary: 'Explore how the Federal Information Security Modernization Act (FISMA) influences contractors working with federal agencies. From compliance to implementation, discover the key facets and burgeoning opportunities in federal cybersecurity mandates.'

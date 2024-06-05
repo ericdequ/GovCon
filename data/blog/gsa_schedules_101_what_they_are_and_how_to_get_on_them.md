@@ -1,6 +1,6 @@
 ---
 title: 'GSA Schedules 101: What They Are and How to Get on Them'
-date: '2023-10-10'
+date: '2024-04-22'
 tags: ['Government', 'Procurement', 'Business']
 draft: false
 summary: 'Unlock the secrets of GSA Schedules, the gateway to lucrative government contracts for your business. Learn what they are, their benefits, and how to get listed!'

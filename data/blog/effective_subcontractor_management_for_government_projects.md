@@ -1,6 +1,6 @@
 ---
 title: 'Effective Subcontractor Management for Government Projects'
-date: '2023-10-02'
+date: '2023-02-11'
 tags: ['Government Projects', 'Subcontractor Management', 'Project Management']
 draft: false
 summary: 'Unlock the secrets to managing subcontractors effectively in government projects with our comprehensive guide. Learn best practices, key strategies, and innovative approaches to ensure project success and compliance.'

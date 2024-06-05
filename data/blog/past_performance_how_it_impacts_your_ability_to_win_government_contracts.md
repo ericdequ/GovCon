@@ -1,6 +1,6 @@
 ---
 title: 'Past Performance: How It Impacts Your Ability to Win Government Contracts'
-date: '2023-10-15'
+date: '2023-12-01'
 tags: ['Government Contracts', 'Business Strategy', 'Compliance']
 draft: false
 summary: 'Discover the significant role past performance plays in securing government contracts and learn how to leverage your company’s history for future success.'

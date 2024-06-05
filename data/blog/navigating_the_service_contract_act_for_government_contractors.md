@@ -1,7 +1,7 @@
 ---
 
 title: 'Navigating the Service Contract Act for Government Contractors'
-date: '2023-10-01'
+date: '2023-07-31'
 tags: ['Government Contracts', 'Service Contract Act', 'Compliance']
 draft: false
 summary: 'Understanding and complying with the Service Contract Act (SCA) is critical for government contractors. This blog post dives into the nuances, requirements, and strategic approaches to mastering the SCA landscape.'

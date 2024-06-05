@@ -1,6 +1,6 @@
 ---
 title: 'Implementing Earned Value Management (EVM) in Government Projects'
-date: '2023-10-10'
+date: '2024-05-16'
 tags: ['EVM', 'Project Management', 'Government']
 draft: false
 summary: 'Explore how Earned Value Management (EVM) can transform government projects, boost efficiency, transparency, and deliver value on time and within budget.'

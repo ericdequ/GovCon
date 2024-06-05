@@ -1,6 +1,6 @@
 ---
 title: 'The Benefits of Performance-Based Contracting for Government Projects'
-date: '2023-10-01'
+date: '2023-11-12'
 tags: ['Government', 'Contracting', 'Innovation']
 draft: false
 summary: 'Discover how performance-based contracting can revolutionize government projects, enhancing efficiency, accountability, and innovation.'

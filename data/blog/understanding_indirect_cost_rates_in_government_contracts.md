@@ -1,6 +1,6 @@
 ---
 title: 'Understanding Indirect Cost Rates in Government Contracts'
-date: '2023-10-05'
+date: '2024-04-13'
 tags: ['Government Contracts', 'Indirect Costs', 'Finance']
 draft: false
 summary: 'Dive into the complexities of indirect cost rates in government contracts and learn how they can impact your project’s budget and performance.'

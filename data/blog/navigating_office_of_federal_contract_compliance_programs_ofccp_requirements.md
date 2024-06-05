@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Office of Federal Contract Compliance Programs (OFCCP) Requirements'
-date: '2023-11-01'
+date: '2023-03-20'
 tags: ['Regulations', 'Compliance', 'Federal Contracts']
 draft: false
 summary: 'Unlock the secrets to navigating OFCCP requirements and ensuring your business meets federal compliance standards effortlessly.'

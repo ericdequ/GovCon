@@ -1,6 +1,6 @@
 ---
 title: 'Teaming Agreements and Joint Ventures: Collaborating for Government Contracting Success'
-date: '2023-10-07'
+date: '2023-04-15'
 tags: ['Government Contracting', 'Business Partnerships', 'Teaming Agreements', 'Joint Ventures']
 draft: false
 summary: 'Unlock the secrets of success in government contracting through innovative teaming agreements and joint ventures. Discover how collaboration can propel your business to new heights.'

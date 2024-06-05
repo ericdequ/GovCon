@@ -1,6 +1,6 @@
 ---
 title: 'Using the System for Award Management (SAM) Exclusions List to Vet Subcontractors'
-date: '2023-10-12'
+date: '2024-05-07'
 tags: ['Contracting', 'Compliance', 'Technology']
 draft: false
 summary: 'Discover how leveraging the SAM Exclusions List can enhance your subcontractor vetting process for better compliance and risk management.'

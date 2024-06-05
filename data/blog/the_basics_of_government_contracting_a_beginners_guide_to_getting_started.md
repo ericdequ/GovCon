@@ -1,6 +1,6 @@
 ---
 title: 'The Basics of Government Contracting: A Beginners Guide to Getting Started'
-date: '2023-10-04'
+date: '2023-01-23'
 tags: ['Government Contracting', 'Business', 'Innovation']
 draft: false
 summary: 'Dive into the world of government contracting with this beginner-friendly guide that breaks down essential steps and tips for securing a government contract.'

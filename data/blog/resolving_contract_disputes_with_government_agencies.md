@@ -1,6 +1,6 @@
 ---
 title: 'Resolving Contract Disputes with Government Agencies'
-date: '2023-10-06'
+date: '2024-01-04'
 tags: ['Government', 'Contracts', 'LegalTech']
 draft: false
 summary: 'Unpacking the complexities of contract disputes with government agencies and how technology is paving the way for smoother resolutions.'

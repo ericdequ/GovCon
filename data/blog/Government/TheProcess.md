@@ -1,6 +1,6 @@
 ---
 title: 'Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜'
-date: '2023-09-20'
+date: '2023-06-13'
 tags:
   ['Government Contracts', 'Business Strategy', 'TTP', 'government-sales', 'government-procurement']
 draft: false

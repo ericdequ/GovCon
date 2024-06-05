@@ -1,6 +1,6 @@
 ---
 title: 'The Impact of the National Defense Authorization Act (NDAA) on Contracting'
-date: '2023-10-13'
+date: '2023-01-30'
 tags: ['NDAA', 'Contracting', 'Defense']
 draft: false
 summary: 'Explore how the National Defense Authorization Act transforms defense contracting, spearheads innovation, and reshapes the future of national security.'

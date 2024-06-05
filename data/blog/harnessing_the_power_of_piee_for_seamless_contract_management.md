@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing the Power of PIEE for Seamless Contract Management'
-date: '2023-10-12'
+date: '2023-07-21'
 tags: ['Contract Management', 'PIEE', 'Technology']
 draft: false
 summary: 'Explore how the Procurement Integrated Enterprise Environment (PIEE) transforms contract management with advanced features and seamless integration.'

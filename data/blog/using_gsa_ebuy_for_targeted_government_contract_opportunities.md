@@ -1,6 +1,6 @@
 ---
 title: 'Using GSA eBuy for Targeted Government Contract Opportunities'
-date: '2023-10-04'
+date: '2024-06-03'
 tags: ['GSA', 'Government Contracts', 'eBuy']
 draft: false
 summary: 'Explore how to leverage the GSA eBuy platform to secure targeted government contracts and enhance your business growth.'

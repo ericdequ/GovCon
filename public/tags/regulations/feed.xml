@@ -7,25 +7,15 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Wed, 01 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 31 Jul 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/regulations/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</guid>
-    <title>Navigating Office of Federal Contract Compliance Programs (OFCCP) Requirements</title>
-    <link>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</link>
-    <description>Unlock the secrets to navigating OFCCP requirements and ensuring your business meets federal compliance standards effortlessly.</description>
-    <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Regulations</category><category>Compliance</category><category>Federal Contracts</category>
-  </item>
-
   <item>
     <guid>https://www.govcon.com/blog/ensuring_compliance_key_regulations_and_standards_for_government_contractors</guid>
     <title>Ensuring Compliance: Key Regulations and Standards for Government Contractors</title>
     <link>https://www.govcon.com/blog/ensuring_compliance_key_regulations_and_standards_for_government_contractors</link>
     <description>Dive into the regulatory landscape for government contractors, exploring the essential standards and compliance requirements to navigate this complex field successfully.</description>
-    <pubDate>Sat, 28 Oct 2023 00:00:00 GMT</pubDate>
+    <pubDate>Mon, 31 Jul 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Government</category><category>Compliance</category><category>Regulations</category>
   </item>
@@ -35,9 +25,19 @@
     <title>Labor Compliance Essentials for Government Contractors</title>
     <link>https://www.govcon.com/blog/labor_compliance_essentials_for_government_contractors</link>
     <description>Dive into the essentials of labor compliance for government contractors, exploring key regulations, innovative strategies, and best practices to ensure your business stays compliant and competitive.</description>
-    <pubDate>Sat, 07 Oct 2023 00:00:00 GMT</pubDate>
+    <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Government Contracts</category><category>Labor Compliance</category><category>Regulations</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</guid>
+    <title>Navigating Office of Federal Contract Compliance Programs (OFCCP) Requirements</title>
+    <link>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</link>
+    <description>Unlock the secrets to navigating OFCCP requirements and ensuring your business meets federal compliance standards effortlessly.</description>
+    <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Regulations</category><category>Compliance</category><category>Federal Contracts</category>
   </item>
 
     </channel>

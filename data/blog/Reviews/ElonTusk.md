@@ -1,6 +1,6 @@
 ---
 title: 'Elon Tusk Blog Review'
-date: '2022-05-30'
+date: '2023-03-25'
 tags: ['Science', 'Technology', 'Innovation', 'Blog Review']
 draft: false
 summary: 'A comprehensive review of the Elon Tusk blog, highlighting its insightful articles on quantum computing, biomimicry, AI ethics, and more.'

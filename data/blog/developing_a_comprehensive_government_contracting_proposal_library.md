@@ -1,6 +1,6 @@
 ---
 title: 'Developing a Comprehensive Government Contracting Proposal Library'
-date: '2023-10-03'
+date: '2023-11-24'
 tags: ['Government Contracting', 'Proposal Writing', 'Project Management']
 draft: false
 summary: 'Explore the essential elements and benefits of creating a thorough and dynamic Government Contracting Proposal Library to streamline your proposal process and boost your win rates.'

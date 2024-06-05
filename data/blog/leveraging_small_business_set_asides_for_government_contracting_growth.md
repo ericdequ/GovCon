@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Small Business Set-Asides for Government Contracting Growth'
-date: '2023-10-05'
+date: '2024-01-24'
 tags: ['Government Contracting', 'Small Business', 'Growth Strategies']
 draft: false
 summary: 'Discover how leveraging small business set-asides can propel your company to new heights in the lucrative world of government contracting.'

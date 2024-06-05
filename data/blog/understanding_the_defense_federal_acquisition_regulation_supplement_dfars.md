@@ -1,6 +1,6 @@
 ---
 title: 'Understanding the Defense Federal Acquisition Regulation Supplement (DFARS)'
-date: '2024-05-21'
+date: '2023-07-30'
 tags: ['Government Contracting', 'DFARS', 'Cybersecurity', 'Compliance', 'Defense Contracts', 'Ethical Considerations']
 draft: true
 summary: 'Learn the key aspects of DFARS that contractors must comply with when working on defense-related contracts, including cybersecurity requirements and ethical considerations.'

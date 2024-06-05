@@ -1,6 +1,6 @@
 ---
 title: 'Implementing Continuous Improvement Practices in Government Contracting'
-date: '2023-10-11'
+date: '2023-05-17'
 tags: ['Government', 'Continuous Improvement', 'Contracting']
 draft: false
 summary: 'Exploring how continuous improvement practices can revolutionize government contracting by making it more efficient, transparent, and responsive to change.'

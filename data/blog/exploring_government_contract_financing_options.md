@@ -1,6 +1,6 @@
 ---
 title: 'Exploring Government Contract Financing Options'
-date: '2023-10-21'
+date: '2023-05-28'
 tags: ['Finance', 'Government Contracts', 'Business']
 draft: false
 summary: 'A deep dive into the diverse financing options available for businesses tackling government contracts and how to leverage them for growth and sustainability.'

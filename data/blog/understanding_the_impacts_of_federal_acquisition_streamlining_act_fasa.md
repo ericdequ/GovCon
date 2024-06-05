@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Impacts of Federal Acquisition Streamlining Act (FASA)"
-date: '2024-05-21'
+date: '2024-05-05'
 tags: ['Government Contracting', 'FASA', 'Federal Procurement', 'Compliance', 'Contractor Tips']
 draft: true
 summary: "Learn how FASA has simplified the federal procurement process and what it means for contractors, including key provisions and practical tips for compliance."

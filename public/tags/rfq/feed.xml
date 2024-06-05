@@ -7,19 +7,9 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Oct 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/tags/rfq/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://www.govcon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</guid>
-    <title>Mastering the Art of Crafting Effective Responses to Government Contract RFPs and RFQs</title>
-    <link>https://www.govcon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</link>
-    <description>Unlock the secrets to creating winning responses to government contract RFPs and RFQs. Learn the strategies that can give you the competitive edge.</description>
-    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Government Contracts</category><category>RFP</category><category>RFQ</category>
-  </item>
-
   <item>
     <guid>https://www.govcon.com/blog/securing_government_contracts_through_gsa_ebuy</guid>
     <title>Securing Government Contracts through GSA eBuy</title>
@@ -28,6 +18,16 @@
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Government Contracting</category><category>GSA eBuy</category><category>RFQ</category><category>Bidding</category><category>Procurement</category><category>Government Opportunities</category><category>Contracting Tips</category><category>Small Business</category><category>Federal Contracts</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</guid>
+    <title>Mastering the Art of Crafting Effective Responses to Government Contract RFPs and RFQs</title>
+    <link>https://www.govcon.com/blog/mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs</link>
+    <description>Unlock the secrets to creating winning responses to government contract RFPs and RFQs. Learn the strategies that can give you the competitive edge.</description>
+    <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracts</category><category>RFP</category><category>RFQ</category>
   </item>
 
     </channel>

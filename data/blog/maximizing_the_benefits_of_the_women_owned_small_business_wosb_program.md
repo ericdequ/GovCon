@@ -1,6 +1,6 @@
 ---
 title: "Maximizing the Benefits of the Women-Owned Small Business (WOSB) Program"
-date: '2024-05-21'
+date: '2023-04-21'
 tags: ['Government Contracting', 'Women Entrepreneurs', 'WOSB Program', 'Government Procurement', 'Small Business', 'Certification', 'Eligibility', 'Success Strategies']
 draft: true
 summary: "Discover how the WOSB program can help women entrepreneurs secure government contracts, including eligibility requirements, certification process, and success strategies."

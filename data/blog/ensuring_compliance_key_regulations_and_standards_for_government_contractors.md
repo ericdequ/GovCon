@@ -1,6 +1,6 @@
 ---
 title: 'Ensuring Compliance: Key Regulations and Standards for Government Contractors'
-date: '2023-10-28'
+date: '2023-07-31'
 tags: ['Government', 'Compliance', 'Regulations']
 draft: false
 summary: 'Dive into the regulatory landscape for government contractors, exploring the essential standards and compliance requirements to navigate this complex field successfully.'

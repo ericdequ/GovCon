@@ -1,7 +1,7 @@
 ---
 
 title: 'Ensuring Compliance with Export Control Regulations in Government Contracts'
-date: '2023-10-06'
+date: '2024-03-11'
 tags: ['Export Control', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Discover how to navigate the complex landscape of export control regulations in government contracts, ensuring your projects remain compliant and successful.'

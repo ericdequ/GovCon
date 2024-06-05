@@ -1,6 +1,6 @@
 ---
 title: 'Leveraging Certifications for Government Contracting Advantages: 8(a), HUBZone, and More'
-date: '2023-10-10'
+date: '2023-05-01'
 tags: ['Government Contracting', 'Certifications', 'Small Business']
 draft: false
 summary: 'Discover how small businesses can gain a competitive edge in government contracting through certifications like 8(a), HUBZone, and others, unlocking opportunities and enhancing capabilities.'

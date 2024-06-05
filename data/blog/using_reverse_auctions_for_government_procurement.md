@@ -1,6 +1,6 @@
 ---
 title: 'Using Reverse Auctions for Government Procurement'
-date: '2023-10-20'
+date: '2023-12-28'
 tags: ['Government', 'Procurement', 'Reverse Auctions', 'Technology']
 draft: false
 summary: 'Explore the innovative approach of reverse auctions in government procurement, and how it drives efficiency and cost savings.'

@@ -1,6 +1,6 @@
 ---
 title: 'Bid Protests: What to Do When You Disagree with a Contract Award'
-date: '2023-10-01'
+date: '2024-05-27'
 tags: ['Contracting', 'Bid Protest', 'Legal Process']
 draft: false
 summary: 'Discover the ins and outs of bid protests, learn the steps to take when a contract award doesn’t go your way, and find out how to turn a setback into an opportunity.'

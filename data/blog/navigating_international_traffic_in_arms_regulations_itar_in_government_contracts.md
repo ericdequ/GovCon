@@ -1,6 +1,6 @@
 ---
 title: 'Navigating International Traffic in Arms Regulations (ITAR) in Government Contracts'
-date: '2023-10-01'
+date: '2024-02-02'
 tags: ['ITAR', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Dive deep into the intricacies of ITAR compliance in government contracts, ensuring your projects sail smoothly while adhering to critical regulations.'

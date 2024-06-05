@@ -1,6 +1,6 @@
 ---
 title: 'Using Government Contracting to Enter New Markets and Diversify Your Business'
-date: '2023-10-04'
+date: '2024-01-14'
 tags: ['Government Contracting', 'Business Growth', 'Market Diversification']
 draft: false
 summary: 'Discover how leveraging government contracts can open new avenues for market entry and diversification, ensuring long-term growth and stability for your business.'

@@ -1,6 +1,6 @@
 ---
 title: 'IBM: Pioneering Quantum Computing with Superconducting Qubits'
-date: '2022-02-01'
+date: '2023-07-26'
 tags:
   ['Quantum Computing', 'IBM', 'Superconducting Qubits', 'Qiskit', 'Cloud-based Quantum Computing']
 draft: false

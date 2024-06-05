@@ -1,6 +1,6 @@
 ---
 title: 'Market Research Methods for Identifying Government Contracting Opportunities'
-date: '2023-10-05'
+date: '2024-01-02'
 tags: ['Government Contracting', 'Market Research', 'Business Strategy']
 draft: false
 summary: 'Unveil the secrets to discovering lucrative government contracts through advanced market research techniques. From data mining to leveraging technological tools, explore the methods that will put your business ahead of the competition.'

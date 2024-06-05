@@ -1,6 +1,6 @@
 ---
 title: 'Risk Management Strategies for Government Contractors'
-date: '2023-10-05'
+date: '2024-03-09'
 tags: ['Risk Management', 'Government Contracts', 'Strategy']
 draft: false
 summary: 'Discover the best risk management strategies that government contractors can employ to stay ahead of potential pitfalls and ensure project success.'

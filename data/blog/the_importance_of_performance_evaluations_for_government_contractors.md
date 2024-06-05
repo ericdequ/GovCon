@@ -1,6 +1,6 @@
 ---
 title: 'The Importance of Performance Evaluations for Government Contractors'
-date: '2023-10-05'
+date: '2023-02-15'
 tags: ['Government', 'Contracting', 'Performance']
 draft: false
 summary: 'Dive into why performance evaluations are essential for government contractors, ensuring quality, accountability, and progress in public projects.'

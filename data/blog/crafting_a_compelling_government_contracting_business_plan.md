@@ -1,6 +1,6 @@
 ---
 title: 'Crafting a Compelling Government Contracting Business Plan'
-date: '2023-10-05'
+date: '2023-07-22'
 tags: ['Government Contracting', 'Business Plan', 'Innovation']
 draft: false
 summary: 'Unlock the secrets to building a robust and dynamic business plan tailored for government contracting that guarantees success.'

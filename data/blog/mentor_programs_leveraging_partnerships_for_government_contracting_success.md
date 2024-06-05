@@ -1,6 +1,6 @@
 ---
 title: 'Mentor-Programs: Leveraging Partnerships for Government Contracting Success'
-date: '2023-10-05'
+date: '2023-01-13'
 tags: ['Government Contracting', 'Mentorship', 'Small Business']
 draft: false
 summary: 'Discover how mentor-protégé programs can empower small businesses and lead them to governmental contracting success through strategic partnerships.'
