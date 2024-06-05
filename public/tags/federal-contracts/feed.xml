@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Wed, 01 Nov 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/federal-contracts/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</guid>
+    <title>Navigating Office of Federal Contract Compliance Programs (OFCCP) Requirements</title>
+    <link>https://www.govcon.com/blog/navigating_office_of_federal_contract_compliance_programs_ofccp_requirements</link>
+    <description>Unlock the secrets to navigating OFCCP requirements and ensuring your business meets federal compliance standards effortlessly.</description>
+    <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Regulations</category><category>Compliance</category><category>Federal Contracts</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/securing_government_contracts_through_gsa_ebuy</guid>
+    <title>Securing Government Contracts through GSA eBuy</title>
+    <link>https://www.govcon.com/blog/securing_government_contracts_through_gsa_ebuy</link>
+    <description>Explore how to use GSA eBuy, an online RFQ tool, to find and bid on government contracts, including tips for creating compelling quotes and managing the bidding process.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>GSA eBuy</category><category>RFQ</category><category>Bidding</category><category>Procurement</category><category>Government Opportunities</category><category>Contracting Tips</category><category>Small Business</category><category>Federal Contracts</category>
+  </item>
+
+    </channel>
+  </rss>

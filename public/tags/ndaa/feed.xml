@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Fri, 13 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/ndaa/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/the_impact_of_the_national_defense_authorization_act_ndaa_on_contracting</guid>
+    <title>The Impact of the National Defense Authorization Act (NDAA) on Contracting</title>
+    <link>https://www.govcon.com/blog/the_impact_of_the_national_defense_authorization_act_ndaa_on_contracting</link>
+    <description>Explore how the National Defense Authorization Act transforms defense contracting, spearheads innovation, and reshapes the future of national security.</description>
+    <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>NDAA</category><category>Contracting</category><category>Defense</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Sun, 15 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/cas/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/understanding_cost_accounting_standards_cas_for_government_contracts</guid>
+    <title>Understanding Cost Accounting Standards (CAS) for Government Contracts</title>
+    <link>https://www.govcon.com/blog/understanding_cost_accounting_standards_cas_for_government_contracts</link>
+    <description>Dive into the world of Cost Accounting Standards (CAS) and discover how they shape government contracts, ensuring fairness, transparency, and fiscal responsibility.</description>
+    <pubDate>Sun, 15 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Cost Accounting</category><category>CAS</category><category>Government Contracts</category>
+  </item>
+
+    </channel>
+  </rss>

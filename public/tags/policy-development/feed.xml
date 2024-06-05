@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/policy-development/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/building_a_robust_compliance_program_for_government_contracting</guid>
+    <title>Building a Robust Compliance Program for Government Contracting</title>
+    <link>https://www.govcon.com/blog/building_a_robust_compliance_program_for_government_contracting</link>
+    <description>Explore the key components of an effective compliance program, including risk assessment, policy development, training, and monitoring to ensure adherence to government regulations.</description>
+    <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>Compliance</category><category>Risk Assessment</category><category>Policy Development</category><category>Training</category><category>Monitoring</category>
+  </item>
+
+    </channel>
+  </rss>

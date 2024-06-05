@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/fisma/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/the_impact_of_federal_information_security_modernization_act_fisma_on_contractors</guid>
+    <title>The Impact of Federal Information Security Modernization Act (FISMA) on Contractors</title>
+    <link>https://www.govcon.com/blog/the_impact_of_federal_information_security_modernization_act_fisma_on_contractors</link>
+    <description>Explore how the Federal Information Security Modernization Act (FISMA) influences contractors working with federal agencies. From compliance to implementation, discover the key facets and burgeoning opportunities in federal cybersecurity mandates.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>FISMA</category><category>Cybersecurity</category><category>Federal Contractors</category>
+  </item>
+
+    </channel>
+  </rss>

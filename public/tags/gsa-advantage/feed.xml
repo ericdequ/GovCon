@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/gsa-advantage/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/marketing_your_products_and_services_to_government_agencies_via_gsa_advantage</guid>
+    <title>Marketing Your Products and Services to Government Agencies via GSA Advantage!</title>
+    <link>https://www.govcon.com/blog/marketing_your_products_and_services_to_government_agencies_via_gsa_advantage</link>
+    <description>Unlock the secrets to successfully marketing your products and services to government agencies through GSA Advantage! Learn how to navigate the platform, optimize your listings, and stand out in the competitive landscape.</description>
+    <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>GSA Advantage</category><category>Government Marketing</category><category>Technology</category>
+  </item>
+
+    </channel>
+  </rss>

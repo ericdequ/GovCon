@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Thu, 30 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/building_a_robust_compliance_program_for_government_contracting</guid>
+    <title>Building a Robust Compliance Program for Government Contracting</title>
+    <link>https://www.govcon.com/blog/building_a_robust_compliance_program_for_government_contracting</link>
+    <description>Explore the key components of an effective compliance program, including risk assessment, policy development, training, and monitoring to ensure adherence to government regulations.</description>
+    <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>Compliance</category><category>Risk Assessment</category><category>Policy Development</category><category>Training</category><category>Monitoring</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/api/sam</guid>
     <title>Unlocking Government Contract Opportunities with the SAM.gov API</title>
@@ -688,6 +698,16 @@
     <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Risk Management</category><category>Government Contracts</category><category>Strategy</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/securing_government_contracts_through_gsa_ebuy</guid>
+    <title>Securing Government Contracts through GSA eBuy</title>
+    <link>https://www.govcon.com/blog/securing_government_contracts_through_gsa_ebuy</link>
+    <description>Explore how to use GSA eBuy, an online RFQ tool, to find and bid on government contracts, including tips for creating compelling quotes and managing the bidding process.</description>
+    <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>GSA eBuy</category><category>RFQ</category><category>Bidding</category><category>Procurement</category><category>Government Opportunities</category><category>Contracting Tips</category><category>Small Business</category><category>Federal Contracts</category>
   </item>
 
   <item>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Fri, 20 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/reverse-auctions/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/using_reverse_auctions_for_government_procurement</guid>
+    <title>Using Reverse Auctions for Government Procurement</title>
+    <link>https://www.govcon.com/blog/using_reverse_auctions_for_government_procurement</link>
+    <description>Explore the innovative approach of reverse auctions in government procurement, and how it drives efficiency and cost savings.</description>
+    <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government</category><category>Procurement</category><category>Reverse Auctions</category><category>Technology</category>
+  </item>
+
+    </channel>
+  </rss>

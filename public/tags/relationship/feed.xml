@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Wed, 28 Jun 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/relationship/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/Government/Relationships</guid>
+    <title>Building Relationships: The Key to Long-Term Government Sales Success 🤝🏛️</title>
+    <link>https://www.govcon.com/blog/Government/Relationships</link>
+    <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
+    <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category><category>government-sales</category><category>government-procurement</category>
+  </item>
+
+    </channel>
+  </rss>
