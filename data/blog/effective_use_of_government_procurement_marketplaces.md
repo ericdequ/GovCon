@@ -1,8 +1,8 @@
 ---
 title: "Effective Use of Government Procurement Marketplaces"
-date: '2023-10-13'
+date: '2024-06-07'
 tags: ['Government Contracting', 'Unison Marketplace', 'FedBid', 'Best Practices', 'Procurement', 'Government Contracts', 'Federal Marketplaces', 'Vendor Tips', 'Bidding Strategies']
-draft: true
+draft: false
 summary: "Explore how platforms like Unison Marketplace and FedBid can be leveraged to identify and secure government contracts efficiently, including best practices for using these tools."
 ---
 
