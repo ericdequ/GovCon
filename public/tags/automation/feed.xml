@@ -8,7 +8,7 @@
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Sun, 09 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/ai/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.com/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.govcon.com/blog/leveraging_artificial_intelligence_for_contract_management</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>AI</category><category>contract management</category><category>government contracting</category><category>automation</category><category>compliance</category><category>technology</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Reviews/RicsNoteBook</guid>
-    <title>Rics Notebook Blog Review</title>
-    <link>https://www.govcon.com/blog/Reviews/RicsNoteBook</link>
-    <description>A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.</description>
-    <pubDate>Sun, 24 Sep 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Technology</category><category>Cybersecurity</category><category>AI</category><category>Sustainability</category><category>Blog Review</category>
   </item>
 
     </channel>
