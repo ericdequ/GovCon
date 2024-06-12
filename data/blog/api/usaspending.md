@@ -150,7 +150,7 @@ Here are some commonly used endpoints and their descriptions:
 | `/api/v2/references/award_types/` | GET | Returns a map of award types by award grouping. |
 | `/api/v2/references/cfda/totals//` | GET | Provides total values for provided CFDA |
 | `/api/v2/references/cfda/totals/` | GET | Provides total values for all CFDAs |
-| `/api/v2/references/data_dictionary/` | GET | Returns a JSON structure of the Schema team's Rosetta Crosswalk Data Dictionary |
+| `/api/v2/references/data_dictionary/` | GET | Returns a JSON structure of the Schema Teams Rosetta Crosswalk Data Dictionary |
 | `/api/v2/references/def_codes/` | GET | Returns an object of Disaster Emergency Fund (DEF) Codes |
  (DEFC) and titles |
 | `/api/v2/references/filter/` | POST | Accepts an Advanced Search filter object and returns a hash which can be used as a lookup key by /api/v2/references/hash/ |
