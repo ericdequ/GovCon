@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/funding-opportunities/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/navigating_the_small_business_innovation_research_sbir_program</guid>
+    <title>Navigating the Small Business Innovation Research (SBIR) Program</title>
+    <link>https://www.govcon.com/blog/navigating_the_small_business_innovation_research_sbir_program</link>
+    <description>Learn how the SBIR program can provide funding opportunities for small businesses to engage in federal research and development with commercialization potential.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>SBIR</category><category>Small Business</category><category>Funding Opportunities</category><category>Federal Research</category><category>Commercialization</category><category>Innovation</category><category>R&D</category><category>Grants</category>
+  </item>
+
+    </channel>
+  </rss>
