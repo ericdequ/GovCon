@@ -1,8 +1,8 @@
 ---
 title: 'The Role of Performance-Based Contracting in Government Projects'
-date: '2024-05-11'
+date: '2024-06-16'
 tags: ['government contracting', 'performance-based contracts', 'project management', 'efficiency', 'best practices']
-draft: true
+draft: false
 summary: 'Explore how performance-based contracting can improve project outcomes and efficiency, including best practices for implementing and managing these contracts.'
 ---
 
