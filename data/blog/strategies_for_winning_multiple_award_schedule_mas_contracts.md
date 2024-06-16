@@ -2,7 +2,7 @@
 title: "Strategies for Winning Multiple Award Schedule (MAS) Contracts"
 date: "2024-05-21"
 tags: ['Government Contracting', 'MAS Contracts', 'Federal Acquisition', 'Business Growth', 'Procurement Strategy']
-draft: true
+draft: false
 summary: "Discover the benefits of Multiple Award Schedule contracts and the steps necessary to secure these long-term government contracts that cover various products and services."
 ---
 
