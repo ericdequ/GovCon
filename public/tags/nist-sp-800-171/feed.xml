@@ -8,7 +8,7 @@
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Mon, 17 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/data-protection/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.com/tags/nist-sp-800-171/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.govcon.com/blog/the_importance_of_cybersecurity_in_government_contracting</guid>
@@ -18,16 +18,6 @@
     <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>cybersecurity</category><category>government contracting</category><category>CMMC</category><category>NIST SP 800-171</category><category>compliance</category><category>best practices</category><category>data protection</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/cybersecurity_essentials_for_government_contractors_protecting_sensitive_data</guid>
-    <title>Cybersecurity Essentials for Government Contractors: Protecting Sensitive Data</title>
-    <link>https://www.govcon.com/blog/cybersecurity_essentials_for_government_contractors_protecting_sensitive_data</link>
-    <description>Explore the crucial cybersecurity measures that government contractors need to adopt to protect sensitive data and ensure compliance with federal regulations.</description>
-    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Cybersecurity</category><category>Government</category><category>Data Protection</category>
   </item>
 
     </channel>
