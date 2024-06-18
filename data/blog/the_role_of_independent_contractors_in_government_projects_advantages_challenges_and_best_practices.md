@@ -1,8 +1,8 @@
 ---
 title: 'The Role of Independent Contractors in Government Projects: Advantages, Challenges, and Best Practices'
-date: '2023-12-02'
+date: '2024-06-18'
 tags:  ['government contracting', 'independent contractors', 'compliance', 'contractor management', 'public sector', 'contracting tips', 'project management', 'contracting compliance', 'contract lifecycle']
-draft: true
+draft: false
 summary: 'Understand the advantages and challenges of using independent contractors in government projects, including compliance considerations and tips for managing contractor relationships.'
 ---
 
