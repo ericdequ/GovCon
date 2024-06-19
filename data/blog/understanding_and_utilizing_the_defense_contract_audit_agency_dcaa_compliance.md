@@ -1,8 +1,8 @@
 ---
 title: 'Understanding and Utilizing the Defense Contract Audit Agency (DCAA) Compliance'
-date: '2023-10-21'
+date: '2024-06-19'
 tags: ['Government Contracting', 'DCAA', 'Compliance', 'Audit', 'Accounting Systems', 'Federal Contracts', 'Best Practices', 'Preparation', 'Standards']
-draft: true
+draft: false
 summary: 'Learn the importance of DCAA compliance for government contractors, including how to prepare for audits and ensure your accounting systems meet government standards.'
 
 ---
