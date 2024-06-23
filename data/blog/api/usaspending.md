@@ -1,8 +1,8 @@
 ---
 title: 'Navigating Federal Spending Data with the USAspending API'
-date: '2023-02-14'
+date: '2024-06-23'
 tags: ['Government Contracts', 'API Integration', 'Procurement']
-draft: true
+draft: false
 summary: 'Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.'
 ---
 
