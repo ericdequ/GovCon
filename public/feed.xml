@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Sat, 22 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/api/usaspending</guid>
+    <title>Navigating Federal Spending Data with the USAspending API</title>
+    <link>https://www.govcon.com/blog/api/usaspending</link>
+    <description>Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.</description>
+    <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracts</category><category>API Integration</category><category>Procurement</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/utilizing_the_system_for_award_management_sam_for_government_contracting_success</guid>
     <title>Utilizing the System for Award Management (SAM) for Government Contracting Success</title>
