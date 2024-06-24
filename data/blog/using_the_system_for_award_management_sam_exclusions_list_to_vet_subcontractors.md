@@ -4,6 +4,8 @@ date: '2024-05-07'
 tags: ['Contracting', 'Compliance', 'Technology']
 draft: false
 summary: 'Discover how leveraging the SAM Exclusions List can enhance your subcontractor vetting process for better compliance and risk management.'
+
+images: ['https://www.govcon.me/articleimage/./using_the_system_for_award_management_sam_exclusions_list_to_vet_subcontractors.webp']
 ---
 
 # Using the System for Award Management (SAM) Exclusions List to Vet Subcontractors

@@ -4,6 +4,8 @@ date: '2023-08-27'
 tags: ['Technology', 'Innovation', 'PPIRS', 'Performance Management']
 draft: false
 summary: 'Discover how to leverage the Past Performance Information Retrieval System (PPIRS) to display and enhance your professional track record effectively.'
+
+images: ['https://www.govcon.me/articleimage/./using_past_performance_information_retrieval_system_ppirs_to_showcase_your_track_record.webp']
 ---
 
 # Using Past Performance Information Retrieval System (PPIRS) to Showcase Your Track Record

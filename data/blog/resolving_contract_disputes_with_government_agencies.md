@@ -4,6 +4,8 @@ date: '2024-01-04'
 tags: ['Government', 'Contracts', 'LegalTech']
 draft: false
 summary: 'Unpacking the complexities of contract disputes with government agencies and how technology is paving the way for smoother resolutions.'
+
+images: ['https://www.govcon.me/articleimage/./resolving_contract_disputes_with_government_agencies.webp']
 ---
 
 ## Introduction

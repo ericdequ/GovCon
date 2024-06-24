@@ -4,6 +4,8 @@ date: '2024-01-21'
 tags: ['Government', 'Policy', 'Contracting']
 draft: false
 summary: 'Explore the essential steps and key considerations in creating a robust Conflict of Interest Policy for government contracting to ensure transparency and fairness.'
+
+images: ['https://www.govcon.me/articleimage/./developing_a_conflict_of_interest_policy_for_government_contracting.webp']
 ---
 
 # Developing a Conflict of Interest Policy for Government Contracting

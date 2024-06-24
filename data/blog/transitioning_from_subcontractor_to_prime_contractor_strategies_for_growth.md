@@ -4,6 +4,8 @@ date: '2023-08-11'
 tags: ['Business Growth', 'Contracting', 'Strategy']
 draft: false
 summary: 'Unlock your potential by transforming from a subcontractor to a prime contractor. Explore strategic steps to ensure a seamless and successful transition.'
+
+images: ['https://www.govcon.me/articleimage/./transitioning_from_subcontractor_to_prime_contractor_strategies_for_growth.webp']
 ---
 
 # Transitioning from Subcontractor to Prime Contractor: Strategies for Growth

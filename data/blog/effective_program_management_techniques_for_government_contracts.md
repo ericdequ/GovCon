@@ -4,6 +4,8 @@ date: '2023-05-20'
 tags: ['Program Management', 'Government Contracts', 'Project Management']
 draft: false
 summary: 'Unlock the secrets to managing government contracts with efficiency and precision using these proven program management techniques.'
+
+images: ['https://www.govcon.me/articleimage/./effective_program_management_techniques_for_government_contracts.webp']
 ---
 
 # Effective Program Management Techniques for Government Contracts

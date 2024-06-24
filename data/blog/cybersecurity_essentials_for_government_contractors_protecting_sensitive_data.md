@@ -4,6 +4,8 @@ date: '2024-05-01'
 tags: ['Cybersecurity', 'Government', 'Data Protection']
 draft: false
 summary: 'Explore the crucial cybersecurity measures that government contractors need to adopt to protect sensitive data and ensure compliance with federal regulations.'
+
+images: ['https://www.govcon.me/articleimage/./cybersecurity_essentials_for_government_contractors_protecting_sensitive_data.webp']
 ---
 
 ## Cybersecurity Essentials for Government Contractors: Protecting Sensitive Data

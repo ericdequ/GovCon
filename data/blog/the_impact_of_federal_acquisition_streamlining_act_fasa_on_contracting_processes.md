@@ -5,6 +5,8 @@ tags: ['FASA', 'Contracting', 'Federal Acquisition']
 draft: false
 summary: 'Discover how the Federal Acquisition Streamlining Act (FASA) transformed contracting processes, fostering efficiency, innovation, and inclusiveness in government procurement.'
 
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_federal_acquisition_streamlining_act_fasa_on_contracting_processes.webp']
 ---
 
 # The Impact of Federal Acquisition Streamlining Act (FASA) on Contracting Processes

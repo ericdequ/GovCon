@@ -4,6 +4,8 @@ date: '2023-12-29'
 tags: ['Construction Technology', 'Innovation', 'Blog Review']
 draft: false
 summary: 'A detailed review of the ConTechNews blog, highlighting its comprehensive coverage of the latest trends and advancements in construction technology.'
+
+images: ['https://www.govcon.me/articleimage/Reviews/contechnews.webp']
 ---
 
 ## 🌟 ConTechNews Blog: Leading the Way in Construction Technology

@@ -4,6 +4,8 @@ date: '2023-09-22'
 tags: ['Quality Assurance', 'Government Contracts', 'Performance']
 draft: false
 summary: 'Explore essential quality assurance practices to ensure excellence in government contract performance. Dive deep into methodologies, technologies, and strategies that transform how public sector projects are managed and delivered.'
+
+images: ['https://www.govcon.me/articleimage/./quality_assurance_best_practices_for_government_contract_performance.webp']
 ---
 
 ## Quality Assurance Best Practices for Government Contract Performance

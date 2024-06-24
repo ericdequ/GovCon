@@ -4,6 +4,8 @@ date: '2024-03-09'
 tags: ['Risk Management', 'Government Contracts', 'Strategy']
 draft: false
 summary: 'Discover the best risk management strategies that government contractors can employ to stay ahead of potential pitfalls and ensure project success.'
+
+images: ['https://www.govcon.me/articleimage/./risk_management_strategies_for_government_contractors.webp']
 ---
 
 # Risk Management Strategies for Government Contractors

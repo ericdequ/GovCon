@@ -4,6 +4,8 @@ date: '2023-07-22'
 tags: ['Government Contracting', 'Business Plan', 'Innovation']
 draft: false
 summary: 'Unlock the secrets to building a robust and dynamic business plan tailored for government contracting that guarantees success.'
+
+images: ['https://www.govcon.me/articleimage/./crafting_a_compelling_government_contracting_business_plan.webp']
 ---
 
 ## Crafting a Compelling Government Contracting Business Plan

@@ -5,6 +5,8 @@ tags: ['Federal Procurement', 'Data Systems', 'Government Contracts']
 draft: false
 summary: 'Unlock the secrets of navigating the Federal Procurement Data System (FPDS) to explore lucrative opportunities and deepen your understanding of government contracts.'
 
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_federal_procurement_data_system_fpds.webp']
 ---
 
 # Navigating the Federal Procurement Data System (FPDS)

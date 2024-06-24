@@ -4,6 +4,8 @@ date: '2023-02-15'
 tags: ['Government', 'Contracting', 'Performance']
 draft: false
 summary: 'Dive into why performance evaluations are essential for government contractors, ensuring quality, accountability, and progress in public projects.'
+
+images: ['https://www.govcon.me/articleimage/./the_importance_of_performance_evaluations_for_government_contractors.webp']
 ---
 
 # The Importance of Performance Evaluations for Government Contractors

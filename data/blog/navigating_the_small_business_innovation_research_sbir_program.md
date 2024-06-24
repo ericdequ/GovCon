@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Government Contracting', 'SBIR', 'Small Business', 'Funding Opportunities', 'Federal Research', 'Commercialization', 'Innovation', 'R&D', 'Grants']
 draft: false
 summary: "Learn how the SBIR program can provide funding opportunities for small businesses to engage in federal research and development with commercialization potential."
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_small_business_innovation_research_sbir_program.webp']
 ---
 
 ## Navigating the Small Business Innovation Research (SBIR) Program

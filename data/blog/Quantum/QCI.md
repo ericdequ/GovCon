@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.'
+
+images: ['https://www.govcon.me/articleimage/Quantum/QCI.webp']
 ---
 
 # Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors

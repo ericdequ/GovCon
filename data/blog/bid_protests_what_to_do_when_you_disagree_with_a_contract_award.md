@@ -4,6 +4,8 @@ date: '2024-05-27'
 tags: ['Contracting', 'Bid Protest', 'Legal Process']
 draft: false
 summary: 'Discover the ins and outs of bid protests, learn the steps to take when a contract award doesn’t go your way, and find out how to turn a setback into an opportunity.'
+
+images: ['https://www.govcon.me/articleimage/./bid_protests_what_to_do_when_you_disagree_with_a_contract_award.webp']
 ---
 
 # Bid Protests: What to Do When You Disagree with a Contract Award

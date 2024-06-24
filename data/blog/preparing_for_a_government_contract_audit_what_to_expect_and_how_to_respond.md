@@ -4,6 +4,8 @@ date: '2024-04-12'
 tags: ['Government Contract', 'Audit', 'Compliance']
 draft: false
 summary: 'Unlock the secrets to mastering a government contract audit! Get the ultimate guide on what to expect, how to prepare, and how to come out on top.'
+
+images: ['https://www.govcon.me/articleimage/./preparing_for_a_government_contract_audit_what_to_expect_and_how_to_respond.webp']
 ---
 
 # Preparing for a Government Contract Audit: What to Expect and How to Respond

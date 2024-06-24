@@ -4,6 +4,8 @@ date: '2023-04-24'
 tags: ['Nature', 'Technology', 'Holistic Health', 'Blog Review']
 draft: false
 summary: 'A detailed review of the PlantHealth blog, highlighting its insightful articles on the intersection of nature, technology, and holistic health.'
+
+images: ['https://www.govcon.me/articleimage/Reviews/Plantheath.webp']
 ---
 
 ## 🌟 PlantHealth Blog: Bridging Nature and Technology for Holistic Wellness

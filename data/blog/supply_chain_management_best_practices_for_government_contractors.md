@@ -4,6 +4,8 @@ date: '2023-08-18'
 tags: ['Supply Chain', 'Government Contracting', 'Best Practices']
 draft: false
 summary: 'Unlock the secrets to seamless supply chain management for government contractors by following these expert best practices, boosting efficiency, and ensuring compliance.'
+
+images: ['https://www.govcon.me/articleimage/./supply_chain_management_best_practices_for_government_contractors.webp']
 ---
 
 ## Supply Chain Management Best Practices for Government Contractors

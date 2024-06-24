@@ -4,6 +4,8 @@ date: '2023-04-25'
 tags: ['Quantum Computing', 'NVIDIA', 'GPU Technology', 'Quantum Circuit Simulation', 'cuQuantum']
 draft: false
 summary: 'Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.'
+
+images: ['https://www.govcon.me/articleimage/Quantum/Nvida.webp']
 ---
 
 # NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology

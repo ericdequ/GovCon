@@ -4,6 +4,8 @@ date: '2023-10-01'
 tags: ['Government Contracts', 'Business', 'Strategy']
 draft: false
 summary: 'Learn how to successfully prepare for a government contract debriefing with these essential tips and strategies to gain valuable insights and improve future proposals.'
+
+images: ['https://www.govcon.me/articleimage/./preparing_for_a_government_contract_debriefing.webp']
 ---
 
 # Preparing for a Government Contract Debriefing

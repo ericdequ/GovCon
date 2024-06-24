@@ -4,6 +4,8 @@ date: '2023-03-20'
 tags: ['Regulations', 'Compliance', 'Federal Contracts']
 draft: false
 summary: 'Unlock the secrets to navigating OFCCP requirements and ensuring your business meets federal compliance standards effortlessly.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_office_of_federal_contract_compliance_programs_ofccp_requirements.webp']
 ---
 
 # Navigating Office of Federal Contract Compliance Programs (OFCCP) Requirements

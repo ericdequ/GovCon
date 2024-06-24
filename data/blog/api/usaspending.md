@@ -4,6 +4,8 @@ date: '2024-06-23'
 tags: ['Government Contracts', 'API Integration', 'Procurement']
 draft: false
 summary: 'Discover how to use the USAspending API to access detailed federal spending data. This comprehensive guide provides an overview, key functionalities, and practical examples to help you get started.'
+
+images: ['https://www.govcon.me/articleimage/api/usaspending.webp']
 ---
 
 # Navigating Federal Spending Data with the USAspending API

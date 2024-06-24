@@ -4,6 +4,8 @@ date: '2023-01-13'
 tags: ['Government Contracting', 'Mentorship', 'Small Business']
 draft: false
 summary: 'Discover how mentor-protégé programs can empower small businesses and lead them to governmental contracting success through strategic partnerships.'
+
+images: ['https://www.govcon.me/articleimage/./mentor_programs_leveraging_partnerships_for_government_contracting_success.webp']
 ---
 
 # Mentor-Protégé Programs: Leveraging Partnerships for Government Contracting Success

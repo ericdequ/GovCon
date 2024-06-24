@@ -4,6 +4,8 @@ date: '2023-09-26'
 tags: ['Legal', 'Business', 'Compliance']
 draft: false
 summary: 'Explore the intricacies of the False Claims Act and learn strategies to protect your business from potential liabilities and legal pitfalls.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_false_claims_act_protecting_your_business_from_liability.webp']
 ---
 
 # Navigating the False Claims Act: Protecting Your Business from Liability

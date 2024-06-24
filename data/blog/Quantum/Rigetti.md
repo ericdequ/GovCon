@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.'
+
+images: ['https://www.govcon.me/articleimage/Quantum/Rigetti.webp']
 ---
 
 # Rigetti Computing: Building Superconducting Quantum Computers

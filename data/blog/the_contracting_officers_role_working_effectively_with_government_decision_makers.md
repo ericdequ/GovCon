@@ -4,6 +4,8 @@ date: '2023-03-12'
 tags: ['Government', 'Contracts', 'Decision-Making']
 draft: false
 summary: 'Explore the pivotal role of contracting officers in effectively bridging the gap between suppliers and government decision-makers.'
+
+images: ['https://www.govcon.me/articleimage/./the_contracting_officers_role_working_effectively_with_government_decision_makers.webp']
 ---
 
 # The Contracting Officer's Role: Working Effectively with Government Decision-Makers

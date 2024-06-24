@@ -4,6 +4,8 @@ date: '2023-10-05'
 tags: ['Government Contracts', 'Pricing', 'Technology']
 draft: false
 summary: 'Dive deep into the multifaceted world of government contract pricing and discover how technology is making this intricate process more manageable.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_complexities_of_government_contract_pricing.webp']
 ---
 
 # Navigating the Complexities of Government Contract Pricing

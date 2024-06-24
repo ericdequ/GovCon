@@ -6,6 +6,8 @@ tags: ['Export Control', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Discover how to navigate the complex landscape of export control regulations in government contracts, ensuring your projects remain compliant and successful.'
 
+
+images: ['https://www.govcon.me/articleimage/./ensuring_compliance_with_export_control_regulations_in_government_contracts.webp']
 ---
 
 # Ensuring Compliance with Export Control Regulations in Government Contracts

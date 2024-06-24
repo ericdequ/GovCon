@@ -4,6 +4,8 @@ date: '2023-10-01'
 tags: ['Contract Management', 'Technology', 'Innovation']
 draft: false
 summary: 'Explore how groundbreaking technologies are revolutionizing contract performance monitoring and driving efficiency in business operations.'
+
+images: ['https://www.govcon.me/articleimage/./leveraging_technology_for_contract_performance_monitoring.webp']
 ---
 
 # Leveraging Technology for Contract Performance Monitoring

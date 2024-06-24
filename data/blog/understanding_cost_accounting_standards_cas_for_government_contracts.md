@@ -4,6 +4,8 @@ date: '2024-02-15'
 tags: ['Cost Accounting', 'CAS', 'Government Contracts']
 draft: false
 summary: 'Dive into the world of Cost Accounting Standards (CAS) and discover how they shape government contracts, ensuring fairness, transparency, and fiscal responsibility.'
+
+images: ['https://www.govcon.me/articleimage/./understanding_cost_accounting_standards_cas_for_government_contracts.webp']
 ---
 
 # Understanding Cost Accounting Standards (CAS) for Government Contracts

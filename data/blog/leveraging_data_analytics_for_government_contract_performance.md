@@ -4,6 +4,8 @@ date: '2024-06-09'
 tags: ['Data Analytics', 'Government Contracting', 'Contract Performance', 'Decision-Making', 'Monitoring', 'Trends', 'Procurement', 'Technology']
 draft: false
 summary: "Discover how data analytics tools can enhance contract performance monitoring, identify trends, and improve decision-making processes in government contracting."
+
+images: ['https://www.govcon.me/articleimage/./leveraging_data_analytics_for_government_contract_performance.webp']
 ---
 
 # Leveraging Data Analytics for Government Contract Performance

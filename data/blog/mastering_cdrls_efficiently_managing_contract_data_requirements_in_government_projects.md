@@ -4,6 +4,8 @@ date: '2023-05-26'
 tags: ['Government Projects', 'Data Management', 'CDRL']
 draft: false
 summary: 'Unlock the secrets to managing Contract Data Requirements Lists (CDRLs) in government projects with ease and efficiency. Learn the best practices, tools, and strategies to streamline your workflow and avoid common pitfalls.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_cdrls_efficiently_managing_contract_data_requirements_in_government_projects.webp']
 ---
 
 # Mastering CDRLs: Efficiently Managing Contract Data Requirements in Government Projects

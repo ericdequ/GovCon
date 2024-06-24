@@ -4,6 +4,8 @@ date: '2023-12-27'
 tags: ['Marketing Strategy', 'Government Contracting', 'Business Development']
 draft: false
 summary: 'Unlock the secrets to effectively marketing your business to government entities with a targeted strategy designed specifically for government contracting.'
+
+images: ['https://www.govcon.me/articleimage/./developing_a_targeted_marketing_strategy_for_government_contracting.webp']
 ---
 
 # Developing a Targeted Marketing Strategy for Government Contracting

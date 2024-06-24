@@ -4,6 +4,8 @@ date: '2023-01-19'
 tags: ['Government Contracts', 'Business Development', 'Marketing']
 draft: false
 summary: 'Unlock the secrets of creating an impactful capabilities statement to effectively market your business to government agencies.'
+
+images: ['https://www.govcon.me/articleimage/./using_capabilities_statements_to_market_your_business_to_government_agencies.webp']
 ---
 
 # Using Capabilities Statements to Market Your Business to Government Agencies

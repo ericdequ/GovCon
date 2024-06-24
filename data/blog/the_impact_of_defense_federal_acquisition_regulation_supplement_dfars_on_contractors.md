@@ -5,6 +5,8 @@ tags: ['Technology', 'Cybersecurity', 'Government']
 draft: false
 summary: 'Explore how DFARS compliance is transforming contractor responsibilities and the proactive steps you can take to stay ahead in the defense industry.'
 
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_defense_federal_acquisition_regulation_supplement_dfars_on_contractors.webp']
 ---
 
 # The Impact of Defense Federal Acquisition Regulation Supplement (DFARS) on Contractors

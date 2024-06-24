@@ -4,6 +4,8 @@ date: '2023-07-21'
 tags: ['Contract Management', 'PIEE', 'Technology']
 draft: false
 summary: 'Explore how the Procurement Integrated Enterprise Environment (PIEE) transforms contract management with advanced features and seamless integration.'
+
+images: ['https://www.govcon.me/articleimage/./harnessing_the_power_of_piee_for_seamless_contract_management.webp']
 ---
 
 # Harnessing the Power of PIEE for Seamless Contract Management

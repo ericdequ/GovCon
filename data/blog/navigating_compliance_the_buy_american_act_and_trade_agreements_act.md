@@ -4,6 +4,8 @@ date: '2024-04-01'
 tags: ['Compliance', 'Global Trade', 'Government Procurement']
 draft: false
 summary: 'Understand the complexities and strategies involved in adhering to the Buy American Act and Trade Agreements Act for businesses engaged in government procurement.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_compliance_the_buy_american_act_and_trade_agreements_act.webp']
 ---
 
 # Navigating Compliance: The Buy American Act and Trade Agreements Act

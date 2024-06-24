@@ -4,6 +4,8 @@ date: "2023-10-05"
 tags: ['Government Contracting', 'GSA eBuy', 'RFQ', 'Bidding', 'Procurement', 'Government Opportunities', 'Contracting Tips', 'Small Business', 'Federal Contracts']
 draft: false
 summary: "Explore how to use GSA eBuy, an online RFQ tool, to find and bid on government contracts, including tips for creating compelling quotes and managing the bidding process."
+
+images: ['https://www.govcon.me/articleimage/./securing_government_contracts_through_gsa_ebuy.webp']
 ---
 
 ## Securing Government Contracts through GSA eBuy

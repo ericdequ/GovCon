@@ -4,6 +4,8 @@ date: '2024-02-09'
 tags: ['Quantum Computing', 'Microsoft', 'Topological Qubits', 'Quantum Development Kit', 'Q#']
 draft: false
 summary: "Explore Microsoft's unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications."
+
+images: ['https://www.govcon.me/articleimage/Quantum/Microsoft.webp']
 ---
 
 # Microsoft: Developing Topological Qubits and Quantum Development Kit

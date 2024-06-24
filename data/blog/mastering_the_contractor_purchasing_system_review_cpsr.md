@@ -4,6 +4,8 @@ date: '2023-09-12'
 tags: ['CPSR', 'Government Contracts', 'Procurement']
 draft: false
 summary: 'A comprehensive guide to understanding and excelling in Contractor Purchasing System Reviews, making the intricate process engaging and straightforward.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_the_contractor_purchasing_system_review_cpsr.webp']
 ---
 
 # Mastering the Contractor Purchasing System Review (CPSR)

@@ -4,6 +4,8 @@ date: '2023-02-25'
 tags: ['Procurement', 'Business Growth', 'Contracting']
 draft: false
 summary: 'Discover how Procurement Technical Assistance Centers (PTACs) can boost your business contracting efforts. From expert guidance to invaluable resources, learn how PTACs can be a game-changer for your contracting success.'
+
+images: ['https://www.govcon.me/articleimage/./leveraging_procurement_technical_assistance_centers_ptacs_for_contracting_success.webp']
 ---
 
 # Leveraging Procurement Technical Assistance Centers (PTACs) for Contracting Success

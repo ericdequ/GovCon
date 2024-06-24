@@ -4,6 +4,8 @@ date: '2024-05-16'
 tags: ['EVM', 'Project Management', 'Government']
 draft: false
 summary: 'Explore how Earned Value Management (EVM) can transform government projects, boost efficiency, transparency, and deliver value on time and within budget.'
+
+images: ['https://www.govcon.me/articleimage/./implementing_earned_value_management_evm_in_government_projects.webp']
 ---
 
 # Implementing Earned Value Management (EVM) in Government Projects

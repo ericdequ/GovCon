@@ -4,6 +4,8 @@ date: '2023-08-11'
 tags: ['Government Contracts', 'Contract Management', 'Business']
 draft: false
 summary: 'Explore the intricacies of handling government contract terminations efficiently, ensuring minimal disruption and maximized opportunities for resilience and growth.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_the_art_of_managing_government_contract_terminations.webp']
 ---
 
 # Mastering the Art of Managing Government Contract Terminations

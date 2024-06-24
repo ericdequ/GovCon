@@ -4,6 +4,8 @@ date: '2023-12-30'
 tags: ['DCAA', 'Audit', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Prepare for a smooth DCAA audit journey with these advanced tips and insights tailored for tech innovators and contractors.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_your_dcaa_audit_preparation.webp']
 ---
 
 # Mastering Your DCAA Audit Preparation

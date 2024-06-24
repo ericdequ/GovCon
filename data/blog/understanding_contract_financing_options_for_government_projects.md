@@ -4,6 +4,8 @@ date: '2023-02-17'
 tags: ['Government Contracts', 'Financing', 'Small Business']
 draft: false
 summary: 'Dive into the myriad of contract financing options available for government projects and learn how to navigate this crucial aspect of doing business with the public sector.'
+
+images: ['https://www.govcon.me/articleimage/./understanding_contract_financing_options_for_government_projects.webp']
 ---
 
 # Understanding Contract Financing Options for Government Projects

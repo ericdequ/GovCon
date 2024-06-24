@@ -4,6 +4,8 @@ date: '2023-02-08'
 tags: ['Government Contracting', 'Networking', 'Business Strategy']
 draft: false
 summary: 'Unlock the potential of government contracts by mastering networking strategies that foster lasting relationships with government agencies!'
+
+images: ['https://www.govcon.me/articleimage/./building_relationships_with_government_agencies_networking_strategies_for_contractors.webp']
 ---
 
 # Building Relationships with Government Agencies: Networking Strategies for Contractors

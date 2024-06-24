@@ -4,6 +4,8 @@ date: '2023-11-12'
 tags: ['Government', 'Contracting', 'Innovation']
 draft: false
 summary: 'Discover how performance-based contracting can revolutionize government projects, enhancing efficiency, accountability, and innovation.'
+
+images: ['https://www.govcon.me/articleimage/./the_benefits_of_performance_based_contracting_for_government_projects.webp']
 ---
 
 # The Benefits of Performance-Based Contracting for Government Projects

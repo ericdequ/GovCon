@@ -4,6 +4,8 @@ date: '2023-11-24'
 tags: ['Government Contracting', 'Proposal Writing', 'Project Management']
 draft: false
 summary: 'Explore the essential elements and benefits of creating a thorough and dynamic Government Contracting Proposal Library to streamline your proposal process and boost your win rates.'
+
+images: ['https://www.govcon.me/articleimage/./developing_a_comprehensive_government_contracting_proposal_library.webp']
 ---
 
 # Developing a Comprehensive Government Contracting Proposal Library

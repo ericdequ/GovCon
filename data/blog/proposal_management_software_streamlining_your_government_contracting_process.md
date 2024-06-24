@@ -4,6 +4,8 @@ date: '2023-09-08'
 tags: ['Proposal Management', 'Government Contracting', 'Software']
 draft: false
 summary: 'Explore how proposal management software can revolutionize your approach to securing government contracts, making the process efficient, accurate, and far less stressful.'
+
+images: ['https://www.govcon.me/articleimage/./proposal_management_software_streamlining_your_government_contracting_process.webp']
 ---
 
 # Proposal Management Software: Streamlining Your Government Contracting Process

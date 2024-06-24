@@ -4,6 +4,8 @@ date: '2023-08-07'
 tags: ['Government Contracting', 'Compliance', 'Checklist', 'Business']
 draft: false
 summary: 'Learn how to navigate the complexities of government contracting with a comprehensive compliance checklist.'
+
+images: ['https://www.govcon.me/articleimage/./developing_a_government_contracting_compliance_checklist.webp']
 ---
 
 # Developing a Government Contracting Compliance Checklist

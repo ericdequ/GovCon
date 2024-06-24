@@ -4,6 +4,8 @@ date: '2023-01-30'
 tags: ['NDAA', 'Contracting', 'Defense']
 draft: false
 summary: 'Explore how the National Defense Authorization Act transforms defense contracting, spearheads innovation, and reshapes the future of national security.'
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_the_national_defense_authorization_act_ndaa_on_contracting.webp']
 ---
 
 # The Impact of the National Defense Authorization Act (NDAA) on Contracting

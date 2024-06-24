@@ -5,6 +5,8 @@ tags: ['Government Contracting', 'DCAA', 'Compliance', 'Audit', 'Accounting Syst
 draft: false
 summary: 'Learn the importance of DCAA compliance for government contractors, including how to prepare for audits and ensure your accounting systems meet government standards.'
 
+
+images: ['https://www.govcon.me/articleimage/./understanding_and_utilizing_the_defense_contract_audit_agency_dcaa_compliance.webp']
 ---
 
 Understanding and Utilizing the Defense Contract Audit Agency (DCAA) Compliance

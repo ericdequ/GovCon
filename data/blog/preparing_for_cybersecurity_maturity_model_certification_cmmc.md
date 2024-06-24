@@ -4,6 +4,8 @@ date: '2023-04-09'
 tags: ['Cybersecurity', 'CMMC', 'Compliance']
 draft: false
 summary: 'Dive into the essentials of preparing for the Cybersecurity Maturity Model Certification (CMMC) and discover how to protect your business with top-tier cybersecurity strategies.'
+
+images: ['https://www.govcon.me/articleimage/./preparing_for_cybersecurity_maturity_model_certification_cmmc.webp']
 ---
 
 # Preparing for Cybersecurity Maturity Model Certification (CMMC)

@@ -5,6 +5,8 @@ tags:
   ['Quantum Computing', 'IBM', 'Superconducting Qubits', 'Qiskit', 'Cloud-based Quantum Computing']
 draft: false
 summary: "Explore IBM's groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services."
+
+images: ['https://www.govcon.me/articleimage/Quantum/IBM.webp']
 ---
 
 # IBM: Pioneering Quantum Computing with Superconducting Qubits

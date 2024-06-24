@@ -4,6 +4,8 @@ date: '2024-02-17'
 tags: ['Government Contracting', 'Compliance', 'Risk Assessment', 'Policy Development', 'Training', 'Monitoring']
 draft: false
 summary: 'Explore the key components of an effective compliance program, including risk assessment, policy development, training, and monitoring to ensure adherence to government regulations.'
+
+images: ['https://www.govcon.me/articleimage/./building_a_robust_compliance_program_for_government_contracting.webp']
 ---
 
 # Building a Robust Compliance Program for Government Contracting

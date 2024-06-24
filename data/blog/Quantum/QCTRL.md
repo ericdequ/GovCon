@@ -5,6 +5,8 @@ tags:
   ['Quantum Computing', 'Q-CTRL', 'Quantum Control', 'Quantum Firmware', 'Quantum Error Correction']
 draft: false
 summary: 'Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.'
+
+images: ['https://www.govcon.me/articleimage/Quantum/QCTRL.webp']
 ---
 
 # Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing

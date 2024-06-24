@@ -4,6 +4,8 @@ date: '2023-06-15'
 tags: ['Finance', 'Business', 'Technology']
 draft: false
 summary: 'Uncover the nuances of creating an efficient indirect cost allocation plan, tailored to boost your organization’s financial integrity and operational efficiency.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_the_art_of_indirect_cost_allocation_a_comprehensive_guide.webp']
 ---
 
 # Mastering the Art of Indirect Cost Allocation: A Comprehensive Guide

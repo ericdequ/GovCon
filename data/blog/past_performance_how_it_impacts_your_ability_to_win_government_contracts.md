@@ -4,6 +4,8 @@ date: '2023-12-01'
 tags: ['Government Contracts', 'Business Strategy', 'Compliance']
 draft: false
 summary: 'Discover the significant role past performance plays in securing government contracts and learn how to leverage your company’s history for future success.'
+
+images: ['https://www.govcon.me/articleimage/./past_performance_how_it_impacts_your_ability_to_win_government_contracts.webp']
 ---
 
 ## Past Performance: The Golden Key to Government Contracts

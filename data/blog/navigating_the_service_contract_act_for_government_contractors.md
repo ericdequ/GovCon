@@ -6,6 +6,8 @@ tags: ['Government Contracts', 'Service Contract Act', 'Compliance']
 draft: false
 summary: 'Understanding and complying with the Service Contract Act (SCA) is critical for government contractors. This blog post dives into the nuances, requirements, and strategic approaches to mastering the SCA landscape.'
 
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_service_contract_act_for_government_contractors.webp']
 ---
 
 # Navigating the Service Contract Act for Government Contractors

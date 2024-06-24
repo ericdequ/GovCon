@@ -4,6 +4,8 @@ date: '2023-11-11'
 tags: ['Project Management', 'Contracts', 'Business Strategy']
 draft: false
 summary: 'Navigating contract modifications can be challenging. Learn effective strategies to handle changes in scope, cost, or timeline without disrupting your project flow.'
+
+images: ['https://www.govcon.me/articleimage/./handling_contract_modifications_what_to_do_when_scope_cost_or_timeline_changes.webp']
 ---
 
 # Handling Contract Modifications: What to Do When Scope, Cost, or Timeline Changes

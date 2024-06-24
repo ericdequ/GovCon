@@ -4,6 +4,8 @@ date: '2023-12-28'
 tags: ['Government', 'Procurement', 'Reverse Auctions', 'Technology']
 draft: false
 summary: 'Explore the innovative approach of reverse auctions in government procurement, and how it drives efficiency and cost savings.'
+
+images: ['https://www.govcon.me/articleimage/./using_reverse_auctions_for_government_procurement.webp']
 ---
 
 # Using Reverse Auctions for Government Procurement

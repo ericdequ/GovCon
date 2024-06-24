@@ -4,6 +4,8 @@ date: '2023-05-17'
 tags: ['Government', 'Continuous Improvement', 'Contracting']
 draft: false
 summary: 'Exploring how continuous improvement practices can revolutionize government contracting by making it more efficient, transparent, and responsive to change.'
+
+images: ['https://www.govcon.me/articleimage/./implementing_continuous_improvement_practices_in_government_contracting.webp']
 ---
 
 # Implementing Continuous Improvement Practices in Government Contracting

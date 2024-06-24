@@ -4,6 +4,8 @@ date: '2023-01-30'
 tags: ['Government', 'Contract Administration', 'Project Management']
 draft: false
 summary: 'Dive into the unsung hero of government projects — contract administration, and discover why its pivotal for project success.'
+
+images: ['https://www.govcon.me/articleimage/./the_critical_role_of_contract_administration_in_government_projects.webp']
 ---
 
 # The Critical Role of Contract Administration in Government Projects

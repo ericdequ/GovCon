@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'Responding to a government Request for Proposal (RFP) can be daunting. Dive into the intricacies of RFPs and gather insights on crafting compelling responses that stand out.'
+
+images: ['https://www.govcon.me/articleimage/Government/RFP.webp']
 ---
 
 ## What is a Government RFP? 📜🔍

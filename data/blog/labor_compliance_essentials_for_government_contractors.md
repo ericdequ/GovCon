@@ -4,6 +4,8 @@ date: '2023-07-28'
 tags: ['Government Contracts', 'Labor Compliance', 'Regulations']
 draft: false
 summary: 'Dive into the essentials of labor compliance for government contractors, exploring key regulations, innovative strategies, and best practices to ensure your business stays compliant and competitive.'
+
+images: ['https://www.govcon.me/articleimage/./labor_compliance_essentials_for_government_contractors.webp']
 ---
 
 # Labor Compliance Essentials for Government Contractors

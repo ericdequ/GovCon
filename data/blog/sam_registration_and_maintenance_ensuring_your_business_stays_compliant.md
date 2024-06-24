@@ -4,6 +4,8 @@ date: '2023-03-09'
 tags: ['Compliance', 'Business', 'SAM']
 draft: false
 summary: 'Discover how to keep your business compliant with streamlined SAM Registration and ongoing maintenance.'
+
+images: ['https://www.govcon.me/articleimage/./sam_registration_and_maintenance_ensuring_your_business_stays_compliant.webp']
 ---
 
 # SAM Registration and Maintenance: Ensuring Your Business Stays Compliant

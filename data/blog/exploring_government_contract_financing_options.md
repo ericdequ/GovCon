@@ -4,6 +4,8 @@ date: '2023-05-28'
 tags: ['Finance', 'Government Contracts', 'Business']
 draft: false
 summary: 'A deep dive into the diverse financing options available for businesses tackling government contracts and how to leverage them for growth and sustainability.'
+
+images: ['https://www.govcon.me/articleimage/./exploring_government_contract_financing_options.webp']
 ---
 
 # Exploring Government Contract Financing Options

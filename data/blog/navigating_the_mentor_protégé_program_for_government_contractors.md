@@ -4,6 +4,8 @@ date: '2024-06-13'
 tags: ['Government Contracting', 'Small Business', 'Mentorship', 'Capacity Building', 'Federal Contracts', 'Opportunities', 'Program', 'Experience']
 draft: false
 summary: 'Discover how participating in the Mentor-Protégé Program can provide new opportunities for small businesses to gain experience, build capacity, and expand their presence in the government contracting space.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_the_mentor_protégé_program_for_government_contractors.webp']
 ---
 
 # Navigating the Mentor-Protégé Program for Government Contractors

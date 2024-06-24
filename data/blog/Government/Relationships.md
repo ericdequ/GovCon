@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.'
+
+images: ['https://www.govcon.me/articleimage/Government/Relationships.webp']
 ---
 
 ## The Power of Relationships in Government Sales 🤝🏛️

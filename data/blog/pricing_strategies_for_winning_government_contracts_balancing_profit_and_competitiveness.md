@@ -4,6 +4,8 @@ date: '2024-02-03'
 tags: ['Government Contracts', 'Pricing Strategies', 'Business Growth']
 draft: false
 summary: 'Unlock the secrets to securing lucrative government contracts by mastering the art of pricing strategy—a delicate equilibrium between maximizing profit and staying competitive.'
+
+images: ['https://www.govcon.me/articleimage/./pricing_strategies_for_winning_government_contracts_balancing_profit_and_competitiveness.webp']
 ---
 
 # Pricing Strategies for Winning Government Contracts: Balancing Profit and Competitiveness

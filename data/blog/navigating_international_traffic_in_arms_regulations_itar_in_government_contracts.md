@@ -4,6 +4,8 @@ date: '2024-02-02'
 tags: ['ITAR', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Dive deep into the intricacies of ITAR compliance in government contracts, ensuring your projects sail smoothly while adhering to critical regulations.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_international_traffic_in_arms_regulations_itar_in_government_contracts.webp']
 ---
 
 # Navigating International Traffic in Arms Regulations (ITAR) in Government Contracts

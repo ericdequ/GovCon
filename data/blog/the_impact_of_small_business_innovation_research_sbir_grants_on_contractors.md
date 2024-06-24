@@ -4,6 +4,8 @@ date: '2023-03-14'
 tags: ['Innovation', 'Small Business', 'SBIR Grants', 'Technology']
 draft: false
 summary: 'Discover how SBIR grants are transforming small businesses, fueling innovation, and changing the landscape for tech contractors.'
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_small_business_innovation_research_sbir_grants_on_contractors.webp']
 ---
 
 # The Impact of Small Business Innovation Research (SBIR) Grants on Contractors

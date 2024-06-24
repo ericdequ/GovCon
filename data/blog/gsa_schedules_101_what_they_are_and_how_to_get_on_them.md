@@ -5,6 +5,8 @@ tags: ['Government', 'Procurement', 'Business']
 draft: false
 summary: 'Unlock the secrets of GSA Schedules, the gateway to lucrative government contracts for your business. Learn what they are, their benefits, and how to get listed!'
 
+
+images: ['https://www.govcon.me/articleimage/./gsa_schedules_101_what_they_are_and_how_to_get_on_them.webp']
 ---
 
 # GSA Schedules 101: What They Are and How to Get on Them

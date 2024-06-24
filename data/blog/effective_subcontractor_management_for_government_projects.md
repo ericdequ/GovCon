@@ -4,6 +4,8 @@ date: '2023-02-11'
 tags: ['Government Projects', 'Subcontractor Management', 'Project Management']
 draft: false
 summary: 'Unlock the secrets to managing subcontractors effectively in government projects with our comprehensive guide. Learn best practices, key strategies, and innovative approaches to ensure project success and compliance.'
+
+images: ['https://www.govcon.me/articleimage/./effective_subcontractor_management_for_government_projects.webp']
 ---
 
 # Effective Subcontractor Management for Government Projects

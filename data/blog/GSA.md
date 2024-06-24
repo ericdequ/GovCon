@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.'
+
+images: ['https://www.govcon.me/articleimage/./GSA.webp']
 ---
 
 ## Understanding Government Procurement 🏛️🔄

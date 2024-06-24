@@ -4,6 +4,8 @@ date: '2024-01-05'
 tags: ['Subcontracting', 'Contract Management', 'Small Business']
 draft: false
 summary: 'Unlock successful project management and compliance by effectively navigating subcontracting plan requirements for large contractors.'
+
+images: ['https://www.govcon.me/articleimage/./navigating_subcontracting_plan_requirements_for_large_contractors.webp']
 ---
 
 # Navigating Subcontracting Plan Requirements for Large Contractors

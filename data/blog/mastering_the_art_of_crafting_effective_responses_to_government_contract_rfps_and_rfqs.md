@@ -4,6 +4,8 @@ date: '2023-02-13'
 tags: ['Government Contracts', 'RFP', 'RFQ']
 draft: false
 summary: 'Unlock the secrets to creating winning responses to government contract RFPs and RFQs. Learn the strategies that can give you the competitive edge.'
+
+images: ['https://www.govcon.me/articleimage/./mastering_the_art_of_crafting_effective_responses_to_government_contract_rfps_and_rfqs.webp']
 ---
 
 # Mastering the Art of Crafting Effective Responses to Government Contract RFPs and RFQs

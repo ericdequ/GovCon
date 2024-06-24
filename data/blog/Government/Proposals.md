@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️'
+
+images: ['https://www.govcon.me/articleimage/Government/Proposals.webp']
 ---
 
 ## How to Write a Winning Government Proposal 💼🏛️

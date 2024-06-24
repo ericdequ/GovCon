@@ -4,6 +4,8 @@ date: '2023-08-03'
 tags: ['Federal Acquisition Regulation', 'Contractors', 'Government Contracts']
 draft: false
 summary: 'Navigate the intricate world of government contracts with a deep dive into the Federal Acquisition Regulation (FAR), focusing on the most crucial sections for contractors.'
+
+images: ['https://www.govcon.me/articleimage/./understanding_the_federal_acquisition_regulation_far_key_sections_for_contractors.webp']
 ---
 
 # Understanding the Federal Acquisition Regulation (FAR): Key Sections for Contractors

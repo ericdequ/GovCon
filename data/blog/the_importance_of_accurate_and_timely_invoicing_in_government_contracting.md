@@ -4,6 +4,8 @@ date: '2023-05-23'
 tags: ['Government Contracting', 'Invoicing', 'Technology']
 draft: false
 summary: 'Explore why accurate and timely invoicing is crucial in government contracting, touching on compliance, cash flow, and technological solutions.'
+
+images: ['https://www.govcon.me/articleimage/./the_importance_of_accurate_and_timely_invoicing_in_government_contracting.webp']
 ---
 
 # The Importance of Accurate and Timely Invoicing in Government Contracting

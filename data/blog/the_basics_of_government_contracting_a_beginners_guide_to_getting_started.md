@@ -4,6 +4,8 @@ date: '2023-01-23'
 tags: ['Government Contracting', 'Business', 'Innovation']
 draft: false
 summary: 'Dive into the world of government contracting with this beginner-friendly guide that breaks down essential steps and tips for securing a government contract.'
+
+images: ['https://www.govcon.me/articleimage/./the_basics_of_government_contracting_a_beginners_guide_to_getting_started.webp']
 ---
 
 # The Basics of Government Contracting: A Beginner's Guide to Getting Started

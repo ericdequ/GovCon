@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️'
+
+images: ['https://www.govcon.me/articleimage/Government/GettingStarted.webp']
 ---
 
 ## How to Start a Government Contracting Small Business 📈🏛️

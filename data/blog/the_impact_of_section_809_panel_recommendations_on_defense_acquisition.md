@@ -4,6 +4,8 @@ date: '2023-11-07'
 tags: ['Defense', 'Acquisition', 'Innovation']
 draft: false
 summary: 'Exploring how the groundbreaking recommendations of the Section 809 Panel are set to revolutionize defense acquisition processes.'
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_section_809_panel_recommendations_on_defense_acquisition.webp']
 ---
 
 # The Impact of Section 809 Panel Recommendations on Defense Acquisition

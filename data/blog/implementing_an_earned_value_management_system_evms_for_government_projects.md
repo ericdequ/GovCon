@@ -4,6 +4,8 @@ date: '2024-05-03'
 tags: ['EVMS', 'Government Projects', 'Project Management']
 draft: false
 summary: 'Dive deep into the world of Earned Value Management Systems (EVMS) and discover the key benefits, challenges, and implementation strategies for managing government projects efficiently and effectively.'
+
+images: ['https://www.govcon.me/articleimage/./implementing_an_earned_value_management_system_evms_for_government_projects.webp']
 ---
 
 # Implementing an Earned Value Management System (EVMS) for Government Projects

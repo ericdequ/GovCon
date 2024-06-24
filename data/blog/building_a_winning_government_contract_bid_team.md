@@ -4,6 +4,8 @@ date: '2023-04-17'
 tags: ['Government Contracts', 'Project Management', 'Team Building']
 draft: false
 summary: 'Unveil the secrets behind assembling a government contract bid team that guarantees success. Dive into strategy, collaboration, and technical insights to secure that win.'
+
+images: ['https://www.govcon.me/articleimage/./building_a_winning_government_contract_bid_team.webp']
 ---
 
 # Building a Winning Government Contract Bid Team

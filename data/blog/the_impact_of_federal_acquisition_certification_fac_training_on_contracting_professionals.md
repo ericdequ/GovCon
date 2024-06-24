@@ -4,6 +4,8 @@ date: '2023-05-02'
 tags: ['Federal Acquisition', 'Certification', 'Contracting Professionals', 'Training']
 draft: false
 summary: 'Explore how Federal Acquisition Certification (FAC) training is revolutionizing the realm of contracting professionals by enhancing their skills, boosting their careers, and improving federal procurement processes.'
+
+images: ['https://www.govcon.me/articleimage/./the_impact_of_federal_acquisition_certification_fac_training_on_contracting_professionals.webp']
 ---
 
 ## The Impact of Federal Acquisition Certification (FAC) Training on Contracting Professionals

@@ -4,6 +4,8 @@ date: '2023-06-25'
 tags: ['Government Contracts', 'FBO', 'Business Opportunities']
 draft: false
 summary: 'Dive deep into the world of Federal Business Opportunities (FBO) and discover how you can leverage this powerful platform to secure lucrative government contracts for your business.'
+
+images: ['https://www.govcon.me/articleimage/./unleashing_the_power_of_federal_business_opportunities_fbo_to_find_government_contract_leads.webp']
 ---
 
 ## Unleashing the Power of Federal Business Opportunities (FBO) to Find Government Contract Leads

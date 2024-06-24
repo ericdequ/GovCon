@@ -4,6 +4,8 @@ date: '2023-10-17'
 tags: ['E-Verify', 'Government Contracts', 'Compliance']
 draft: false
 summary: 'Unlock the secrets to E-Verify compliance for government contracts with our comprehensive, tech-savvy guide!'
+
+images: ['https://www.govcon.me/articleimage/./demystifying_e_verify_for_government_contract_compliance.webp']
 ---
 
 # Demystifying E-Verify for Government Contract Compliance
