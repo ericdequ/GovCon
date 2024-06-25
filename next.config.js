@@ -75,6 +75,8 @@ module.exports = withBundleAnalyzer({
       'GovCon.me',
       'contechnews.com',
       'plantheath.com',
+      'www.robotric.org',
+      'robotric.org',
     ],
   },
   async headers() {

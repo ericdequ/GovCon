@@ -26,6 +26,9 @@ class MyDocument extends Document {
           <link rel="preconnect" href="https://www.elontusk.org/" />
           <link rel="dns-prefetch" href="https://www.elontusk.org/" />
 
+          <link rel="preconnect" href="https://www.robotric.org/" />
+          <link rel="dns-prefetch" href="https://www.robotric.org/" />
+
 
           <link rel="icon" type="image/webp" sizes="32x32" href="/static/favicons/favicon-32x32.webp" />
           <link rel="icon" type="image/webp" sizes="16x16" href="/static/favicons/favicon-16x16.webp" />
