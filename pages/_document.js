@@ -27,8 +27,8 @@ class MyDocument extends Document {
           <link rel="dns-prefetch" href="https://www.elontusk.org/" />
 
 
-          <link rel="icon" type="image/png" sizes="32x32" href="/static/favicons/favicon-32x32.webp" />
-          <link rel="icon" type="image/png" sizes="16x16" href="/static/favicons/favicon-16x16.webp" />
+          <link rel="icon" type="image/webp" sizes="32x32" href="/static/favicons/favicon-32x32.webp" />
+          <link rel="icon" type="image/webp" sizes="16x16" href="/static/favicons/favicon-16x16.webp" />
           <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#000000" />
           <meta name="theme-color" content="#ffffff" />

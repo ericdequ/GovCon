@@ -6,7 +6,7 @@ tags: ['Irrigation', 'Government Contracts', 'Florida Sprinkler & Light', 'Revie
 draft: false
 summary: 'A detailed review of how Florida Sprinkler & Light’s exceptional irrigation services can help secure lucrative government contracts in Central Florida.'
 
-images: ['https://www.govcon.me/articleimage/Reviews/FloridaSprinklerLight.webp']
+images: ['https://www.govcon.me/articleimage/Reviews/FloridaSprinklerLight.webp', 'https://www.floridasprinklerlight.com/FSL_logo.jpg']
 ---
 
 ## 🌟 Florida Sprinkler & Light: Your Gateway to Government Contracts

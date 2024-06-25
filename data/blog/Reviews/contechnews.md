@@ -12,7 +12,7 @@ images: ['https://www.govcon.me/articleimage/Reviews/contechnews.webp']
 
 The [ConTechNews blog](https://www.contechnews.com/blog) is an essential resource for staying informed about the latest advancements and trends in construction technology. This platform provides a wealth of knowledge, from quantum computing applications to sustainable building practices.
 
-![ConTechNews Blog](https://www.contechnews.com/logoo-removebg.png)
+![ConTechNews Blog](https://www.contechnews.com/logoo-removebg.webp)
 
 ### The Essence of ConTechNews Blog
 

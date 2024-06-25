@@ -5,7 +5,7 @@ tags: ['Quantum Technology', 'Cybersecurity', 'AI', 'Sustainability', 'Blog Revi
 draft: false
 summary: 'A review of Rics Notebook blog, highlighting its inspiring and insightful content that motivated the creation of this blog.'
 
-images: ['https://www.govcon.me/articleimage/Reviews/RicsNoteBook.webp']
+images: ['https://www.govcon.me/articleimage/Reviews/RicsNoteBook.webp', 'https://www.rics-notebook.com/logoo.webp']
 ---
 
 ## 🌟 Ric's Notebook Blog: The Inspiration Behind Our Journey

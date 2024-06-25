@@ -17,7 +17,7 @@ tags:
 draft: false
 summary: 'Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀'
 
-images: ['https://www.govcon.me/articleimage/Certifications/QuantumLearn.webp']
+images: ['https://www.govcon.me/articleimage/Certifications/QuantumLearn.webp', 'https://www.quantumlearn.org/logo-rmbg.webp']
 ---
 
 # Discover QuantumLearn: Your Gateway to Mastering Government Contracting and Beyond 🚀

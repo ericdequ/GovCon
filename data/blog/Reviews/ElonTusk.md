@@ -12,7 +12,7 @@ images: ['https://www.govcon.me/articleimage/Reviews/ElonTusk.webp']
 
 I recently discovered the [Elon Tusk blog](https://www.elontusk.org/blog), and I am excited to share my thoughts on this remarkable platform that delves into the latest advancements in science and technology.
 
-![Elon Tusk Blog](https://www.elontusk.org/logoo-removebg.png)
+![Elon Tusk Blog](https://www.elontusk.org/logoo-removebg.webp)
 
 ### The Essence of the Elon Tusk Blog
 

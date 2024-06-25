@@ -12,7 +12,7 @@ images: ['https://www.govcon.me/articleimage/Reviews/EveryDaySpy.webp']
 
 Recently, I had the opportunity to explore the resources provided by [EverydaySpy](https://everydayspy.com/homepage/), and I am excited to share insights into how their espionage skills training can be a game-changer for businesses aiming to gain a strategic advantage in today's competitive market.
 
-![EverydaySpy Logo](https://eds-everydayspy-assets.s3.us-east-2.amazonaws.com/global/l1.png)
+![EverydaySpy Logo](https://eds-everydayspy-assets.s3.us-east-2.amazonaws.com/global/l1.webp)
 
 ### The Power of Espionage Skills in Business
 
