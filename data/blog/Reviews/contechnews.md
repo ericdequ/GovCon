@@ -1,4 +1,5 @@
 ---
+
 title: 'ConTechNews Blog Review'
 date: '2023-12-29'
 tags: ['Construction Technology', 'Innovation', 'Blog Review']

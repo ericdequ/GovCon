@@ -1,4 +1,5 @@
 ---
+
 title: "Securing Government Contracts through GSA eBuy"
 date: "2023-10-05"
 tags: ['Government Contracting', 'GSA eBuy', 'RFQ', 'Bidding', 'Procurement', 'Government Opportunities', 'Contracting Tips', 'Small Business', 'Federal Contracts']
@@ -108,11 +109,11 @@ GSA eBuy is a powerful platform for securing government contracts, especially fo
 ---
 
 **Table of Contents**
-1. [Getting Started with GSA eBuy](#getting-started-with-gsa-ebuy)
-2. [Navigating the GSA eBuy Interface](#navigating-the-gsa-ebuy-interface)
-3. [Bidding on Contracts](#bidding-on-contracts)
-4. [Managing the Bidding Process](#managing-the-bidding-process)
-5. [Conclusion](#conclusion)
+1. [Getting Started with GSA eBuy](#g etting-started-with-gsa-ebuy)
+2. [Navigating the GSA eBuy Interface](#n avigating-the-gsa-ebuy-interface)
+3. [Bidding on Contracts](#b idding-on-contracts)
+4. [Managing the Bidding Process](#m anaging-the-bidding-process)
+5. [Conclusion](#c onclusion)
 ```
 
 This article provides a comprehensive guide to using GSA eBuy for securing government contracts, along with practical tips for maximizing success in the bidding process.

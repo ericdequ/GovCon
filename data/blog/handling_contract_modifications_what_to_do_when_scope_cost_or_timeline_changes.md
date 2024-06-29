@@ -1,4 +1,5 @@
 ---
+
 title: 'Handling Contract Modifications: What to Do When Scope, Cost, or Timeline Changes'
 date: '2023-11-11'
 tags: ['Project Management', 'Contracts', 'Business Strategy']

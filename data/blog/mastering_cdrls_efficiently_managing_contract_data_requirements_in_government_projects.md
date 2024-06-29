@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering CDRLs: Efficiently Managing Contract Data Requirements in Government Projects'
 date: '2023-05-26'
 tags: ['Government Projects', 'Data Management', 'CDRL']

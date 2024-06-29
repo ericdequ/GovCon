@@ -1,4 +1,5 @@
 ---
+
 title: "Strategies for Winning Multiple Award Schedule (MAS) Contracts"
 date: "2024-05-21"
 tags: ['Government Contracting', 'MAS Contracts', 'Federal Acquisition', 'Business Growth', 'Procurement Strategy']

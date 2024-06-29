@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding Contract Financing Options for Government Projects'
 date: '2023-02-17'
 tags: ['Government Contracts', 'Financing', 'Small Business']
@@ -21,6 +22,7 @@ To start, it's crucial to comprehend the various types of financing available. T
 Mobilization financing covers the upfront costs needed to get the project off the ground. Think of it as your startup capital for buying materials, hiring labor, and setting up logistics.
 
 #### Features:
+
 - Typically provided by banks or specialized lenders.
 - Secured against the government contract itself.
 - High-interest rates compared to other financing options.
@@ -30,6 +32,7 @@ Mobilization financing covers the upfront costs needed to get the project off th
 Progress payments are incremental payments made by the government as the project hits specific milestones. They provide a steady stream of cash flow, making it easier to manage ongoing project expenses.
 
 #### Key Points:
+
 - Governed by Federal Acquisition Regulation (FAR) clauses.
 - Payments are made based on the percentage of work completed.
 - Usually necessitate thorough record-keeping and regular audits.
@@ -39,10 +42,12 @@ Progress payments are incremental payments made by the government as the project
 Invoice factoring involves selling your accounts receivable (invoices) to a factoring company at a discount. This instant influx of cash can be used to maintain liquidity without waiting for government processing times.
 
 #### Advantages:
+
 - Quick access to cash—often within 24-48 hours.
 - Reduces the risk and hassle of collecting payments.
 
 #### Disadvantages:
+
 - Factoring fees can be substantial, eating into your profit margins.
 - Might not be suitable for firms with low profit margins.
 
@@ -51,6 +56,7 @@ Invoice factoring involves selling your accounts receivable (invoices) to a fact
 A line of credit from a bank offers flexibility. It allows you to draw funds up to a pre-approved limit, repaying and borrowing again as needed without the delay of reapplication.
 
 #### Considerations:
+
 - Interest rates vary based on your creditworthiness and relationship with the lender.
 - Generally cheaper than mobilization financing.
 - Often require personal guarantees or collateral.

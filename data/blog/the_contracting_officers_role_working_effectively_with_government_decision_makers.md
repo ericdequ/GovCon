@@ -1,4 +1,5 @@
 ---
+
 title: 'The Contracting Officers Role: Working Effectively with Government Decision-Makers'
 date: '2023-03-12'
 tags: ['Government', 'Contracts', 'Decision-Making']

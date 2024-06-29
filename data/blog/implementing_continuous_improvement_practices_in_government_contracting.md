@@ -1,4 +1,5 @@
 ---
+
 title: 'Implementing Continuous Improvement Practices in Government Contracting'
 date: '2023-05-17'
 tags: ['Government', 'Continuous Improvement', 'Contracting']

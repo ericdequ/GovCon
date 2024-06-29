@@ -1,4 +1,5 @@
 ---
+
 title: 'Proposal Management Software: Streamlining Your Government Contracting Process'
 date: '2023-09-08'
 tags: ['Proposal Management', 'Government Contracting', 'Software']

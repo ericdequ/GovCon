@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding the Federal Acquisition Regulation (FAR): Key Sections for Contractors'
 date: '2023-08-03'
 tags: ['Federal Acquisition Regulation', 'Contractors', 'Government Contracts']

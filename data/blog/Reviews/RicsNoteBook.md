@@ -1,4 +1,5 @@
 ---
+
 title: 'Rics Notebook Blog Review'
 date: '2023-09-24'
 tags: ['Quantum Technology', 'Cybersecurity', 'AI', 'Sustainability', 'Blog Review']

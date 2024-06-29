@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering the Contractor Purchasing System Review (CPSR)'
 date: '2023-09-12'
 tags: ['CPSR', 'Government Contracts', 'Procurement']

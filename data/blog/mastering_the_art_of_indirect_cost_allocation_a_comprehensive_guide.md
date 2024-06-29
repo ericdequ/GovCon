@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering the Art of Indirect Cost Allocation: A Comprehensive Guide'
 date: '2023-06-15'
 tags: ['Finance', 'Business', 'Technology']
@@ -32,12 +33,15 @@ Accurate allocation of indirect costs ensures that each project or department ab
 ## Steps to Develop an Effective Indirect Cost Allocation Plan
 
 ### 1. Identify Your Indirect Costs
+
 The beginning of your journey requires a meticulous identification of all indirect costs. Take a deep dive into your financial statements to catalog every expense that qualifies as an indirect cost.
 
 ### 2. Categorize Costs Based on Functions
+
 Once you have identified these costs, categorize them into functional categories such as administrative, facilities, and IT. This initial segregation helps in applying relevant allocation bases efficiently.
 
 ### 3. Choose Allocation Bases
+
 This is where the strategic decisions come into play. Allocation bases are metrics by which indirect costs are apportioned. Common bases include:
 
 - **Square footage:** For facilities-related costs.
@@ -47,12 +51,18 @@ This is where the strategic decisions come into play. Allocation bases are metri
 Selecting the right allocation base is crucial. Select bases that have a strong, justifiable correlation with the expenses in question.
 
 ### 4. Calculate Allocation Rates
-With your costs and bases in hand, it's time to calculate allocation rates. This involves dividing the total cost in each category by the total measure of your chosen base. For example, if your annual rent is $120,000 and your total office space is 12,000 square feet, your rate would be $10 per square foot.
+
+With your costs and bases in hand, it's time to calculate allocation rates. This involves dividing the total cost in each category by the total measure of your chosen base. For example, if your annual rent is 
+
+$120,000 and your total office space is 12,000 square feet, your rate would be $
+10 per square foot.
 
 ### 5. Apply Allocation Rates Consistently
+
 Apply these rates consistently across all projects or departments to distribute indirect costs fairly. This step will hugely benefit from robust financial software that can automate these calculations and ensure consistency.
 
 ### 6. Review and Adjust Regularly
+
 An effective indirect cost allocation plan is not static. Regularly review and adjust your allocation bases and rates to align with the evolving nature of your business.
 
 ## Advanced Techniques and Best Practices

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Contracting Officer Representatives Role in Contract Management'
 date: '2024-03-28'
 tags: ['Contract Management', 'Procurement', 'Business']

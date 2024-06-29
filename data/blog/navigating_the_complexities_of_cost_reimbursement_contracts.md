@@ -1,4 +1,5 @@
 ---
+
 title: 'Navigating the Complexities of Cost-Reimbursement Contracts'
 date: '2024-06-12'
 tags: ['government contracting', 'cost-reimbursement contracts', 'contract management', 'government compliance', 'contractors', 'expenditure reporting', 'cost control', 'government regulations', 'contracting best practices']

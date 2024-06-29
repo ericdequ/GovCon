@@ -1,4 +1,5 @@
 ---
+
 title: 'Market Research Methods for Identifying Government Contracting Opportunities'
 date: '2024-01-02'
 tags: ['Government Contracting', 'Market Research', 'Business Strategy']

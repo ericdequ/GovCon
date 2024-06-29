@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of the National Defense Authorization Act (NDAA) on Contracting'
 date: '2023-01-30'
 tags: ['NDAA', 'Contracting', 'Defense']

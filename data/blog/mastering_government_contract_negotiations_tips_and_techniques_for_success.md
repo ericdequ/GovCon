@@ -1,4 +1,5 @@
 ---
+
 title: 'Mastering Government Contract Negotiations: Tips and Techniques for Success'
 date: '2024-06-10'
 tags: ['Government Contracting', 'Negotiation Strategies', 'Contract Management', 'Procurement', 'Government Contracts', 'Business Growth', 'Success Tips', 'Contract Negotiation', 'Contract Terms']

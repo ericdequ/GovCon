@@ -1,4 +1,5 @@
 ---
+
 title: 'The Importance of Contract Closeout Administration'
 date: '2023-07-21'
 tags: ['Contract Management', 'Administration', 'Business Efficiency']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Streamlining the Government Contract Closeout Process'
 date: '2024-02-07'
 tags: ['Government', 'Contract Management', 'Innovation']

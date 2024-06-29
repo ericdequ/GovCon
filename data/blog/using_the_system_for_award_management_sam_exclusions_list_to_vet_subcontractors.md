@@ -1,4 +1,5 @@
 ---
+
 title: 'Using the System for Award Management (SAM) Exclusions List to Vet Subcontractors'
 date: '2024-05-07'
 tags: ['Contracting', 'Compliance', 'Technology']

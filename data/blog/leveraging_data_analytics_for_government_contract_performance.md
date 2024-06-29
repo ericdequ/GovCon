@@ -1,4 +1,5 @@
 ---
+
 title: "Leveraging Data Analytics for Government Contract Performance"
 date: '2024-06-09'
 tags: ['Data Analytics', 'Government Contracting', 'Contract Performance', 'Decision-Making', 'Monitoring', 'Trends', 'Procurement', 'Technology']
@@ -54,7 +55,10 @@ The following table showcases a simple example of how data analytics can be used
 
 | Metric             | Baseline Value | Current Value | Target Value | Status        |
 |--------------------|----------------|---------------|--------------|---------------|
-| Cost Performance   | $1,000,000     | $950,000      | $1,000,000   | On Target     |
+| Cost Performance   | 
+
+$1,000,000     | $
+950,000      | $1,000,000   | On Target     |
 | Schedule Compliance| 100 days       | 95 days       | 100 days     | Ahead of Schedule|
 | Quality Score      | 95%            | 93%           | 98%          | Needs Improvement|
 | Compliance Rate    | 100%           | 98%           | 100%         | Minor Deviations |

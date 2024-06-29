@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Federal Acquisition Certification (FAC) Training on Contracting Professionals'
 date: '2023-05-02'
 tags: ['Federal Acquisition', 'Certification', 'Contracting Professionals', 'Training']

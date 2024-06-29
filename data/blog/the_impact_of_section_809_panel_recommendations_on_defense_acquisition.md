@@ -1,4 +1,5 @@
 ---
+
 title: 'The Impact of Section 809 Panel Recommendations on Defense Acquisition'
 date: '2023-11-07'
 tags: ['Defense', 'Acquisition', 'Innovation']

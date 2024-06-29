@@ -1,4 +1,5 @@
 ---
+
 title: 'The Role of Government-Wide Acquisition Contracts (GWACs) in Procurement'
 date: '2023-10-30'
 tags: ['Procurement', 'Government Contracts', 'Innovation']

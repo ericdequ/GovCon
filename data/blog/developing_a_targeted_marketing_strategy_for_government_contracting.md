@@ -1,4 +1,5 @@
 ---
+
 title: 'Developing a Targeted Marketing Strategy for Government Contracting'
 date: '2023-12-27'
 tags: ['Marketing Strategy', 'Government Contracting', 'Business Development']

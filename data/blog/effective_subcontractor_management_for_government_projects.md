@@ -1,4 +1,5 @@
 ---
+
 title: 'Effective Subcontractor Management for Government Projects'
 date: '2023-02-11'
 tags: ['Government Projects', 'Subcontractor Management', 'Project Management']
@@ -95,6 +96,7 @@ Mastering subcontractor management in government projects is no easy task, but w
 So, are you ready to take your subcontractor management to the next level?
 
 ---
+
 With this guide at your fingertips, you're well-equipped to handle the complexities of subcontractor management in government projects. Stay tuned for more insights and tips on leveraging technology and innovation in your projects.
 
 Happy Managing! 🎉

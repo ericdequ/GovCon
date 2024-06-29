@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding Cost Accounting Standards (CAS) for Government Contracts'
 date: '2024-02-15'
 tags: ['Cost Accounting', 'CAS', 'Government Contracts']
@@ -34,7 +35,10 @@ For companies, embracing CAS is not just about compliance; it’s about building
 Not all contracts require CAS compliance. There are thresholds and exemptions:
 
 - **Full CAS Coverage:** Required for contracts valued at $50 million or more in net CAS-covered awards.
-- **Modified CAS Coverage:** Applies to contracts between $7.5 million and $50 million.
+- **Modified CAS Coverage:** Applies to contracts between 
+
+$7.5 million and $
+50 million.
 
 Exemptions include contracts awarded to small businesses, contracts for commercial items, and contracts under the simplified acquisition thresholds.
 

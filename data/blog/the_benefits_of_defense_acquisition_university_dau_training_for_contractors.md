@@ -1,4 +1,5 @@
 ---
+
 title: 'The Benefits of Defense Acquisition University (DAU) Training for Contractors'
 date: '2023-06-08'
 tags: ['Defense', 'Training', 'Contractors', 'Innovation']

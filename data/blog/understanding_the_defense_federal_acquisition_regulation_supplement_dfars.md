@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding the Defense Federal Acquisition Regulation Supplement (DFARS)'
 date: '2024-06-20'
 tags: ['Government Contracting', 'DFARS', 'Cybersecurity', 'Compliance', 'Defense Contracts', 'Ethical Considerations']

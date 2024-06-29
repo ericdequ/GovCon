@@ -1,4 +1,5 @@
 ---
+
 title: 'Resolving Contract Disputes with Government Agencies'
 date: '2024-01-04'
 tags: ['Government', 'Contracts', 'LegalTech']
@@ -59,6 +60,7 @@ AI is transforming the legal landscape by:
 - **Predictive Analytics**: AI can predict potential dispute areas by analyzing past contract performance and compliance data.
 - **Document Review**: AI-powered tools can review and interpret large volumes of legal documents swiftly, identifying crucial details that might help in the dispute resolution process.
   
+
 ### Online Dispute Resolution (ODR)
 
 ODR platforms offer a seamless and efficient alternative to traditional methods. Here’s how they work:

@@ -1,4 +1,5 @@
 ---
+
 title: 'Navigating Federal Spending Data with the USAspending API'
 date: '2024-06-23'
 tags: ['Government Contracts', 'API Integration', 'Procurement']
@@ -251,7 +252,6 @@ https://api.usaspending.gov/api/v2/search/spending_by_award/
               {
                   "lower_bound": 1000000.00,
                   "upper_bound": 5000000.00
-
 
               }
        ]

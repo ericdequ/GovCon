@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding Indirect Cost Rates in Government Contracts'
 date: '2024-04-13'
 tags: ['Government Contracts', 'Indirect Costs', 'Finance']
@@ -43,7 +44,10 @@ Consider this example for clarity:
 - Total direct costs (labor, materials): $2,000,000
 
 Indirect cost rate = (Total Indirect Costs / Total Direct Costs)
-                   = ($500,000 / $2,000,000)
+                   = (
+
+$500,000 / $
+2,000,000)
                    = 25%
 
 This 25% rate means that for every dollar of direct costs, 25 cents should be allocated for indirect costs.

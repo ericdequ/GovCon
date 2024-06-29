@@ -1,4 +1,5 @@
 ---
+
 title: 'Navigating the Government Procurement Process: A Flowchart for Success'
 date: '2023-08-09'
 tags: ['Government Procurement', 'Business', 'Innovation']
@@ -89,6 +90,7 @@ The final stretch is where your expertise and preparedness shine:
 - **Deliverables**: Maintain high standards and timelines.
 - **Reporting**: Regular updates and compliance with reporting norms.
   
+
 ## Pro Tips for Success
 
 - **Build Relationships**: Agencies value credible, reliable vendors.
