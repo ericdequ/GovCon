@@ -2,7 +2,7 @@
 
 title: 'Microsoft: Developing Topological Qubits and Quantum Development Kit'
 date: '2024-02-09'
-tags: ['Quantum Computing', 'Microsoft', 'Topological Qubits', 'Quantum Development Kit', 'Q#'  ]
+tags: ['Quantum Computing', 'Microsoft', 'Topological Qubits', 'Quantum Development Kit', 'Q#'   ]
 draft: false
 summary: "Explore Microsoft's unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications."
 
@@ -19,11 +19,11 @@ Microsoft's quantum computing hardware strategy revolves around topological qubi
 
 ## Quantum Development Kit
 
-Microsoft has created a comprehensive software development kit called the Quantum Development Kit (QDK) to facilitate the development of quantum applications. The QDK includes a quantum programming language called Q#,   which is designed specifically for expressing quantum algorithms. Q# is integrated with Microsoft's Visual Studio development environment and can be used in conjunction with classical programming languages like C# and Python.
+Microsoft has created a comprehensive software development kit called the Quantum Development Kit (QDK) to facilitate the development of quantum applications. The QDK includes a quantum programming language called Q#,    which is designed specifically for expressing quantum algorithms. Q# is integrated with Microsoft's Visual Studio development environment and can be used in conjunction with classical programming languages like C# and Python.
 
 ## Quantum Libraries and Simulators
 
-In addition to Q#,   the Quantum Development Kit provides a rich set of libraries and simulators for quantum development. The libraries include common quantum algorithms and building blocks, making it easier for developers to create quantum applications. The QDK also includes a full-state quantum simulator, which allows developers to test and debug their quantum programs on classical computers before running them on actual quantum hardware.
+In addition to Q#,    the Quantum Development Kit provides a rich set of libraries and simulators for quantum development. The libraries include common quantum algorithms and building blocks, making it easier for developers to create quantum applications. The QDK also includes a full-state quantum simulator, which allows developers to test and debug their quantum programs on classical computers before running them on actual quantum hardware.
 
 ## Quantum-Inspired Optimization
 

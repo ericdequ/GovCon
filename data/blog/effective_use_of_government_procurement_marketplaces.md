@@ -58,7 +58,7 @@ Utilize these marketplaces efficiently by following these best practices:
 Frequent monitoring ensures you don't miss out on any relevant contracts. Set up alerts and notifications for new bid opportunities that match your business profile.
 
 ```sh
-#!  /bin/bash
+#!   /bin/bash
 # Example of setting up a simple alert for new bids using marketplace APIs or RSS feeds
 curl -s https://marketplace.unisonglobal.com/api/new_bids | grep "relevant_keywords"
 ```
