@@ -47,6 +47,7 @@ Indirect cost rate = (Total Indirect Costs / Total Direct Costs)
                    = (
 
 $500,000 / $
+
 2,000,000)
                    = 25%
 

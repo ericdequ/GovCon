@@ -58,6 +58,7 @@ The following table showcases a simple example of how data analytics can be used
 | Cost Performance   | 
 
 $1,000,000     | $
+
 950,000      | $1,000,000   | On Target     |
 | Schedule Compliance| 100 days       | 95 days       | 100 days     | Ahead of Schedule|
 | Quality Score      | 95%            | 93%           | 98%          | Needs Improvement|

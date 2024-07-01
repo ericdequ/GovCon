@@ -109,11 +109,11 @@ GSA eBuy is a powerful platform for securing government contracts, especially fo
 ---
 
 **Table of Contents**
-1. [Getting Started with GSA eBuy](#g etting-started-with-gsa-ebuy)
-2. [Navigating the GSA eBuy Interface](#n avigating-the-gsa-ebuy-interface)
-3. [Bidding on Contracts](#b idding-on-contracts)
-4. [Managing the Bidding Process](#m anaging-the-bidding-process)
-5. [Conclusion](#c onclusion)
+1. [Getting Started with GSA eBuy](#g  etting-started-with-gsa-ebuy)
+2. [Navigating the GSA eBuy Interface](#n  avigating-the-gsa-ebuy-interface)
+3. [Bidding on Contracts](#b  idding-on-contracts)
+4. [Managing the Bidding Process](#m  anaging-the-bidding-process)
+5. [Conclusion](#c  onclusion)
 ```
 
 This article provides a comprehensive guide to using GSA eBuy for securing government contracts, along with practical tips for maximizing success in the bidding process.

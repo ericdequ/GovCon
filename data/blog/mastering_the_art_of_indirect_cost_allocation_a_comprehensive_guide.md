@@ -55,6 +55,7 @@ Selecting the right allocation base is crucial. Select bases that have a strong,
 With your costs and bases in hand, it's time to calculate allocation rates. This involves dividing the total cost in each category by the total measure of your chosen base. For example, if your annual rent is 
 
 $120,000 and your total office space is 12,000 square feet, your rate would be $
+
 10 per square foot.
 
 ### 5. Apply Allocation Rates Consistently

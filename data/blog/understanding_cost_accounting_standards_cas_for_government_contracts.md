@@ -38,6 +38,7 @@ Not all contracts require CAS compliance. There are thresholds and exemptions:
 - **Modified CAS Coverage:** Applies to contracts between 
 
 $7.5 million and $
+
 50 million.
 
 Exemptions include contracts awarded to small businesses, contracts for commercial items, and contracts under the simplified acquisition thresholds.
