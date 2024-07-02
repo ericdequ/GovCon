@@ -19,7 +19,7 @@ Simulating quantum circuits is a computationally intensive task that requires si
 
 ## cuQuantum Library
 
-NVIDIA has created a library called cuQuantum, which provides optimized kernels and APIs for accelerating quantum circuit simulations on GPUs. cuQuantum is designed to integrate seamlessly with popular quantum computing frameworks such as Qiskit, Cirq, and Q#.    It offers significant performance improvements compared to CPU-based simulations, allowing researchers to explore quantum algorithms and error correction schemes more efficiently.
+NVIDIA has created a library called cuQuantum, which provides optimized kernels and APIs for accelerating quantum circuit simulations on GPUs. cuQuantum is designed to integrate seamlessly with popular quantum computing frameworks such as Qiskit, Cirq, and Q#.     It offers significant performance improvements compared to CPU-based simulations, allowing researchers to explore quantum algorithms and error correction schemes more efficiently.
 
 ## Tensor Network Simulations
 

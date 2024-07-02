@@ -23,7 +23,7 @@ To ensure a successful transition, you must first understand what each role enta
 
 The leap from subcontractor to prime contractor involves more than just ascending the hierarchy—it involves escalating your skills, expanding your management capabilities, and bolstering your business operations.
 
-## Strategy #1   : Build Strong Client Relationships
+## Strategy #1    : Build Strong Client Relationships
 
 The backbone of any successful prime contractor is solid client relationships. Transitioning requires trust and this trust is forged over time through:
 
@@ -33,7 +33,7 @@ The backbone of any successful prime contractor is solid client relationships. T
 
 - **Client Feedback**: Actively seek feedback and make improvements. Demonstrating that you value client input builds confidence in your ability to handle larger projects.
 
-## Strategy #2   : Expand Your Skill Set and Resources
+## Strategy #2    : Expand Your Skill Set and Resources
 
 As you transition, you’ll need to broaden your expertise and resources:
 
@@ -43,7 +43,7 @@ As you transition, you’ll need to broaden your expertise and resources:
   
 - **Human Resources**: Expanding your team is crucial. Hiring skilled professionals who bring diverse expertise can help you handle larger, more complex projects.
 
-## Strategy #3   : Develop a Robust Bid Proposal System
+## Strategy #3    : Develop a Robust Bid Proposal System
 
 Winning prime contracts typically involves a competitive bidding process. A carefully crafted bid proposal can set you apart:
 
@@ -53,7 +53,7 @@ Winning prime contracts typically involves a competitive bidding process. A care
   
 - **Cost-Benefit Analysis**: Present a clear cost-benefit analysis. Showing clients the tangible value they get for their investment can make your proposal more compelling.
 
-## Strategy #4   : Foster Strategic Partnerships
+## Strategy #4    : Foster Strategic Partnerships
 
 Building alliances with other subcontractors and firms can multiply your strength:
 
@@ -61,7 +61,7 @@ Building alliances with other subcontractors and firms can multiply your strengt
   
 - **Mentor Networks**: Join networks or groups of seasoned prime contractors who can provide mentorship and strategic advice.
 
-## Strategy #5   : Invest in Marketing and Branding
+## Strategy #5    : Invest in Marketing and Branding
 
 Lastly, elevate your market presence and brand credibility:
 
