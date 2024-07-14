@@ -6,7 +6,7 @@ tags: ['Epoxy Flooring', 'DiamondBack Flooring', 'Review', 'Garage Makeover']
 draft: false
 summary: 'A detailed review of DiamondBack Flooring and their exceptional epoxy flooring services in Central Florida.'
 
-images: ['https://www.govcon.me/articleimage/Reviews/DiamondbackEpoxy_1_20240714_161713.webp', 'https://www.govcon.me/articleimage/Reviews/DiamondbackEpoxy.webp']
+images: ['https://www.govcon.me/articleimage/Reviews/DiamondbackEpoxy.webp', 'https://www.govcon.me/articleimage/Reviews/DiamondbackEpoxy_1_20240714_161713.webp']
 ---
 
 ## 🌟 DiamondBack Flooring: Excellence in Every Pour
