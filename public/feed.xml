@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/Reviews/RobotRic</guid>
+    <title>Robot Ric: Best-Selling Novel</title>
+    <link>https://www.govcon.com/blog/Reviews/RobotRic</link>
+    <description>A captivating novel that explores the journey of a waterproof robot as it navigates the challenges of a mighty river and seeks to understand the essence of humanity. Discover how this story has captured hearts worldwide and sparked discussions on the nature of consciousness and existence.</description>
+    <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Novel</category><category>AI</category><category>Spirituality</category><category>Resilience</category><category>LifeLessons</category><category>Humanity</category><category>BookLaunch</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/api/usaspending</guid>
     <title>Navigating Federal Spending Data with the USAspending API</title>
