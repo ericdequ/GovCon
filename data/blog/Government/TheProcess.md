@@ -7,7 +7,7 @@ tags:
 draft: false
 summary: 'Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.'
 
-images: ['https://www.govcon.me/articleimage/Government/TheProcess_1_20240714_161657.webp', 'https://www.govcon.me/articleimage/Government/TheProcess.webp']
+images: ['https://www.govcon.me/articleimage/Government/TheProcess.webp', 'https://www.govcon.me/articleimage/Government/TheProcess_1_20240714_161657.webp']
 ---
 
 ## Introduction: The Vast Landscape of Government Contracts 🌐📜

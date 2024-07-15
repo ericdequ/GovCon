@@ -6,7 +6,7 @@ tags: ['Science', 'Technology', 'Innovation', 'Blog Review']
 draft: false
 summary: 'A comprehensive review of the Elon Tusk blog, highlighting its insightful articles on quantum computing, biomimicry, AI ethics, and more.'
 
-images: ['https://www.elontusk.org/logoo-removebg.webp', 'https://www.govcon.me/articleimage/Reviews/ElonTusk.webp']
+images: ['https://www.govcon.me/articleimage/Reviews/ElonTusk.webp', 'https://www.elontusk.org/logoo-removebg.webp']
 ---
 
 ## 🌟 Elon Tusk Blog: A Haven for Science and Technology Enthusiasts
