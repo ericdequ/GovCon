@@ -1,6 +1,6 @@
 ---
 title: 'Robot Ric: Best-Selling Novel'
-date: '2024-07-10'
+date: '2024-05-10'
 
 tags: ['Novel', 'AI', 'Spirituality', 'Resilience', 'LifeLessons', 'Humanity', 'BookLaunch']
 draft: false
