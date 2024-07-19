@@ -3,7 +3,7 @@
 title: 'Transforming Education and Defense: A Unified Space Race for a Brighter Future'
 date: '2024-07-19'
 tags: ['Space Force', 'Department of Education', 'Defense Spending', 'Global Development', 'Scientific Advancements', 'Global Cooperation']
-draft: true
+draft: false
 summary: 'A visionary exploration of how moving Space Force under the Department of Education can revolutionize both education and defense. This article delves into the potential for creating smarter citizens, fostering global cooperation, and opening new markets, all while embracing the spirit of exploration and innovation.'
 images: ['https://www.govcon.me/articleimage/Relations/SpaceRace.webp']
 ---
