@@ -11,7 +11,7 @@ images: ['https://www.govcon.me/articleimage/./the_basics_of_government_contract
 
 # The Basics of Government Contracting: A Beginner's Guide to Getting Started
 
-Government contracting can seem like a daunting labyrinth, but for businesses looking to expand and secure steady revenue, it's an avenue worth navigating. In this blog post, we'll take you through the essential steps and tips to get started in government contracting, demystifying the process and setting you on the path to success.
+Government contracting can seem like a daunting labyrinth, but for businesses looking to expand and secure steady revenue, it's an avenue worth navigating. In this blog post, well take you through the essential steps and tips to get started in government contracting, demystifying the process and setting you on the path to success.
 
 ## Understanding the Landscape
 

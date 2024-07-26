@@ -11,7 +11,7 @@ images: ['https://www.govcon.me/articleimage/./resolving_contract_disputes_with_
 
 ## Introduction
 
-Welcome to the intricate world of contract disputes with government agencies! If you’re reading this, chances are you’ve either found yourself in a tug-of-war over a government contract or you’re trying to understand how to steer clear of such situations. Whichever the case, you’ve come to the right place. Today, we'll unpack this complex subject and explore how advanced technologies are revolutionizing dispute resolutions.
+Welcome to the intricate world of contract disputes with government agencies! If you’re reading this, chances are you’ve either found yourself in a tug-of-war over a government contract or you’re trying to understand how to steer clear of such situations. Whichever the case, you’ve come to the right place. Today, well unpack this complex subject and explore how advanced technologies are revolutionizing dispute resolutions.
 
 ## The Nature of Government Contracts
 

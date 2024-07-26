@@ -15,7 +15,7 @@ images: ['https://www.govcon.me/articleimage/./the_pre_award_survey_what_it_is_a
 
 Securing a government contract is a massive win for any business, often opening doors to long-term and financially lucrative opportunities. However, before you can pop the champagne, there's a critical step you must overcome - the pre-award survey. This comprehensive assessment can seem daunting, but with the right preparation, you can navigate it with confidence and success.
 
-In this blog post, we'll dive into the nitty-gritty of what a pre-award survey entails, why it matters, and how you can prepare to shine.
+In this blog post, well dive into the nitty-gritty of what a pre-award survey entails, why it matters, and how you can prepare to shine.
 
 ## What is a Pre-Award Survey?
 

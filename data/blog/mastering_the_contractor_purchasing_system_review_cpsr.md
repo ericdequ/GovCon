@@ -13,7 +13,7 @@ images: ['https://www.govcon.me/articleimage/./mastering_the_contractor_purchasi
 
 ## Introduction
 
-If you're a contractor juggling various government contracts, you've likely heard whispers about the Contractor Purchasing System Review (CPSR). This essential audit, conducted by the Defense Contract Management Agency (DCMA), ensures that your purchasing system complies with federal regulations. In this post, we'll demystify the CPSR process and provide actionable insights to help you not just prepare for, but also excel in your next review.
+If you're a contractor juggling various government contracts, you've likely heard whispers about the Contractor Purchasing System Review (CPSR). This essential audit, conducted by the Defense Contract Management Agency (DCMA), ensures that your purchasing system complies with federal regulations. In this post, well demystify the CPSR process and provide actionable insights to help you not just prepare for, but also excel in your next review.
 
 ## Key Objectives of CPSR
 

@@ -19,7 +19,7 @@ The Federal Acquisition Regulation (FAR) is a set of rules issued to ensure that
 
 ## Key Sections of FAR for Contractors
 
-Below, we'll delve into the essential sections of FAR that are most relevant for contractors:
+Below, well delve into the essential sections of FAR that are most relevant for contractors:
 
 ### **1. FAR Part 12 - Acquisition of Commercial Items**
 

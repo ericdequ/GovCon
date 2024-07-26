@@ -11,7 +11,7 @@ images: ['https://www.govcon.me/articleimage/./securing_government_contracts_thr
 
 ## Securing Government Contracts through GSA eBuy
 
-The U.S. General Services Administration (GSA) eBuy is an invaluable tool for small businesses and contractors looking to break into the world of government contracts. This online platform streamlines the Request for Quotation (RFQ) process, making it easier to find and bid on lucrative government contracts. In this article, we'll explore how to use GSA eBuy effectively and provide tips for creating compelling quotes and managing your bids.
+The U.S. General Services Administration (GSA) eBuy is an invaluable tool for small businesses and contractors looking to break into the world of government contracts. This online platform streamlines the Request for Quotation (RFQ) process, making it easier to find and bid on lucrative government contracts. In this article, well explore how to use GSA eBuy effectively and provide tips for creating compelling quotes and managing your bids.
 
 ### Getting Started with GSA eBuy
 

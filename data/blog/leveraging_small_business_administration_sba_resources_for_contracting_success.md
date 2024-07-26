@@ -11,7 +11,7 @@ images: ['https://www.govcon.me/articleimage/./leveraging_small_business_adminis
 
 # Leveraging Small Business Administration (SBA) Resources for Contracting Success
 
-Government contracts are a significant avenue for small businesses looking to expand their market reach and grow their customer base. However, navigating the complex world of government contracting can be daunting. Enter the **Small Business Administration (SBA)**, a powerhouse of resources designed to help small businesses thrive in this competitive landscape. In this blog post, we'll dive deep into the SBA's offerings and how you can leverage them for contracting success.
+Government contracts are a significant avenue for small businesses looking to expand their market reach and grow their customer base. However, navigating the complex world of government contracting can be daunting. Enter the **Small Business Administration (SBA)**, a powerhouse of resources designed to help small businesses thrive in this competitive landscape. In this blog post, well dive deep into the SBA's offerings and how you can leverage them for contracting success.
 
 ## Why Consider Government Contracts?
 
