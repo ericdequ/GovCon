@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
-      <lastBuildDate>Thu, 18 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.govcon.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.govcon.com/blog/Relations/SpaceRace</guid>
+    <title>Transforming Education and Defense: A Unified Space Race for a Brighter Future</title>
+    <link>https://www.govcon.com/blog/Relations/SpaceRace</link>
+    <description>A visionary exploration of how moving Space Force under the Department of Education can revolutionize both education and defense. This article delves into the potential for creating smarter citizens, fostering global cooperation, and opening new markets, all while embracing the spirit of exploration and innovation.</description>
+    <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Space Force</category><category>Department of Education</category><category>Defense Spending</category><category>Global Development</category><category>Scientific Advancements</category><category>Global Cooperation</category>
+  </item>
+
   <item>
     <guid>https://www.govcon.com/blog/Relations/BuildingABetterFuture</guid>
     <title>Building a Better Future: How U.S. Immigration Policy Can Truly Make a Difference</title>
@@ -851,16 +861,6 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/navigating_federal_budget_changes_strategies_for_government_contractors</guid>
-    <title>Navigating Federal Budget Changes: Strategies for Government Contractors</title>
-    <link>https://www.govcon.com/blog/navigating_federal_budget_changes_strategies_for_government_contractors</link>
-    <description>An engaging exploration of robust strategies for government contractors to navigate federal budget changes effectively.</description>
-    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Government Contracting</category><category>Federal Budget</category><category>Strategy</category>
-  </item>
-
-  <item>
     <guid>https://www.govcon.com/blog/Reviews/CFLABORECARE</guid>
     <title>CFL Arbor Care Review</title>
     <link>https://www.govcon.com/blog/Reviews/CFLABORECARE</link>
@@ -868,6 +868,16 @@
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Tree Cutting</category><category>CFL Arbor Care</category><category>Review</category><category>Arboriculture</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/navigating_federal_budget_changes_strategies_for_government_contractors</guid>
+    <title>Navigating Federal Budget Changes: Strategies for Government Contractors</title>
+    <link>https://www.govcon.com/blog/navigating_federal_budget_changes_strategies_for_government_contractors</link>
+    <description>An engaging exploration of robust strategies for government contractors to navigate federal budget changes effectively.</description>
+    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>Federal Budget</category><category>Strategy</category>
   </item>
 
   <item>
@@ -1281,16 +1291,6 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/building_a_winning_government_contract_bid_team</guid>
-    <title>Building a Winning Government Contract Bid Team</title>
-    <link>https://www.govcon.com/blog/building_a_winning_government_contract_bid_team</link>
-    <description>Unveil the secrets behind assembling a government contract bid team that guarantees success. Dive into strategy, collaboration, and technical insights to secure that win.</description>
-    <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Government Contracts</category><category>Project Management</category><category>Team Building</category>
-  </item>
-
-  <item>
     <guid>https://www.govcon.com/blog/Quantum/HoneyWell</guid>
     <title>Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing</title>
     <link>https://www.govcon.com/blog/Quantum/HoneyWell</link>
@@ -1298,6 +1298,16 @@
     <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Quantum Computing</category><category>Honeywell Quantum Solutions</category><category>Ion Trap Qubits</category><category>Quantum Charge Coupled Device (QCCD)</category><category>Quantum-Classical Optimization</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/building_a_winning_government_contract_bid_team</guid>
+    <title>Building a Winning Government Contract Bid Team</title>
+    <link>https://www.govcon.com/blog/building_a_winning_government_contract_bid_team</link>
+    <description>Unveil the secrets behind assembling a government contract bid team that guarantees success. Dive into strategy, collaboration, and technical insights to secure that win.</description>
+    <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracts</category><category>Project Management</category><category>Team Building</category>
   </item>
 
   <item>
@@ -1541,16 +1551,6 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/developing_a_competitive_edge_in_the_government_contracting_marketplace</guid>
-    <title>Developing a Competitive Edge in the Government Contracting Marketplace</title>
-    <link>https://www.govcon.com/blog/developing_a_competitive_edge_in_the_government_contracting_marketplace</link>
-    <description>Explore strategies and innovative technologies that can give your business a competitive advantage in the government contracting marketplace.</description>
-    <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Government Contracting</category><category>Competitive Strategy</category><category>Innovation</category>
-  </item>
-
-  <item>
     <guid>https://www.govcon.com/blog/Reviews/BMWSERVICES</guid>
     <title>BMW Services Review</title>
     <link>https://www.govcon.com/blog/Reviews/BMWSERVICES</link>
@@ -1558,6 +1558,16 @@
     <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Brick Paving</category><category>BMW Services</category><category>Review</category><category>Outdoor Living</category>
+  </item>
+
+  <item>
+    <guid>https://www.govcon.com/blog/developing_a_competitive_edge_in_the_government_contracting_marketplace</guid>
+    <title>Developing a Competitive Edge in the Government Contracting Marketplace</title>
+    <link>https://www.govcon.com/blog/developing_a_competitive_edge_in_the_government_contracting_marketplace</link>
+    <description>Explore strategies and innovative technologies that can give your business a competitive advantage in the government contracting marketplace.</description>
+    <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>Government Contracting</category><category>Competitive Strategy</category><category>Innovation</category>
   </item>
 
   <item>
