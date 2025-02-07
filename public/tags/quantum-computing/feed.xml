@@ -14,110 +14,12 @@
     <guid>https://www.govcon.com/blog/Certifications/QuantumLearn</guid>
     <title>Discover QuantumLearn: The Open-Source Learning Revolution 🌐</title>
     <link>https://www.govcon.com/blog/Certifications/QuantumLearn</link>
+    
     <description>Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀</description>
     <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
     <author>eric@quantumcybersolutions.com (Gov Con)</author>
     <category>Open Source</category><category>Learning</category><category>Community</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Project Management</category><category>Comptia</category><category>Education</category><category>Devops</category><category>digitaltransformation</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/QCI</guid>
-    <title>Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors</title>
-    <link>https://www.govcon.com/blog/Quantum/QCI</link>
-    <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
-    <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Quantum Circuits Inc. (QCI)</category><category>Superconducting Qubits</category><category>Quantum Processors</category><category>Quantum Cloud Services</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/Microsoft</guid>
-    <title>Microsoft: Developing Topological Qubits and Quantum Development Kit</title>
-    <link>https://www.govcon.com/blog/Quantum/Microsoft</link>
-    <description>Explore Microsoft&#39;s unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications.</description>
-    <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Microsoft</category><category>Topological Qubits</category><category>Quantum Development Kit</category><category>Q#</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/Rigetti</guid>
-    <title>Rigetti Computing: Building Superconducting Quantum Computers</title>
-    <link>https://www.govcon.com/blog/Quantum/Rigetti</link>
-    <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
-    <pubDate>Wed, 29 Nov 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Rigetti Computing</category><category>Superconducting Qubits</category><category>Hybrid Quantum-Classical Algorithms</category><category>Quantum Cloud Services</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/IBM</guid>
-    <title>IBM: Pioneering Quantum Computing with Superconducting Qubits</title>
-    <link>https://www.govcon.com/blog/Quantum/IBM</link>
-    <description>Explore IBM&#39;s groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services.</description>
-    <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>IBM</category><category>Superconducting Qubits</category><category>Qiskit</category><category>Cloud-based Quantum Computing</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/DWave</guid>
-    <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
-    <link>https://www.govcon.com/blog/Quantum/DWave</link>
-    <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
-    <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>D-Wave Systems</category><category>Quantum Annealing</category><category>Optimization</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/Nvida</guid>
-    <title>NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology</title>
-    <link>https://www.govcon.com/blog/Quantum/Nvida</link>
-    <description>Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.</description>
-    <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>NVIDIA</category><category>GPU Technology</category><category>Quantum Circuit Simulation</category><category>cuQuantum</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/HoneyWell</guid>
-    <title>Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing</title>
-    <link>https://www.govcon.com/blog/Quantum/HoneyWell</link>
-    <description>Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.</description>
-    <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Honeywell Quantum Solutions</category><category>Ion Trap Qubits</category><category>Quantum Charge Coupled Device (QCCD)</category><category>Quantum-Classical Optimization</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/QCTRL</guid>
-    <title>Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing</title>
-    <link>https://www.govcon.com/blog/Quantum/QCTRL</link>
-    <description>Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.</description>
-    <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Q-CTRL</category><category>Quantum Control</category><category>Quantum Firmware</category><category>Quantum Error Correction</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/IonQ</guid>
-    <title>IonQ: Pioneering Trapped Ion Quantum Computing</title>
-    <link>https://www.govcon.com/blog/Quantum/IonQ</link>
-    <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
-    <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
-  </item>
-
-  <item>
-    <guid>https://www.govcon.com/blog/Quantum/Google</guid>
-    <title>Google: Advancing Quantum Computing with Superconducting Qubits and Quantum AI</title>
-    <link>https://www.govcon.com/blog/Quantum/Google</link>
-    <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
-    <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
-    <author>eric@quantumcybersolutions.com (Gov Con)</author>
-    <category>Quantum Computing</category><category>Google</category><category>Superconducting Qubits</category><category>Quantum AI</category><category>Quantum Supremacy</category>
+    <image> https://www.quantumlearn.org/logo-rmbg.webp</image><image> https://www.govcon.me/articleimage/Certifications/QuantumLearn.webp</image>
   </item>
 
     </channel>
