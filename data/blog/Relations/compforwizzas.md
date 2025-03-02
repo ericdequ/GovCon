@@ -184,3 +184,7 @@ A wizard’s power does not lie in secrecy—it lies in **their relationship wit
 Those who listen, respect, and move in harmony with truth will find **that knowledge flows freely**. But those who attempt to **seize wisdom through coercion** will find themselves **caught in an infinite loop of their own making**—one that not even the most advanced technology can escape.  
 
 In the end, **it is not the wizard who curses the spy**. It is **the spy’s own actions that invoke the curse**.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QkhybUXZqWQ?si=2_b39nGq8tAcLBe2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://www.quantumcybersolutions.com/contact
