@@ -1,6 +1,6 @@
 ---
 title: 'The Only Thing To Fear Is Fear Itself'
-date: '2023-06-10'
+date: '2025-03-06'
 tags:
   ['Space Force', 'Department of Education', 'Defense Spending', 'Small Business Incentives', 'Scientific Advancements', 'Global Cooperation']
 draft: false
