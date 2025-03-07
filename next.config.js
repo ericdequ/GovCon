@@ -54,6 +54,8 @@ module.exports = withBundleAnalyzer({
       'quantumcybersolutions.com',
       'www.quantumcybersolutions.com',
       'ericdequevedo.com',
+      'www.rics-notebook.com',
+      'rics-notebook.com',
       'www.ericdequevedo.com',
       'dione-murex.vercel.app',
       'introspective.vercel.app',

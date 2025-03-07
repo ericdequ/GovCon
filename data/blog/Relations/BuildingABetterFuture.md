@@ -73,7 +73,11 @@ While our politicians argue over the ~Issue~ Of immigration we need to realize i
 As We globalize with Technology we need to understand our global interconnectedness and that the Rights of Life, Liberty and Pursuit of Happiness are Endowed to all Humans and not just Americans
 
 
----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4MVQXdtrEQM?si=bc4G9a-m3na6hHZR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCM5qFinoYg?si=whk0TvIinDsGlH4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 By addressing the true causes of immigration and investing in the development of other nations, we can transform a contentious issue into an opportunity for global growth and security. This visionary approach can redefine the U.S. as a leader in compassion and innovation, building a better future for all.
 

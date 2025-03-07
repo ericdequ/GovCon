@@ -9,6 +9,8 @@ images: ['https://www.magickedu.org/articleimage/Thoth/the_emerald_tablet_of_tho
 
 # The Future of Business: Why Every Company Needs a Wizard
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4tvER2SmF9Y?si=ppunjZ6KpfTlwH-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 We live in an era where businesses meticulously track every data point, optimize every process, and forecast every possible outcome. Yet, despite all this **precision**, there is still **uncertainty**.  
 
 The greatest companies—the ones that transcend industry norms and reshape entire paradigms—do not rely solely on numbers. They are guided by something deeper: **vision, intuition, and an ability to sense the unseen forces shaping the future**.  

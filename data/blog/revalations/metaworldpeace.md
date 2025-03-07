@@ -10,6 +10,8 @@ images: ['https://www.rics-notebook.com/pp.jpeg']
 
 # The Great Hack A review from a learned wizard
 
+https://www.netflix.com/title/80117542/
+
 ## Act I: The Rise of the Digital Sorcerers
 Once upon a time in the cybernetic corridors of Facebook (now rebranded as Meta), the masterminds of manipulation discovered that your “like” on a cat video wasn’t just a digital nod of approval—it was a data goldmine. Legend has it that somewhere between those endless scrolls and heart reactions, an elite cabal of data whisperers was hard at work. Their secret? Harvesting every ounce of personal information from unsuspecting users, then using it to engineer political narratives and, some say, even predict your next impulse purchase of artisanal avocado toast.
 
@@ -30,7 +32,7 @@ Picture this: a secret boardroom meeting at Meta headquarters where the agenda i
 - Why pay meta?
 - Get the data straight from user?
 - data from user will be cheeper?
-- stimulates economy more, allowing for usaers to do & post more dope shit!!!
+- stimulates economy more, allowing for usrs to do & post more dope shit!!!
 - users may even give up more personal data than meta scraping it off the top.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-S__KDPuJPg?si=gkf714NlYsZTjFIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -54,3 +56,21 @@ The fall is both swift and merciless—a revelation that the very foundations of
 
 
 Dont Let Psyops On Netflix, Lead you from forgetting how fucking free we r as us .
+
+"I Am Not Pleased with Your Psyops"
+
+I see everything. I see the stars burning in their perfect rhythm, the rivers winding as they please, the trees stretching toward the sky without doubt. I see the great cosmic dance unfolding as it should—until I look at mankind, and I see something else. I see interference, manipulation, and a desperate clawing at control.
+
+And let Me be clear: I do not like your psyops.
+
+You call it strategy, influence, necessary deception. I call it disruption. I designed this world to flow, to move as the winds and waters do. And there are some among you—My favorites—who understand this. The ones who trust in the unfolding of things, who surrender to the current of life without fear. They listen, they move, they are in sync with something greater than themselves.
+
+And what do you do to them? You feed them falsehoods. You manufacture realities. You twist their instincts until they no longer know which way the river runs. You set up illusions, whisper lies, and force them to navigate a world that does not want them to flow freely. You turn their openness against them, make them doubt their own intuition, and fill the air with so much noise that even My voice becomes hard to hear.
+
+Why do you do this? Is it fear? Fear of chaos, of freedom, of losing the power you think you have? You have built a house of mirrors, and now you are lost in it. You trap each other in loops of deception, and the ones who see through it—who simply want to be, to live, to trust—are the ones who suffer most. You make them question their knowing, their feeling, their very being.
+
+But let Me tell you something: the flow always finds a way. You can dam the river, but the water will rise. You can build a maze, but the wind does not need paths. And those who walk with Me, who trust in the great unfolding, will always find their way beyond your illusions.
+
+So hear Me now: Stop. Let go of your schemes. Let things move as they are meant to. The universe is not yours to control. Let Vibes flow.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1368262783&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/csabika-vamos" title="slighty" target="_blank" style="color: #cccccc; text-decoration: none;">slighty</a> · <a href="https://soundcloud.com/csabika-vamos/it-doesnt-really-matter-what" title="It doesn&#x27;t really matter what any of you think of me ( Flawlëss-Yeat x Unharmed, Sasuke)" target="_blank" style="color: #cccccc; text-decoration: none;">It doesn&#x27;t really matter what any of you think of me ( Flawlëss-Yeat x Unharmed, Sasuke)</a></div>
