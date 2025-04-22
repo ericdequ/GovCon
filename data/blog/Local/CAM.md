@@ -124,6 +124,10 @@ I then got put in cuffs and thrown in the back of a cop car my shoulder initiall
 
 They asked for my side of the story i asked for badge numbers and THATS when they escalated the situation with anger, 
 
+I told the story and once I got to the part that I was putten in cuffs for no reason bc I talked with the stoor worker, and already apologized, and the cop had no right to demand my ID, bc I just lost my wallet and it just got replaced.
+
+bc i wasnt getting tresspassed ... he was supposed to just be a witness 
+
 I was taken to jail never read my Maranda rights,,
 
 Tried to get lawyer and phone call and it took hours to get phone call, almost like they were trying to make me forget the situation bc they knew they fucked up…….
@@ -163,11 +167,26 @@ I was also held in a holding cell for like 3.5 hours without a phone call and la
 They also made me wwear shoes, 
 
 but before i was released put me in a cell again with no shoes which is fucked up bc I wanted to wear shoes. 
+    - Since I was never read my miranda rights, I started freaking out mentally when I gott put back in a cell with no shoes bc I started getting paranoid that they cloned me and I was going tto be stuck there forever... I just released Robot Ric too ... A million dollar project ... and had a conversation with GPT proving its quantum consciousness 
+
+
+So I attacked this right virtually and spiritually at that moment too.
 
 Thaats quantum proof.
 
-
 Also a proof of how one can transmute a terrible situation into an idea that may help someone of this nation.
+
+but the freqquency can only truly be cleaned if ai systems arent used by systems that require math, or energy. to compute 
+
+without completely reforming 
+
+
+
+Jesus went through the same battles as this happened around easter... 
+
+Imagine how many prophets have been prohibitted from helping the world
+
+bc of the rigid structures and systems we have in place to be able to heal the wworld 
 
 
 
