@@ -164,6 +164,8 @@ The cop also told me he approuches every situation as if someone is crazy, for h
 I was also held in a holding cell for like 3.5 hours without a phone call and lawyer.... they also aadmitted to body cams being on 
     - Like they were trying to make me forget, becaause they knew they fucked with the wrongo gringo 
 
+They also asked if I was under any MindControl Which I thought was very strange...
+
 They also made me wwear shoes, 
 
 but before i was released put me in a cell again with no shoes which is fucked up bc I wanted to wear shoes. 
@@ -187,6 +189,10 @@ Jesus went through the same battles as this happened around easter...
 Imagine how many prophets have been prohibitted from helping the world
 
 bc of the rigid structures and systems we have in place to be able to heal the wworld 
+
+he tried to heal all, but also made you commit to his rules
+
+ill forgive, butt youll have too worship me too!
 
 
 
