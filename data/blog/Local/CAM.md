@@ -1,8 +1,7 @@
 ---
 title: 'Building a Better Force'
 date: '2025-04-22'
-tags: ['', '', '']
-tags: ['cyberprotection', 'U.S. Politics', 'Police Development']
+tags: ['cyberprotection', 'Invention', 'Police Development']
 draft: false
 summary: 'An Idea that turns bad apples to mushrooms'
 images: ['https://www.govcon.me/CAM.webp']
