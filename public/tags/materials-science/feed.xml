@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/materials-science/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/Projects/prismpan</guid>
+    <title>PrismPanel: Spectrum‑Split Solar for Full‑Rainbow Efficiency</title>
+    <link>https://www.govcon.com/blog/Projects/prismpan</link>
+    
+    <description>Discover a next‑gen solar module that uses micro‑prism arrays to split incoming white light into its spectral bands—directing each color to specialized cells for unmatched conversion efficiency.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>solar energy</category><category>photovoltaics</category><category>spectrum splitting</category><category>renewables</category><category>materials science</category>
+    <image> https://www.rics-notebook.com/articleimage/Energy/PrismPanel.webp</image>
+  </item>
+
+    </channel>
+  </rss>
