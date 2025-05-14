@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['solar energy', 'photovoltaics', 'spectrum splitting', 'renewables', 'materials science']  
 draft: false  
 summary: "Discover a next‑gen solar module that uses micro‑prism arrays to split incoming white light into its spectral bands—directing each color to specialized cells for unmatched conversion efficiency."  
-images: ['https://www.rics-notebook.com/articleimage/Energy/PrismPanel.webp']  
+images: ['https://www.rics-notebook.com/articleimage/Energy/PrismPanel.png']  
 
 ---
 
