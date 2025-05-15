@@ -1201,6 +1201,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/blog/Projects/StoneSaver</loc>
+    <lastmod>2025-05-14T21:17:55.346Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/blog/Relations/BuildingABetterFuture</loc>
     <lastmod>2025-05-04T17:00:41.114Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -1237,49 +1244,49 @@
 
   <url>
     <loc>https://www.govcon.com/tags/accounting-systems</loc>
-    <lastmod>2025-05-14T18:55:37.212Z</lastmod>
+    <lastmod>2025-05-15T13:56:33.689Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/acquisition</loc>
-    <lastmod>2025-05-14T18:55:29.713Z</lastmod>
+    <lastmod>2025-05-15T13:56:28.532Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/administration</loc>
-    <lastmod>2025-05-14T18:55:31.591Z</lastmod>
+    <lastmod>2025-05-15T13:56:30.093Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ai</loc>
-    <lastmod>2025-05-14T18:55:01.782Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.732Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ai-and-human-potential</loc>
-    <lastmod>2025-05-14T18:55:23.861Z</lastmod>
+    <lastmod>2025-05-15T13:56:07.747Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/american-manufacturing</loc>
-    <lastmod>2025-05-14T18:55:21.235Z</lastmod>
+    <lastmod>2025-05-15T13:55:58.883Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/api-integration</loc>
-    <lastmod>2025-05-14T18:54:45.950Z</lastmod>
+    <lastmod>2025-05-15T13:54:38.966Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1292,50 +1299,57 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/architecture</loc>
+    <lastmod>2025-05-15T13:55:41.378Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/audit</loc>
-    <lastmod>2025-05-14T18:55:05.537Z</lastmod>
+    <lastmod>2025-05-15T13:55:05.633Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/automation</loc>
-    <lastmod>2025-05-14T18:55:01.749Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.855Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/best-practices</loc>
-    <lastmod>2025-05-14T18:54:54.314Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.231Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/betasamgov</loc>
-    <lastmod>2025-05-14T18:55:43.650Z</lastmod>
+    <lastmod>2025-05-15T13:56:45.091Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/bid-protest</loc>
-    <lastmod>2025-05-14T18:54:46.626Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.302Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/bidding</loc>
-    <lastmod>2025-05-14T18:55:24.381Z</lastmod>
+    <lastmod>2025-05-15T13:56:10.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/bidding-strategies</loc>
-    <lastmod>2025-05-14T18:54:54.786Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.560Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1370,105 +1384,105 @@
 
   <url>
     <loc>https://www.govcon.com/tags/business</loc>
-    <lastmod>2025-05-14T18:54:51.773Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.488Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-continuity</loc>
-    <lastmod>2025-05-14T18:55:26.101Z</lastmod>
+    <lastmod>2025-05-15T13:56:21.733Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-development</loc>
-    <lastmod>2025-05-14T18:54:52.701Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.718Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-efficiency</loc>
-    <lastmod>2025-05-14T18:55:31.579Z</lastmod>
+    <lastmod>2025-05-15T13:56:30.181Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-growth</loc>
-    <lastmod>2025-05-14T18:55:02.671Z</lastmod>
+    <lastmod>2025-05-15T13:54:46.027Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-opportunities</loc>
-    <lastmod>2025-05-14T18:55:43.588Z</lastmod>
+    <lastmod>2025-05-15T13:56:44.649Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-partnerships</loc>
-    <lastmod>2025-05-14T18:55:26.121Z</lastmod>
+    <lastmod>2025-05-15T13:56:22.095Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-plan</loc>
-    <lastmod>2025-05-14T18:54:49.365Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.232Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/business-strategy</loc>
-    <lastmod>2025-05-14T18:54:49.150Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.248Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/businessgrowth</loc>
-    <lastmod>2025-05-14T18:54:58.591Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.653Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/capacity-building</loc>
-    <lastmod>2025-05-14T18:55:13.495Z</lastmod>
+    <lastmod>2025-05-15T13:55:26.558Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cas</loc>
-    <lastmod>2025-05-14T18:55:38.677Z</lastmod>
+    <lastmod>2025-05-15T13:56:35.609Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cdrl</loc>
-    <lastmod>2025-05-14T18:55:05.084Z</lastmod>
+    <lastmod>2025-05-15T13:54:58.179Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/certification</loc>
-    <lastmod>2025-05-14T18:55:05.769Z</lastmod>
+    <lastmod>2025-05-15T13:55:08.158Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/certifications</loc>
-    <lastmod>2025-05-14T18:55:01.768Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.856Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1482,7 +1496,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/checklist</loc>
-    <lastmod>2025-05-14T18:54:51.708Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.485Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1496,14 +1510,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/cmmc</loc>
-    <lastmod>2025-05-14T18:55:16.446Z</lastmod>
+    <lastmod>2025-05-15T13:55:36.448Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/commercialization</loc>
-    <lastmod>2025-05-14T18:55:15.280Z</lastmod>
+    <lastmod>2025-05-15T13:55:33.045Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1517,14 +1531,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/competitive-strategy</loc>
-    <lastmod>2025-05-14T18:54:51.386Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.800Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/compliance</loc>
-    <lastmod>2025-05-14T18:54:47.002Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.501Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1532,6 +1546,13 @@
   <url>
     <loc>https://www.govcon.com/tags/comptia</loc>
     <lastmod>2025-05-04T17:00:42.209Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/construction-tech</loc>
+    <lastmod>2025-05-15T13:55:48.967Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1545,154 +1566,154 @@
 
   <url>
     <loc>https://www.govcon.com/tags/continuous-improvement</loc>
-    <lastmod>2025-05-14T18:55:00.572Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.529Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-administration</loc>
-    <lastmod>2025-05-14T18:55:27.380Z</lastmod>
+    <lastmod>2025-05-15T13:56:24.692Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-lifecycle</loc>
-    <lastmod>2025-05-14T18:55:37.151Z</lastmod>
+    <lastmod>2025-05-15T13:56:33.646Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-management</loc>
-    <lastmod>2025-05-14T18:55:00.225Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.218Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-negotiation</loc>
-    <lastmod>2025-05-14T18:55:05.317Z</lastmod>
+    <lastmod>2025-05-15T13:55:00.876Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-performance</loc>
-    <lastmod>2025-05-14T18:55:02.024Z</lastmod>
+    <lastmod>2025-05-15T13:54:45.865Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contract-terms</loc>
-    <lastmod>2025-05-14T18:55:05.313Z</lastmod>
+    <lastmod>2025-05-15T13:55:02.367Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting</loc>
-    <lastmod>2025-05-14T18:54:46.478Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.042Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting-best-practices</loc>
-    <lastmod>2025-05-14T18:55:12.991Z</lastmod>
+    <lastmod>2025-05-15T13:55:23.583Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting-compliance</loc>
-    <lastmod>2025-05-14T18:55:34.749Z</lastmod>
+    <lastmod>2025-05-15T13:56:32.433Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting-opportunities</loc>
-    <lastmod>2025-05-14T18:55:47.517Z</lastmod>
+    <lastmod>2025-05-15T13:56:53.044Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting-professionals</loc>
-    <lastmod>2025-05-14T18:55:27.397Z</lastmod>
+    <lastmod>2025-05-15T13:56:24.516Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracting-tips</loc>
-    <lastmod>2025-05-14T18:55:24.752Z</lastmod>
+    <lastmod>2025-05-15T13:56:12.401Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contractor-management</loc>
-    <lastmod>2025-05-14T18:55:34.688Z</lastmod>
+    <lastmod>2025-05-15T13:56:32.431Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contractor-tips</loc>
-    <lastmod>2025-05-14T18:55:40.619Z</lastmod>
+    <lastmod>2025-05-15T13:56:42.845Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contractors</loc>
-    <lastmod>2025-05-14T18:55:10.516Z</lastmod>
+    <lastmod>2025-05-15T13:55:21.506Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/contracts</loc>
-    <lastmod>2025-05-14T18:54:59.237Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/corporate-innovation</loc>
-    <lastmod>2025-05-14T18:55:20.868Z</lastmod>
+    <lastmod>2025-05-15T13:55:58.521Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cost-accounting</loc>
-    <lastmod>2025-05-14T18:55:38.712Z</lastmod>
+    <lastmod>2025-05-15T13:56:35.651Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cost-control</loc>
-    <lastmod>2025-05-14T18:55:11.078Z</lastmod>
+    <lastmod>2025-05-15T13:55:22.934Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cost-reimbursement-contracts</loc>
-    <lastmod>2025-05-14T18:55:10.152Z</lastmod>
+    <lastmod>2025-05-15T13:55:18.983Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cpsr</loc>
-    <lastmod>2025-05-14T18:55:05.537Z</lastmod>
+    <lastmod>2025-05-15T13:55:03.726Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1706,14 +1727,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/cyberprotection</loc>
-    <lastmod>2025-05-14T18:55:03.766Z</lastmod>
+    <lastmod>2025-05-15T13:54:47.340Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/cybersecurity</loc>
-    <lastmod>2025-05-14T18:54:50.112Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.505Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1727,77 +1748,77 @@
 
   <url>
     <loc>https://www.govcon.com/tags/data-analytics</loc>
-    <lastmod>2025-05-14T18:55:02.034Z</lastmod>
+    <lastmod>2025-05-15T13:54:45.864Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/data-management</loc>
-    <lastmod>2025-05-14T18:55:04.746Z</lastmod>
+    <lastmod>2025-05-15T13:54:54.234Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/data-protection</loc>
-    <lastmod>2025-05-14T18:54:50.512Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.664Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/data-systems</loc>
-    <lastmod>2025-05-14T18:55:13.478Z</lastmod>
+    <lastmod>2025-05-15T13:55:25.892Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/dcaa</loc>
-    <lastmod>2025-05-14T18:55:05.540Z</lastmod>
+    <lastmod>2025-05-15T13:55:05.599Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/dcma</loc>
-    <lastmod>2025-05-14T18:55:07.157Z</lastmod>
+    <lastmod>2025-05-15T13:55:15.654Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/decision-making</loc>
-    <lastmod>2025-05-14T18:55:02.307Z</lastmod>
+    <lastmod>2025-05-15T13:54:45.855Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/defense</loc>
-    <lastmod>2025-05-14T18:55:07.090Z</lastmod>
+    <lastmod>2025-05-15T13:55:13.630Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/defense-contracts</loc>
-    <lastmod>2025-05-14T18:55:40.288Z</lastmod>
+    <lastmod>2025-05-15T13:56:37.083Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/defense-spending</loc>
-    <lastmod>2025-05-14T18:55:22.545Z</lastmod>
+    <lastmod>2025-05-15T13:56:01.327Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/department-of-education</loc>
-    <lastmod>2025-05-14T18:55:22.543Z</lastmod>
+    <lastmod>2025-05-15T13:56:00.825Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1811,7 +1832,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/dfars</loc>
-    <lastmod>2025-05-14T18:55:40.301Z</lastmod>
+    <lastmod>2025-05-15T13:56:37.355Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1832,21 +1853,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/e-verify</loc>
-    <lastmod>2025-05-14T18:54:50.956Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.714Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ebuy</loc>
-    <lastmod>2025-05-14T18:55:44.483Z</lastmod>
+    <lastmod>2025-05-15T13:56:48.869Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/economic-strategy</loc>
-    <lastmod>2025-05-14T18:55:21.277Z</lastmod>
+    <lastmod>2025-05-15T13:55:59.182Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1860,28 +1881,28 @@
 
   <url>
     <loc>https://www.govcon.com/tags/efficiency</loc>
-    <lastmod>2025-05-14T18:55:15.819Z</lastmod>
+    <lastmod>2025-05-15T13:55:35.909Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/eligibility</loc>
-    <lastmod>2025-05-14T18:55:06.021Z</lastmod>
+    <lastmod>2025-05-15T13:55:09.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/employee-training</loc>
-    <lastmod>2025-05-14T18:55:33.038Z</lastmod>
+    <lastmod>2025-05-15T13:56:31.114Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/entrepreneurship</loc>
-    <lastmod>2025-05-14T18:54:56.157Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.110Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1902,14 +1923,14 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ethical-considerations</loc>
-    <lastmod>2025-05-14T18:55:40.314Z</lastmod>
+    <lastmod>2025-05-15T13:56:37.085Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ethics</loc>
-    <lastmod>2025-05-14T18:54:55.484Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.771Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1923,140 +1944,140 @@
 
   <url>
     <loc>https://www.govcon.com/tags/evm</loc>
-    <lastmod>2025-05-14T18:55:00.605Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.656Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/evms</loc>
-    <lastmod>2025-05-14T18:55:00.406Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.458Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/expenditure-reporting</loc>
-    <lastmod>2025-05-14T18:55:10.884Z</lastmod>
+    <lastmod>2025-05-15T13:55:21.538Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/experience</loc>
-    <lastmod>2025-05-14T18:55:13.912Z</lastmod>
+    <lastmod>2025-05-15T13:55:29.056Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/export-control</loc>
-    <lastmod>2025-05-14T18:54:54.911Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.700Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/fasa</loc>
-    <lastmod>2025-05-14T18:55:28.999Z</lastmod>
+    <lastmod>2025-05-15T13:56:25.750Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/fbo</loc>
-    <lastmod>2025-05-14T18:55:40.631Z</lastmod>
+    <lastmod>2025-05-15T13:56:42.795Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/fedbid</loc>
-    <lastmod>2025-05-14T18:54:53.882Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.232Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-acquisition</loc>
-    <lastmod>2025-05-14T18:55:25.244Z</lastmod>
+    <lastmod>2025-05-15T13:56:15.350Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-acquisition-regulation</loc>
-    <lastmod>2025-05-14T18:55:40.618Z</lastmod>
+    <lastmod>2025-05-15T13:56:42.833Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-agencies</loc>
-    <lastmod>2025-05-14T18:55:47.516Z</lastmod>
+    <lastmod>2025-05-15T13:56:53.066Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-budget</loc>
-    <lastmod>2025-05-14T18:55:07.157Z</lastmod>
+    <lastmod>2025-05-15T13:55:16.806Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-contractors</loc>
-    <lastmod>2025-05-14T18:55:29.014Z</lastmod>
+    <lastmod>2025-05-15T13:56:25.739Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-contracts</loc>
-    <lastmod>2025-05-14T18:55:07.880Z</lastmod>
+    <lastmod>2025-05-15T13:55:17.850Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-marketplaces</loc>
-    <lastmod>2025-05-14T18:54:54.330Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.226Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-procurement</loc>
-    <lastmod>2025-05-14T18:55:13.513Z</lastmod>
+    <lastmod>2025-05-15T13:55:24.956Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/federal-research</loc>
-    <lastmod>2025-05-14T18:55:15.232Z</lastmod>
+    <lastmod>2025-05-15T13:55:32.411Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/finance</loc>
-    <lastmod>2025-05-14T18:54:56.195Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.107Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/financing</loc>
-    <lastmod>2025-05-14T18:55:38.056Z</lastmod>
+    <lastmod>2025-05-15T13:56:34.575Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/fisma</loc>
-    <lastmod>2025-05-14T18:55:29.136Z</lastmod>
+    <lastmod>2025-05-15T13:56:25.693Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2070,7 +2091,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/funding-opportunities</loc>
-    <lastmod>2025-05-14T18:55:14.485Z</lastmod>
+    <lastmod>2025-05-15T13:55:32.429Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2083,22 +2104,29 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/geology</loc>
+    <lastmod>2025-05-15T13:55:42.607Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/global-cooperation</loc>
-    <lastmod>2025-05-14T18:55:22.971Z</lastmod>
+    <lastmod>2025-05-15T13:56:02.860Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/global-development</loc>
-    <lastmod>2025-05-14T18:55:20.416Z</lastmod>
+    <lastmod>2025-05-15T13:55:54.533Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/global-trade</loc>
-    <lastmod>2025-05-14T18:55:06.883Z</lastmod>
+    <lastmod>2025-05-15T13:55:13.646Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2112,98 +2140,98 @@
 
   <url>
     <loc>https://www.govcon.com/tags/government</loc>
-    <lastmod>2025-05-14T18:54:50.482Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.511Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-compliance</loc>
-    <lastmod>2025-05-14T18:55:10.524Z</lastmod>
+    <lastmod>2025-05-15T13:55:20.598Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-contract</loc>
-    <lastmod>2025-05-14T18:55:16.465Z</lastmod>
+    <lastmod>2025-05-15T13:55:35.862Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-contracting</loc>
-    <lastmod>2025-05-14T18:54:46.998Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.447Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-contracts</loc>
-    <lastmod>2025-05-14T18:54:44.980Z</lastmod>
+    <lastmod>2025-05-15T13:54:38.711Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-marketing</loc>
-    <lastmod>2025-05-14T18:55:04.729Z</lastmod>
+    <lastmod>2025-05-15T13:54:49.101Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-opportunities</loc>
-    <lastmod>2025-05-14T18:55:24.757Z</lastmod>
+    <lastmod>2025-05-15T13:56:12.079Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-procurement</loc>
-    <lastmod>2025-05-14T18:54:56.569Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.440Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-projects</loc>
-    <lastmod>2025-05-14T18:54:53.551Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.002Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-regulations</loc>
-    <lastmod>2025-05-14T18:55:11.060Z</lastmod>
+    <lastmod>2025-05-15T13:55:23.568Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-sales</loc>
-    <lastmod>2025-05-14T18:54:56.586Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/government-shutdown</loc>
-    <lastmod>2025-05-14T18:55:25.633Z</lastmod>
+    <lastmod>2025-05-15T13:56:20.197Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/governmentcontracting</loc>
-    <lastmod>2025-05-14T18:54:56.604Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.275Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/govwin-iq</loc>
-    <lastmod>2025-05-14T18:55:00.229Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.195Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2217,35 +2245,35 @@
 
   <url>
     <loc>https://www.govcon.com/tags/grants</loc>
-    <lastmod>2025-05-14T18:55:15.787Z</lastmod>
+    <lastmod>2025-05-15T13:55:33.793Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/growth-strategies</loc>
-    <lastmod>2025-05-14T18:55:03.476Z</lastmod>
+    <lastmod>2025-05-15T13:54:47.340Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/gsa</loc>
-    <lastmod>2025-05-14T18:55:44.481Z</lastmod>
+    <lastmod>2025-05-15T13:56:48.431Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/gsa-advantage</loc>
-    <lastmod>2025-05-14T18:55:04.251Z</lastmod>
+    <lastmod>2025-05-15T13:54:48.254Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/gsa-ebuy</loc>
-    <lastmod>2025-05-14T18:55:24.357Z</lastmod>
+    <lastmod>2025-05-15T13:56:10.131Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2287,63 +2315,63 @@
 
   <url>
     <loc>https://www.govcon.com/tags/idiq</loc>
-    <lastmod>2025-05-14T18:55:06.661Z</lastmod>
+    <lastmod>2025-05-15T13:55:10.007Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/immigration</loc>
-    <lastmod>2025-05-14T18:55:20.422Z</lastmod>
+    <lastmod>2025-05-15T13:55:53.995Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/independent-contractors</loc>
-    <lastmod>2025-05-14T18:55:33.005Z</lastmod>
+    <lastmod>2025-05-15T13:56:31.160Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/indirect-costs</loc>
-    <lastmod>2025-05-14T18:55:38.706Z</lastmod>
+    <lastmod>2025-05-15T13:56:35.785Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/industrial-innovation</loc>
-    <lastmod>2025-05-14T18:55:22.139Z</lastmod>
+    <lastmod>2025-05-15T13:56:00.314Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/innovation</loc>
-    <lastmod>2025-05-14T18:54:49.692Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.253Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/integrity</loc>
-    <lastmod>2025-05-14T18:54:55.437Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.126Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/invention</loc>
-    <lastmod>2025-05-14T18:55:04.059Z</lastmod>
+    <lastmod>2025-05-15T13:54:47.677Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/invoicing</loc>
-    <lastmod>2025-05-14T18:55:31.563Z</lastmod>
+    <lastmod>2025-05-15T13:56:30.194Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2371,21 +2399,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/itar</loc>
-    <lastmod>2025-05-14T18:55:07.260Z</lastmod>
+    <lastmod>2025-05-15T13:55:16.779Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/joint-ventures</loc>
-    <lastmod>2025-05-14T18:55:27.217Z</lastmod>
+    <lastmod>2025-05-15T13:56:24.029Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/labor-compliance</loc>
-    <lastmod>2025-05-14T18:55:00.783Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.664Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2406,21 +2434,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/legal</loc>
-    <lastmod>2025-05-14T18:55:12.985Z</lastmod>
+    <lastmod>2025-05-15T13:55:24.979Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/legal-process</loc>
-    <lastmod>2025-05-14T18:54:46.682Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.308Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/legaltech</loc>
-    <lastmod>2025-05-14T18:55:23.849Z</lastmod>
+    <lastmod>2025-05-15T13:56:08.806Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2433,57 +2461,64 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/machine-learning</loc>
+    <lastmod>2025-05-15T13:55:39.950Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/market-diversification</loc>
-    <lastmod>2025-05-14T18:55:44.510Z</lastmod>
+    <lastmod>2025-05-15T13:56:48.879Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/market-intelligence</loc>
-    <lastmod>2025-05-14T18:55:00.223Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.066Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/market-research</loc>
-    <lastmod>2025-05-14T18:55:04.686Z</lastmod>
+    <lastmod>2025-05-15T13:54:54.083Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/marketing</loc>
-    <lastmod>2025-05-14T18:55:43.699Z</lastmod>
+    <lastmod>2025-05-15T13:56:45.132Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/marketing-strategy</loc>
-    <lastmod>2025-05-14T18:54:51.787Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/mas-contracts</loc>
-    <lastmod>2025-05-14T18:55:25.212Z</lastmod>
+    <lastmod>2025-05-15T13:56:15.019Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/materials-science</loc>
-    <lastmod>2025-05-14T18:55:17.948Z</lastmod>
+    <lastmod>2025-05-15T13:55:38.908Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/mentorship</loc>
-    <lastmod>2025-05-14T18:55:06.878Z</lastmod>
+    <lastmod>2025-05-15T13:55:12.049Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2497,14 +2532,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/monitoring</loc>
-    <lastmod>2025-05-14T18:54:48.566Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.823Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/monuments</loc>
+    <lastmod>2025-05-15T13:55:40.450Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/mysticism-in-business</loc>
-    <lastmod>2025-05-14T18:55:20.898Z</lastmod>
+    <lastmod>2025-05-15T13:55:58.198Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2518,28 +2560,28 @@
 
   <url>
     <loc>https://www.govcon.com/tags/ndaa</loc>
-    <lastmod>2025-05-14T18:55:29.701Z</lastmod>
+    <lastmod>2025-05-15T13:56:28.786Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/negotiation-strategies</loc>
-    <lastmod>2025-05-14T18:55:05.084Z</lastmod>
+    <lastmod>2025-05-15T13:54:59.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/networking</loc>
-    <lastmod>2025-05-14T18:54:49.160Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.031Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/nist-sp-800-171</loc>
-    <lastmod>2025-05-14T18:55:33.044Z</lastmod>
+    <lastmod>2025-05-15T13:56:31.142Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2567,7 +2609,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/opportunities</loc>
-    <lastmod>2025-05-14T18:55:13.922Z</lastmod>
+    <lastmod>2025-05-15T13:55:26.488Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2588,168 +2630,182 @@
 
   <url>
     <loc>https://www.govcon.com/tags/performance</loc>
-    <lastmod>2025-05-14T18:55:19.404Z</lastmod>
+    <lastmod>2025-05-15T13:55:52.773Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/performance-based-contracts</loc>
-    <lastmod>2025-05-14T18:55:15.767Z</lastmod>
+    <lastmod>2025-05-15T13:55:34.962Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/performance-management</loc>
-    <lastmod>2025-05-14T18:55:46.332Z</lastmod>
+    <lastmod>2025-05-15T13:56:51.892Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/photovoltaics</loc>
-    <lastmod>2025-05-14T18:55:17.211Z</lastmod>
+    <lastmod>2025-05-15T13:55:37.599Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/piee</loc>
-    <lastmod>2025-05-14T18:55:00.424Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.369Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/police-development</loc>
-    <lastmod>2025-05-14T18:55:04.231Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/policy</loc>
-    <lastmod>2025-05-14T18:54:51.178Z</lastmod>
+    <lastmod>2025-05-15T13:54:48.250Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/policy-development</loc>
-    <lastmod>2025-05-14T18:54:47.657Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.700Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/policy</loc>
+    <lastmod>2025-05-15T13:54:40.754Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ppirs</loc>
-    <lastmod>2025-05-14T18:55:46.368Z</lastmod>
+    <lastmod>2025-05-15T13:56:51.850Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/precision-engineering</loc>
+    <lastmod>2025-05-15T13:55:41.393Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/preparation</loc>
-    <lastmod>2025-05-14T18:55:37.900Z</lastmod>
+    <lastmod>2025-05-15T13:56:34.494Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/pricing</loc>
-    <lastmod>2025-05-14T18:55:12.995Z</lastmod>
+    <lastmod>2025-05-15T13:55:24.117Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/pricing-strategies</loc>
-    <lastmod>2025-05-14T18:55:16.483Z</lastmod>
+    <lastmod>2025-05-15T13:55:37.052Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/procurement</loc>
-    <lastmod>2025-05-14T18:54:45.987Z</lastmod>
+    <lastmod>2025-05-15T13:54:38.956Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/procurement-strategy</loc>
-    <lastmod>2025-05-14T18:55:25.582Z</lastmod>
+    <lastmod>2025-05-15T13:56:17.385Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/professional-development</loc>
-    <lastmod>2025-05-14T18:54:51.404Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.884Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/program</loc>
-    <lastmod>2025-05-14T18:55:13.950Z</lastmod>
+    <lastmod>2025-05-15T13:55:27.652Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/program-management</loc>
-    <lastmod>2025-05-14T18:54:53.530Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.879Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/project-management</loc>
-    <lastmod>2025-05-14T18:54:48.600Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.907Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposal</loc>
-    <lastmod>2025-05-14T18:54:59.066Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.813Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposal-development</loc>
-    <lastmod>2025-05-14T18:54:52.681Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.732Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposal-management</loc>
-    <lastmod>2025-05-14T18:55:17.969Z</lastmod>
+    <lastmod>2025-05-15T13:55:48.944Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposal-writing</loc>
-    <lastmod>2025-05-14T18:54:49.764Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.453Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/proposalwriting</loc>
-    <lastmod>2025-05-14T18:54:56.981Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/public-sector</loc>
-    <lastmod>2025-05-14T18:55:34.702Z</lastmod>
+    <lastmod>2025-05-15T13:56:32.408Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/public-sector-innovation</loc>
+    <lastmod>2025-05-15T13:56:03.306Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2757,13 +2813,6 @@
   <url>
     <loc>https://www.govcon.com/tags/q</loc>
     <lastmod>2025-05-04T17:00:42.868Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/public-sector-innovation</loc>
-    <lastmod>2025-05-14T18:55:22.964Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2791,7 +2840,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/quality-assurance</loc>
-    <lastmod>2025-05-14T18:55:19.370Z</lastmod>
+    <lastmod>2025-05-15T13:55:52.806Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2902,6 +2951,13 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/rd</loc>
+    <lastmod>2025-05-15T13:55:33.773Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/quantum-technology</loc>
     <lastmod>2025-05-04T17:00:42.972Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -2909,36 +2965,29 @@
   </url>
 
   <url>
-    <loc>https://www.govcon.com/tags/rd</loc>
-    <lastmod>2025-05-14T18:55:15.194Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.govcon.com/tags/regulations</loc>
-    <lastmod>2025-05-14T18:54:54.797Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.593Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/relationship</loc>
-    <lastmod>2025-05-14T18:54:58.577Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.674Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/renewables</loc>
-    <lastmod>2025-05-14T18:55:17.946Z</lastmod>
+    <lastmod>2025-05-15T13:55:38.166Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/reporting</loc>
-    <lastmod>2025-05-14T18:54:55.443Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.690Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2952,7 +3001,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/reverse-auctions</loc>
-    <lastmod>2025-05-14T18:55:46.386Z</lastmod>
+    <lastmod>2025-05-15T13:56:51.878Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2966,21 +3015,21 @@
 
   <url>
     <loc>https://www.govcon.com/tags/rfp</loc>
-    <lastmod>2025-05-14T18:54:52.859Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.822Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/rfps</loc>
-    <lastmod>2025-05-14T18:54:59.025Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.815Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/rfq</loc>
-    <lastmod>2025-05-14T18:55:05.309Z</lastmod>
+    <lastmod>2025-05-15T13:55:02.348Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2994,49 +3043,56 @@
 
   <url>
     <loc>https://www.govcon.com/tags/risk-assessment</loc>
-    <lastmod>2025-05-14T18:54:47.261Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.506Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/risk-management</loc>
-    <lastmod>2025-05-14T18:55:23.852Z</lastmod>
+    <lastmod>2025-05-15T13:56:08.734Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/robotics</loc>
+    <lastmod>2025-05-15T13:55:42.496Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sales</loc>
-    <lastmod>2025-05-14T18:54:57.024Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.440Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sam</loc>
-    <lastmod>2025-05-14T18:55:24.373Z</lastmod>
+    <lastmod>2025-05-15T13:56:09.660Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sba</loc>
-    <lastmod>2025-05-14T18:55:02.848Z</lastmod>
+    <lastmod>2025-05-15T13:54:46.019Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sbir</loc>
-    <lastmod>2025-05-14T18:55:14.524Z</lastmod>
+    <lastmod>2025-05-15T13:55:31.492Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sbir-grants</loc>
-    <lastmod>2025-05-14T18:55:29.725Z</lastmod>
+    <lastmod>2025-05-15T13:56:28.617Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3050,35 +3106,35 @@
 
   <url>
     <loc>https://www.govcon.com/tags/scientific-advancements</loc>
-    <lastmod>2025-05-14T18:55:22.572Z</lastmod>
+    <lastmod>2025-05-15T13:56:01.396Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/sculpture</loc>
+    <lastmod>2025-05-15T13:55:41.913Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/service-contract-act</loc>
-    <lastmod>2025-05-14T18:55:14.436Z</lastmod>
+    <lastmod>2025-05-15T13:55:29.109Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/set-asides</loc>
-    <lastmod>2025-05-14T18:55:25.255Z</lastmod>
+    <lastmod>2025-05-15T13:56:13.926Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/small-business</loc>
-    <lastmod>2025-05-14T18:55:02.014Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.govcon.com/tags/small-business-empowerment</loc>
-    <lastmod>2025-05-14T18:55:22.134Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.912Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3091,43 +3147,50 @@
   </url>
 
   <url>
+    <loc>https://www.govcon.com/tags/small-business-empowerment</loc>
+    <lastmod>2025-05-15T13:55:59.698Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.govcon.com/tags/smallbusiness</loc>
-    <lastmod>2025-05-14T18:54:56.149Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.271Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/socioeconomic-programs</loc>
-    <lastmod>2025-05-14T18:55:24.761Z</lastmod>
+    <lastmod>2025-05-15T13:56:12.485Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/software</loc>
-    <lastmod>2025-05-14T18:55:19.375Z</lastmod>
+    <lastmod>2025-05-15T13:55:50.103Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/solar-energy</loc>
-    <lastmod>2025-05-14T18:55:17.329Z</lastmod>
+    <lastmod>2025-05-15T13:55:37.070Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/space-force</loc>
-    <lastmod>2025-05-14T18:55:22.132Z</lastmod>
+    <lastmod>2025-05-15T13:56:00.236Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/spectrum-splitting</loc>
-    <lastmod>2025-05-14T18:55:17.252Z</lastmod>
+    <lastmod>2025-05-15T13:55:38.264Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3141,49 +3204,56 @@
 
   <url>
     <loc>https://www.govcon.com/tags/standards</loc>
-    <lastmod>2025-05-14T18:55:37.896Z</lastmod>
+    <lastmod>2025-05-15T13:56:34.399Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.govcon.com/tags/stonecraft</loc>
+    <lastmod>2025-05-15T13:55:39.959Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/strategy</loc>
-    <lastmod>2025-05-14T18:54:57.003Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.452Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/subcontracting</loc>
-    <lastmod>2025-05-14T18:55:07.862Z</lastmod>
+    <lastmod>2025-05-15T13:55:19.000Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/subcontractor-management</loc>
-    <lastmod>2025-05-14T18:54:53.892Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.043Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/success</loc>
-    <lastmod>2025-05-14T18:55:03.080Z</lastmod>
+    <lastmod>2025-05-15T13:54:47.340Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/success-strategies</loc>
-    <lastmod>2025-05-14T18:55:05.982Z</lastmod>
+    <lastmod>2025-05-15T13:55:09.993Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/success-tips</loc>
-    <lastmod>2025-05-14T18:55:05.093Z</lastmod>
+    <lastmod>2025-05-15T13:54:59.353Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3197,49 +3267,49 @@
 
   <url>
     <loc>https://www.govcon.com/tags/supply-chain</loc>
-    <lastmod>2025-05-14T18:55:25.582Z</lastmod>
+    <lastmod>2025-05-15T13:56:20.173Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/sustainability</loc>
-    <lastmod>2025-05-04T17:00:43.115Z</lastmod>
+    <lastmod>2025-05-15T13:55:43.713Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/tax-policy</loc>
-    <lastmod>2025-05-14T18:55:21.263Z</lastmod>
+    <lastmod>2025-05-15T13:55:59.253Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/team-building</loc>
-    <lastmod>2025-05-14T18:54:48.578Z</lastmod>
+    <lastmod>2025-05-15T13:54:40.012Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/teaming-agreements</loc>
-    <lastmod>2025-05-14T18:55:26.087Z</lastmod>
+    <lastmod>2025-05-15T13:56:22.114Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/tech-innovation</loc>
-    <lastmod>2025-05-14T18:55:37.166Z</lastmod>
+    <lastmod>2025-05-15T13:56:33.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/technology</loc>
-    <lastmod>2025-05-14T18:55:00.415Z</lastmod>
+    <lastmod>2025-05-15T13:54:44.458Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3253,7 +3323,7 @@
 
   <url>
     <loc>https://www.govcon.com/tags/training</loc>
-    <lastmod>2025-05-14T18:54:47.673Z</lastmod>
+    <lastmod>2025-05-15T13:54:39.845Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3274,91 +3344,91 @@
 
   <url>
     <loc>https://www.govcon.com/tags/trends</loc>
-    <lastmod>2025-05-14T18:55:02.303Z</lastmod>
+    <lastmod>2025-05-15T13:54:46.023Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/trust</loc>
-    <lastmod>2025-05-14T18:54:59.237Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.953Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/ttp</loc>
-    <lastmod>2025-05-14T18:54:59.223Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.949Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/unison-marketplace</loc>
-    <lastmod>2025-05-14T18:54:53.954Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.055Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/us-politics</loc>
-    <lastmod>2025-05-14T18:55:20.421Z</lastmod>
+    <lastmod>2025-05-15T13:55:54.536Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/value-proposition</loc>
-    <lastmod>2025-05-14T18:54:53.541Z</lastmod>
+    <lastmod>2025-05-15T13:54:41.877Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/vendor-tips</loc>
-    <lastmod>2025-05-14T18:54:54.361Z</lastmod>
+    <lastmod>2025-05-15T13:54:42.570Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/visibility</loc>
-    <lastmod>2025-05-14T18:55:47.522Z</lastmod>
+    <lastmod>2025-05-15T13:56:53.052Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/visionary-leadership</loc>
-    <lastmod>2025-05-14T18:55:20.880Z</lastmod>
+    <lastmod>2025-05-15T13:55:58.470Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/wellness-economics</loc>
-    <lastmod>2025-05-14T18:55:22.958Z</lastmod>
+    <lastmod>2025-05-15T13:56:03.235Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/women-entrepreneurs</loc>
-    <lastmod>2025-05-14T18:55:05.770Z</lastmod>
+    <lastmod>2025-05-15T13:55:07.161Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/wosb-program</loc>
-    <lastmod>2025-05-14T18:55:05.791Z</lastmod>
+    <lastmod>2025-05-15T13:55:08.138Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.govcon.com/tags/writing</loc>
-    <lastmod>2025-05-14T18:54:59.066Z</lastmod>
+    <lastmod>2025-05-15T13:54:43.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

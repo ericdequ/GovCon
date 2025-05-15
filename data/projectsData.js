@@ -1,3 +1,5 @@
+import { description } from "./siteMetadata"
+
 const projectsData = [
   {
     title: 'Quantum Cyber Solutions',
@@ -7,11 +9,26 @@ const projectsData = [
     imgSrc: 'https://www.quantumcybersolutions.com/QCS-logo.webp',
   },
   {
-    title: 'Quantum Learning',
+    title: 'Devote',
     description:
-      'A learning platform for students to learn about quantum computing and Other Computer Science topics',
+      'A web application backed by blockchain that helps users make direct votes for issues in their community.',
     url: 'https://quantumlearn.vercel.app/',
     imgSrc: 'https://www.quantumcybersolutions.com/entanglement.webp',
-  }
+  },
+  {
+    title: 'develope',
+    description:
+      'A web based application for communities to vote on what gets built in their community, simulations to see how the building affects, property value, lifestyle.',
+    url: 'https://www.develope.xyz/',
+    imgSrc: 'https://www.quantumcybersolutions.com/develop.webp',
+  },
+  {
+    title: 'Royalwee',
+    description:
+      'A Democratic monarchy that allows communities, cities to elect local leaders as Culture, Art, Tech, Queens, & kings for the more nueanced opportunities, Also helps bring attention to local politics',
+    url: 'https://www.royalwee.xyz/',
+    imgSrc: 'https://www.quantumcybersolutions.com/royalwee.webp',
+  },
+
 ]
 export default projectsData
