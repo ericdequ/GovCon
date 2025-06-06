@@ -61,19 +61,19 @@ importers:
         version: 8.1.0(esbuild@0.13.15)
       next:
         specifier: 14.2.3
-        version: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-mdx-enhanced:
         specifier: ^5.0.0
-        version: 5.0.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
+        version: 5.0.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       next-pwa:
         specifier: ^5.6.0
-        version: 5.6.0(@babel/core@7.27.1)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.8(esbuild@0.13.15))
+        version: 5.6.0(@babel/core@7.12.9)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.8(esbuild@0.13.15))
       next-seo:
         specifier: ^6.6.0
-        version: 6.6.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 6.6.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-themes:
         specifier: ^0.0.14
-        version: 0.0.14(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 0.0.14(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       node-polyfill-webpack-plugin:
         specifier: ^3.0.0
         version: 3.0.0(webpack@5.99.8(esbuild@0.13.15))
@@ -158,7 +158,7 @@ importers:
         version: 7.32.0
       eslint-config-next:
         specifier: 12.1.4
-        version: 12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5)
+        version: 12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5)
       eslint-config-prettier:
         specifier: ^8.10.0
         version: 8.10.0(eslint@7.32.0)
@@ -8039,9 +8039,9 @@ snapshots:
 
   axobject-query@2.2.0: {}
 
-  babel-loader@8.4.1(@babel/core@7.27.1)(webpack@5.99.8(esbuild@0.13.15)):
+  babel-loader@8.4.1(@babel/core@7.12.9)(webpack@5.99.8(esbuild@0.13.15)):
     dependencies:
-      '@babel/core': 7.27.1
+      '@babel/core': 7.12.9
       find-cache-dir: 3.3.2
       loader-utils: 2.0.4
       make-dir: 3.1.0
@@ -9097,7 +9097,7 @@ snapshots:
 
   escape-string-regexp@5.0.0: {}
 
-  eslint-config-next@12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5):
+  eslint-config-next@12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5):
     dependencies:
       '@next/eslint-plugin-next': 12.1.4
       '@rushstack/eslint-patch': 1.0.8
@@ -9109,7 +9109,7 @@ snapshots:
       eslint-plugin-jsx-a11y: 6.5.1(eslint@7.32.0)
       eslint-plugin-react: 7.29.1(eslint@7.32.0)
       eslint-plugin-react-hooks: 4.3.0(eslint@7.32.0)
-      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
     optionalDependencies:
       typescript: 4.9.5
     transitivePeerDependencies:
@@ -11179,7 +11179,7 @@ snapshots:
 
   neo-async@2.6.2: {}
 
-  next-mdx-enhanced@5.0.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
+  next-mdx-enhanced@5.0.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
     dependencies:
       '@babel/core': 7.27.1
       '@mdx-js/loader': 1.6.22(react@18.3.1)
@@ -11188,19 +11188,19 @@ snapshots:
       glob: 7.2.3
       gray-matter: 4.0.3
       loader-utils: 2.0.4
-      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       prebuild-webpack-plugin: 1.1.1
       stringify-object: 3.3.0
     transitivePeerDependencies:
       - react
       - supports-color
 
-  next-pwa@5.6.0(@babel/core@7.27.1)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.8(esbuild@0.13.15)):
+  next-pwa@5.6.0(@babel/core@7.12.9)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.8(esbuild@0.13.15)):
     dependencies:
-      babel-loader: 8.4.1(@babel/core@7.27.1)(webpack@5.99.8(esbuild@0.13.15))
+      babel-loader: 8.4.1(@babel/core@7.12.9)(webpack@5.99.8(esbuild@0.13.15))
       clean-webpack-plugin: 4.0.0(webpack@5.99.8(esbuild@0.13.15))
       globby: 11.1.0
-      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       terser-webpack-plugin: 5.3.14(esbuild@0.13.15)(webpack@5.99.8(esbuild@0.13.15))
       workbox-webpack-plugin: 6.6.0(webpack@5.99.8(esbuild@0.13.15))
       workbox-window: 6.6.0
@@ -11223,19 +11223,19 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  next-seo@6.6.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next-seo@6.6.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  next-themes@0.0.14(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next-themes@0.0.14(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       '@next/env': 14.2.3
       '@swc/helpers': 0.5.5
@@ -11245,7 +11245,7 @@ snapshots:
       postcss: 8.4.31
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
-      styled-jsx: 5.1.1(@babel/core@7.27.1)(react@18.3.1)
+      styled-jsx: 5.1.1(@babel/core@7.12.9)(react@18.3.1)
     optionalDependencies:
       '@next/swc-darwin-arm64': 14.2.3
       '@next/swc-darwin-x64': 14.2.3
@@ -12851,12 +12851,12 @@ snapshots:
       hey-listen: 1.0.8
       tslib: 2.8.1
 
-  styled-jsx@5.1.1(@babel/core@7.27.1)(react@18.3.1):
+  styled-jsx@5.1.1(@babel/core@7.12.9)(react@18.3.1):
     dependencies:
       client-only: 0.0.1
       react: 18.3.1
     optionalDependencies:
-      '@babel/core': 7.27.1
+      '@babel/core': 7.12.9
 
   sucrase@3.35.0:
     dependencies:
