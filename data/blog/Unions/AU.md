@@ -1,9 +1,9 @@
 ---
-title: 'The American Union (AU): A United Continent of Culture, Clean Energy, and Crypto 🇺🇸🌎🔋'
+title: 'The American Union AU: A United Continent of Culture, Clean Energy, and Crypto 🇺🇸🌎🔋'
 date: '2025-07-07'
 tags: ['American Union', 'Regional Royalty', 'Clean Energy Initiative', 'NationChain Crypto', 'Civic Integration']
 draft: false
-summary: 'Imagine a future where Canadians, Mexicans, and Americans all see themselves as “Americans”—united by clean energy, shared values, and a common economic infrastructure. The American Union proposes a holistic model of democratic royalty, cross-border logistics, and FDIC-insured crypto to lift the hemisphere as one.'
+summary: 'Imagine a future where Canadians, Mexicans, and Americans all see themselves as Americans—united by clean energy, shared values, and a common economic infrastructure. The American Union proposes a holistic model of democratic royalty, cross-border logistics, and FDIC-insured crypto to lift the hemisphere as one.'
 images: ['https://www.rics-notebook.com/articleimage/AmericanUnion/americanunionflag.webp']
 ---
 
