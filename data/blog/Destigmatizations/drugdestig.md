@@ -5,7 +5,7 @@ tags: ['Drug Reform', 'Bipartisan Policy', 'Prison Repurposing', 'Tea Tax', 'Jus
 draft: false
 summary: 'America stands at a historic crossroads—divided not just by party lines, but by generations of misinformation around drug use. By destigmatizing controlled substances and introducing a federal Tea Tax, we can create new economic engines, unify states, and transform prisons into engines of food, crypto, and hope.'
 
-images: ['https://www.rics-notebook.com/articleimage/DrugReform/teataxreform.webp']
+images: ['https://www.rics-notebook.com/articleimage/teataxreform.webp']
 ---
 
 ## 🍵 The Tea Tax of Tomorrow

@@ -1,5 +1,5 @@
 ---
-title: "PrismPanel: Spectrum‑Split Solar for Full‑Rainbow Efficiency"  
+title: "PrismPanel: SpectrumSplit Solar for FullRainbow Efficiency"  
 date: '2025-05-02'  
 tags: ['solar energy', 'photovoltaics', 'spectrum splitting', 'renewables', 'materials science']  
 draft: false  
@@ -8,9 +8,7 @@ images: ['https://www.rics-notebook.com/articleimage/Energy/PrismPanel.png']
 
 ---
 
-Conventional solar panels treat the sun’s white light as one uniform input, but the solar spectrum spans from ultraviolet through infrared—each band demanding different semiconductor materials for optimal conversion. **PrismPanel** employs microscopic optical prisms and dichroic coatings to **tease apart the rainbow**, routing violet, blue, green, red, and near‑IR light to **dedicated PV cells** tuned for that wavelength. The result? A dramatic boost in overall efficiency, harvesting more energy from every sunbeam.
-
----
+Conventional solar panels treat the suns white light as one uniform input, but the solar spectrum spans from ultraviolet through infrared—each band demanding different semiconductor materials for optimal conversion. **PrismPanel** employs microscopic optical prisms and dichroic coatings to **tease apart the rainbow**, routing violet, blue, green, red, and near‑IR light to **dedicated PV cells** tuned for that wavelength. The result? A dramatic boost in overall efficiency, harvesting more energy from every sunbeam.
 
 ## 🔍 How It Works
 
@@ -79,3 +77,6 @@ Conventional solar panels treat the sun’s white light as one uniform input, bu
 ## 🌟 Toward Spectrum‑Perfect Solar
 
 As material science and precision optics converge, **spectrum‑split photovoltaics** like PrismPanel chart the path to >35 % efficiency on rooftops and beyond. By embracing the full colors of sunlight—and even capturing waste heat—we transform every square meter into a **multifaceted power plant**. The rainbow is no longer just art in the sky—it becomes the key to our sustainable energy future.  
+
+
+the key to Quantum money Transactions 

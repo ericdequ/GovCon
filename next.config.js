@@ -79,6 +79,8 @@ module.exports = withBundleAnalyzer({
       'plantheath.com',
       'www.robotric.org',
       'robotric.org',
+      'rikara.vercel.app',
+      'www.rikara.vercel.app',
     ],
   },
   async headers() {
