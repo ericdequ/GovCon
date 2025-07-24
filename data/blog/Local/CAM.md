@@ -5,7 +5,7 @@ date: '2025-04-22'
 tags: ['civictech', 'socialreform', 'police-civilian', 'innovation']
 draft: false
 summary: 'From mistrust to mutual respect—a civic app idea to protect rights and restore humanity.'
-images: ['https://www.govcon.me/CAM-NextGen.webp']
+images: ['https://rikara.vercel.app/innovate/4.png']
 ---
 
 # **Building a Better Force: Rights, Tech & Trust**

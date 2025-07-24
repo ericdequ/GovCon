@@ -5,7 +5,7 @@ tags: ['Energy Policy', 'EV Charging', 'Smart Infrastructure', 'Electric Boats',
 draft: false
 summary: 'From energy independence to economic growth, the Clean Energy Infrastructure Initiative empowers everyone—from homeowners to national budget architects. With innovations like EV swaps, microgrid stadiums, and electric boats, governments have a blueprint to secure a resilient, future-proof economy.'
 
-images: ['https://www.rics-notebook.com/articleimage/civicgrid.webp']
+images: ['https://rikara.vercel.app/innovate/1.png']
 ---
 
 ## 🏛️ Clean Energy is Not Just an Environmental Win—It’s a Civic Strategy

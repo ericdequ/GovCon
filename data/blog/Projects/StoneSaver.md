@@ -16,7 +16,7 @@ tags:
   ]
 draft: false
 summary: 'Revolutionize the way we shape stone—this AI‑enhanced stone shaper scans boulders and slabs to produce perfect pyramid blocks, artistic monoliths, and modular masterpieces from marble and granite.'
-images: ['https://yourdomain.com/ai-stone-sculptor.png']
+images: ['https://www.rics-notebook.com/articleimage/Energy/PrismPanel.png']
 ---
 
 ## 🏗️ Stone, Scanned and Strategized

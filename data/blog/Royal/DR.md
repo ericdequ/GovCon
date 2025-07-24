@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Governance Innovation', 'Democratic Monarchy', 'Civic Engagement', 'Local Government', 'Cultural Renaissance']
 draft: false
 summary: 'What if your state had a king and queen? What if your city had a prince or princess? Imagine a government where royalty is elected, celebrity becomes civic service, and every region becomes a cultural kingdom with real voting power. Welcome to the Cyclical Integrative Democratic Monarchy—where democracy and monarchy unite for the greatest government ever conceived.'
-images: ['https://www.rics-notebook.com/articleimage/CivicRoyalty/royalhousecouncil.webp']
+images: ['https://rikara.vercel.app/innovate/5.png']
 ---
 
 ## 👑 What Is a Cyclical Integrative Democratic Monarchy?

@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Crypto Governance', 'Digital Currency', 'FDIC-Insured Crypto', 'Interoperability', 'LatAm Finance']
 draft: false
 summary: 'What if every country had its own secure crypto—and they all spoke the same economic language? Introducing NationChain: a global, FDIC-insured blockchain ecosystem where privacy meets policy, and where pesos, pounds, and dollars can flow securely, freely, and fairly.'
-images: ['https://www.rics-notebook.com/articleimage/NationChain/global-crypto.webp']
+images: ['https://rikara.vercel.app/innovate/2.png']
 ---
 
 ## 🌐 Crypto, Privacy, and Government Oversight: A Global Dilemma
