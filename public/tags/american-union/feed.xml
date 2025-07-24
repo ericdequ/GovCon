@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Gov Con</title>
+      <link>https://www.govcon.com/blog</link>
+      <description>The Guide To government Contracting!</description>
+      <language>en-us</language>
+      <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
+      <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
+      <lastBuildDate>Mon, 07 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.govcon.com/tags/american-union/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.govcon.com/blog/Unions/AU</guid>
+    <title>The American Union AU: A United Continent of Culture, Clean Energy, and Crypto 🇺🇸🌎🔋</title>
+    <link>https://www.govcon.com/blog/Unions/AU</link>
+    
+    <description>Imagine a future where Canadians, Mexicans, and Americans all see themselves as Americans—united by clean energy, shared values, and a common economic infrastructure. The American Union proposes a holistic model of democratic royalty, cross-border logistics, and FDIC-insured crypto to lift the hemisphere as one.</description>
+    <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+    <author>eric@quantumcybersolutions.com (Gov Con)</author>
+    <category>American Union</category><category>Regional Royalty</category><category>Clean Energy Initiative</category><category>NationChain Crypto</category><category>Civic Integration</category>
+    <image> https://rikara.vercel.app/innovate/3.png</image>
+  </item>
+
+    </channel>
+  </rss>
