@@ -12,7 +12,7 @@ const projectsData = [
     title: 'Devote',
     description:
       'A web application backed by blockchain that helps users make direct votes for issues in their community.',
-    url: 'https://quantumlearn.vercel.app/',
+    url: 'https://www.robotric.org/Classroom/',
     imgSrc: 'https://www.quantumcybersolutions.com/entanglement.webp',
   },
   {
