@@ -19,15 +19,15 @@ const projectsData = [
     title: 'develope',
     description:
       'A web based application for communities to vote on what gets built in their community, simulations to see how the building affects, property value, lifestyle.',
-    url: 'https://www.develope.xyz/',
+    url: 'https://www.robotric.org/Tech/ATL/democracy-app',
     imgSrc: 'https://www.quantumcybersolutions.com/develop.webp',
   },
   {
     title: 'Royalwee',
     description:
       'A Democratic monarchy that allows communities, cities to elect local leaders as Culture, Art, Tech, Queens, & kings for the more nueanced opportunities, Also helps bring attention to local politics',
-    url: 'https://www.royalwee.xyz/',
-    imgSrc: 'https://www.quantumcybersolutions.com/royalwee.webp',
+    url: 'https://www.govcon.me/articleimage/Relations/BuildingABetterFuture.webp',
+    imgSrc: 'https://rikara.vercel.app/innovate/5.png',
   },
 
 ]
