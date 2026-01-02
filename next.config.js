@@ -81,6 +81,10 @@ module.exports = withBundleAnalyzer({
       'robotric.org',
       'rikara.vercel.app',
       'www.rikara.vercel.app',
+      'bev.cool',
+      'www.bev.cool',
+      'leopiolet.com',
+      'www.leopiolet.com',
     ],
   },
   async headers() {
