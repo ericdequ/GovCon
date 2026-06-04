@@ -5,7 +5,7 @@
   description: `The Guide To government Contracting!`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://www.govcon.com',
+  siteUrl: 'https://www.govcon.me',
   siteRepo: 'https://github.com/ericdequ/GovCon',
   siteLogo: 'logoo-removebg.webp',
   image: '/logoo.webp',
@@ -21,7 +21,7 @@
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://www.GovCon.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://www.govcon.me/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: 'G-ERCKXSBZLY', // e.g. UA-000000-2 or G-XXXXXXX

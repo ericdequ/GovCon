@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Mon, 07 Jul 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/ev-charging/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/ev-charging/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Energy/CEI</guid>
+    <guid>https://www.govcon.me/blog/Energy/CEI</guid>
     <title>The Clean Energy Infrastructure Initiative: A Policy Blueprint for Prosperity ⚡🌍🚢</title>
-    <link>https://www.govcon.com/blog/Energy/CEI</link>
+    <link>https://www.govcon.me/blog/Energy/CEI</link>
     
     <description>From energy independence to economic growth, the Clean Energy Infrastructure Initiative empowers everyone—from homeowners to national budget architects. With innovations like EV swaps, microgrid stadiums, and electric boats, governments have a blueprint to secure a resilient, future-proof economy.</description>
     <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>

@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Sun, 09 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/leveraging_artificial_intelligence_for_contract_management</guid>
+    <guid>https://www.govcon.me/blog/leveraging_artificial_intelligence_for_contract_management</guid>
     <title>Leveraging Artificial Intelligence for Contract Management</title>
-    <link>https://www.govcon.com/blog/leveraging_artificial_intelligence_for_contract_management</link>
+    <link>https://www.govcon.me/blog/leveraging_artificial_intelligence_for_contract_management</link>
     
     <description>Examine how AI-powered tools are transforming contract management in government contracting, helping businesses automate processes, ensure compliance, and manage large volumes of contracts more effectively.</description>
     <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>

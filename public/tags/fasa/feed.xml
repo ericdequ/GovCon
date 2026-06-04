@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Fri, 21 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/fasa/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/fasa/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/understanding_the_impacts_of_federal_acquisition_streamlining_act_fasa</guid>
+    <guid>https://www.govcon.me/blog/understanding_the_impacts_of_federal_acquisition_streamlining_act_fasa</guid>
     <title>Understanding the Impacts of Federal Acquisition Streamlining Act (FASA)</title>
-    <link>https://www.govcon.com/blog/understanding_the_impacts_of_federal_acquisition_streamlining_act_fasa</link>
+    <link>https://www.govcon.me/blog/understanding_the_impacts_of_federal_acquisition_streamlining_act_fasa</link>
     
     <description>Learn how FASA has simplified the federal procurement process and what it means for contractors, including key provisions and practical tips for compliance.</description>
     <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
@@ -23,9 +23,9 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/the_impact_of_federal_acquisition_streamlining_act_fasa_on_contracting_processes</guid>
+    <guid>https://www.govcon.me/blog/the_impact_of_federal_acquisition_streamlining_act_fasa_on_contracting_processes</guid>
     <title>The Impact of Federal Acquisition Streamlining Act (FASA) on Contracting Processes</title>
-    <link>https://www.govcon.com/blog/the_impact_of_federal_acquisition_streamlining_act_fasa_on_contracting_processes</link>
+    <link>https://www.govcon.me/blog/the_impact_of_federal_acquisition_streamlining_act_fasa_on_contracting_processes</link>
     
     <description>Discover how the Federal Acquisition Streamlining Act (FASA) transformed contracting processes, fostering efficiency, innovation, and inclusiveness in government procurement.</description>
     <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>

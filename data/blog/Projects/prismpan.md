@@ -37,7 +37,7 @@ Conventional solar panels treat the suns white light as one uniform input, but t
 
 | Feature                            | Description                                                                                       |
 |------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Micro‑Prism Optics**             | Precision‑molded prisms separate white light into discrete spectral beams with <5 nm bandwidth    |
+| **Micro‑Prism Optics**             | Precision‑molded prisms separate white light into discrete spectral beams with &lt;5 nm bandwidth |
 | **Cascading Dichroic Mirrors**     | Multi‑layer coatings reflect specific wavelengths with >98 % efficiency, directing light to cells |
 | **Spectral‑Optimized PV Materials**| III–V, perovskite, silicon, and CIGS sub‑cells each tuned to their ideal bandgaps                 |
 | **Thermal Backsheet**              | Captures unused IR as heat for auxiliary applications—boosting overall system yield               |

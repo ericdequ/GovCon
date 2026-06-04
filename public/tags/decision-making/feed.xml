@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Sun, 09 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/decision-making/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/decision-making/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/leveraging_data_analytics_for_government_contract_performance</guid>
+    <guid>https://www.govcon.me/blog/leveraging_data_analytics_for_government_contract_performance</guid>
     <title>Leveraging Data Analytics for Government Contract Performance</title>
-    <link>https://www.govcon.com/blog/leveraging_data_analytics_for_government_contract_performance</link>
+    <link>https://www.govcon.me/blog/leveraging_data_analytics_for_government_contract_performance</link>
     
     <description>Discover how data analytics tools can enhance contract performance monitoring, identify trends, and improve decision-making processes in government contracting.</description>
     <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
@@ -23,9 +23,9 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/the_contracting_officers_role_working_effectively_with_government_decision_makers</guid>
+    <guid>https://www.govcon.me/blog/the_contracting_officers_role_working_effectively_with_government_decision_makers</guid>
     <title>The Contracting Officers Role: Working Effectively with Government Decision-Makers</title>
-    <link>https://www.govcon.com/blog/the_contracting_officers_role_working_effectively_with_government_decision_makers</link>
+    <link>https://www.govcon.me/blog/the_contracting_officers_role_working_effectively_with_government_decision_makers</link>
     
     <description>Explore the pivotal role of contracting officers in effectively bridging the gap between suppliers and government decision-makers.</description>
     <pubDate>Sun, 12 Mar 2023 00:00:00 GMT</pubDate>

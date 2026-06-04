@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Tue, 12 Sep 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/cpsr/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/cpsr/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/mastering_the_contractor_purchasing_system_review_cpsr</guid>
+    <guid>https://www.govcon.me/blog/mastering_the_contractor_purchasing_system_review_cpsr</guid>
     <title>Mastering the Contractor Purchasing System Review (CPSR)</title>
-    <link>https://www.govcon.com/blog/mastering_the_contractor_purchasing_system_review_cpsr</link>
+    <link>https://www.govcon.me/blog/mastering_the_contractor_purchasing_system_review_cpsr</link>
     
     <description>A comprehensive guide to understanding and excelling in Contractor Purchasing System Reviews, making the intricate process engaging and straightforward.</description>
     <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>

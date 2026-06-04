@@ -70,7 +70,7 @@ We cannot expect inspired legislation from minds entrenched in chronic stress. W
 The cost of implementing yoga and fitness programs is fractional compared to the benefits:
 
 - A $200k yoga program can offset **millions** in healthcare and turnover costs.
-- For every dollar invested in employee wellness, organizations see **$3–$6 in ROI** (Harvard Business Review).
+- For every dollar invested in employee wellness, organizations see **\$3–\$6 in ROI** (Harvard Business Review).
 - AI won’t solve burnout. But yoga might.
 
 ## 💡 The Future of Public Service Is Mindful

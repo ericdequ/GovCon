@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Sat, 13 Apr 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/finance/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/finance/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/understanding_indirect_cost_rates_in_government_contracts</guid>
+    <guid>https://www.govcon.me/blog/understanding_indirect_cost_rates_in_government_contracts</guid>
     <title>Understanding Indirect Cost Rates in Government Contracts</title>
-    <link>https://www.govcon.com/blog/understanding_indirect_cost_rates_in_government_contracts</link>
+    <link>https://www.govcon.me/blog/understanding_indirect_cost_rates_in_government_contracts</link>
     
     <description>Dive into the complexities of indirect cost rates in government contracts and learn how they can impact your project’s budget and performance.</description>
     <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
@@ -23,9 +23,9 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/mastering_the_art_of_indirect_cost_allocation_a_comprehensive_guide</guid>
+    <guid>https://www.govcon.me/blog/mastering_the_art_of_indirect_cost_allocation_a_comprehensive_guide</guid>
     <title>Mastering the Art of Indirect Cost Allocation: A Comprehensive Guide</title>
-    <link>https://www.govcon.com/blog/mastering_the_art_of_indirect_cost_allocation_a_comprehensive_guide</link>
+    <link>https://www.govcon.me/blog/mastering_the_art_of_indirect_cost_allocation_a_comprehensive_guide</link>
     
     <description>Uncover the nuances of creating an efficient indirect cost allocation plan, tailored to boost your organization’s financial integrity and operational efficiency.</description>
     <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
@@ -35,9 +35,9 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/exploring_government_contract_financing_options</guid>
+    <guid>https://www.govcon.me/blog/exploring_government_contract_financing_options</guid>
     <title>Exploring Government Contract Financing Options</title>
-    <link>https://www.govcon.com/blog/exploring_government_contract_financing_options</link>
+    <link>https://www.govcon.me/blog/exploring_government_contract_financing_options</link>
     
     <description>A deep dive into the diverse financing options available for businesses tackling government contracts and how to leverage them for growth and sustainability.</description>
     <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>

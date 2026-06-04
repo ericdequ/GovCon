@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Fri, 03 Mar 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/betasamgov/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/betasamgov/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/using_betasamgov_to_find_and_pursue_government_contract_opportunities</guid>
+    <guid>https://www.govcon.me/blog/using_betasamgov_to_find_and_pursue_government_contract_opportunities</guid>
     <title>Using Beta.SAM.gov to Find and Pursue Government Contract Opportunities</title>
-    <link>https://www.govcon.com/blog/using_betasamgov_to_find_and_pursue_government_contract_opportunities</link>
+    <link>https://www.govcon.me/blog/using_betasamgov_to_find_and_pursue_government_contract_opportunities</link>
     
     <description>Dive into the world of government contracts with Beta.SAM.gov! Learn how to navigate this invaluable resource and secure lucrative opportunities for your business.</description>
     <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>

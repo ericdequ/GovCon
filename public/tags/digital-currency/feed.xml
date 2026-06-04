@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Mon, 07 Jul 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/digital-currency/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/digital-currency/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Security/Crypto</guid>
+    <guid>https://www.govcon.me/blog/Security/Crypto</guid>
     <title>NationChain: A New Model for Secure, Interoperable, and FDIC-Insured Crypto 🌐💰🔐</title>
-    <link>https://www.govcon.com/blog/Security/Crypto</link>
+    <link>https://www.govcon.me/blog/Security/Crypto</link>
     
     <description>What if every country had its own secure crypto—and they all spoke the same economic language? Introducing NationChain: a global, FDIC-insured blockchain ecosystem where privacy meets policy, and where pesos, pounds, and dollars can flow securely, freely, and fairly.</description>
     <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>

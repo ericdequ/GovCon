@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/global-trade/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/global-trade/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Relations/FairTradeFairPay</guid>
+    <guid>https://www.govcon.me/blog/Relations/FairTradeFairPay</guid>
     <title>Reshoring with Wisdom: Why Tax Cuts, Not Tariffs, Will Rebuild American Industry</title>
-    <link>https://www.govcon.com/blog/Relations/FairTradeFairPay</link>
+    <link>https://www.govcon.me/blog/Relations/FairTradeFairPay</link>
     
     <description>A compelling case for why tax cuts and innovation grants—not punitive tariffs—are the key to revitalizing American manufacturing. This piece explores a strategic economic vision that empowers businesses, strengthens global ties, and avoids the collateral damage of protectionism.</description>
     <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
@@ -23,9 +23,9 @@
   </item>
 
   <item>
-    <guid>https://www.govcon.com/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</guid>
+    <guid>https://www.govcon.me/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</guid>
     <title>Navigating Compliance: The Buy American Act and Trade Agreements Act</title>
-    <link>https://www.govcon.com/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</link>
+    <link>https://www.govcon.me/blog/navigating_compliance_the_buy_american_act_and_trade_agreements_act</link>
     
     <description>Understand the complexities and strategies involved in adhering to the Buy American Act and Trade Agreements Act for businesses engaged in government procurement.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>

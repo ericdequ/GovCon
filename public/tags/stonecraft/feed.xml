@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Wed, 14 May 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/stonecraft/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/stonecraft/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Projects/StoneSaver</guid>
+    <guid>https://www.govcon.me/blog/Projects/StoneSaver</guid>
     <title>AI‑Carved Monuments 🏛️🔺</title>
-    <link>https://www.govcon.com/blog/Projects/StoneSaver</link>
+    <link>https://www.govcon.me/blog/Projects/StoneSaver</link>
     
     <description>Revolutionize the way we shape stone—this AI‑enhanced stone shaper scans boulders and slabs to produce perfect pyramid blocks, artistic monoliths, and modular masterpieces from marble and granite.</description>
     <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>

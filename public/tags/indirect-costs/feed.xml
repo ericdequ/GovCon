@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Sat, 13 Apr 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/indirect-costs/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/indirect-costs/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/understanding_indirect_cost_rates_in_government_contracts</guid>
+    <guid>https://www.govcon.me/blog/understanding_indirect_cost_rates_in_government_contracts</guid>
     <title>Understanding Indirect Cost Rates in Government Contracts</title>
-    <link>https://www.govcon.com/blog/understanding_indirect_cost_rates_in_government_contracts</link>
+    <link>https://www.govcon.me/blog/understanding_indirect_cost_rates_in_government_contracts</link>
     
     <description>Dive into the complexities of indirect cost rates in government contracts and learn how they can impact your project’s budget and performance.</description>
     <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>

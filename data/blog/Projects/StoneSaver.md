@@ -60,10 +60,10 @@ Dreaming of a backyard ziggurat or sacred stone altar? This tool makes it plausi
 
 | Project Type           | Output Features                              | Est. Value Per Stone |
 |------------------------|-----------------------------------------------|----------------------|
-| **Mini Pyramid Kit**   | 13–91 blocks, base to apex ratio tuning       | $800–$5,000          |
-| **Altar Slab**         | Vein-aligned top, reinforced base edge cuts   | $500–$1,500          |
+| **Mini Pyramid Kit**   | 13–91 blocks, base to apex ratio tuning       | \$800–\$5,000        |
+| **Altar Slab**         | Vein-aligned top, reinforced base edge cuts   | \$500–\$1,500        |
 | **Monolithic Bench**   | Ergonomic seating surface, anti-wobble base   | $600+                |
-| **Sculpture Starter**  | Pre-shaped form based on natural outlines     | $300–$2,000+         |
+| **Sculpture Starter**  | Pre-shaped form based on natural outlines     | \$300–\$2,000+       |
 
 ---
 

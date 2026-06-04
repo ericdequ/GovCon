@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Mon, 07 Aug 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/checklist/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/checklist/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/developing_a_government_contracting_compliance_checklist</guid>
+    <guid>https://www.govcon.me/blog/developing_a_government_contracting_compliance_checklist</guid>
     <title>Developing a Government Contracting Compliance Checklist</title>
-    <link>https://www.govcon.com/blog/developing_a_government_contracting_compliance_checklist</link>
+    <link>https://www.govcon.me/blog/developing_a_government_contracting_compliance_checklist</link>
     
     <description>Learn how to navigate the complexities of government contracting with a comprehensive compliance checklist.</description>
     <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>

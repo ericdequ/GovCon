@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Gov Con</title>
-      <link>https://www.govcon.com/blog</link>
+      <link>https://www.govcon.me/blog</link>
       <description>The Guide To government Contracting!</description>
       <language>en-us</language>
       <managingEditor>eric@quantumcybersolutions.com (Gov Con)</managingEditor>
       <webMaster>eric@quantumcybersolutions.com (Gov Con)</webMaster>
       <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.govcon.com/tags/businessgrowth/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.govcon.me/tags/businessgrowth/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.govcon.com/blog/Government/Proposals</guid>
+    <guid>https://www.govcon.me/blog/Government/Proposals</guid>
     <title>How to Write a Winning Government Proposal</title>
-    <link>https://www.govcon.com/blog/Government/Proposals</link>
+    <link>https://www.govcon.me/blog/Government/Proposals</link>
     
     <description>Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️</description>
     <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
