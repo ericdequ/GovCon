@@ -1,5 +1,7 @@
-allowBuilds:
-  canvas: true
-  core-js-pure: true
-  deasync: true
-  unrs-resolver: true
+onlyBuiltDependencies:
+  - canvas
+  - core-js-pure
+  - deasync
+  - esbuild
+  - sharp
+  - unrs-resolver
