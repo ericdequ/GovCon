@@ -5,14 +5,16 @@
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
     "dev": "next dev",
-    "build": "next build && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap && node ./scripts/indexnow.js",
+    "build": "node ./scripts/validate-frontmatter.js && next build && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap.js && node ./scripts/verify-build.js",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
-    "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
+    "lint": "next lint --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
     "commit": "git add . && git commit -m 'production push' && git push",
     "deploy": "pnpm i && next build && pnpm vercel && pnpm vercel --prod && pnpm run commit",
-    "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build"
+    "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build",
+    "validate:content": "node ./scripts/validate-frontmatter.js",
+    "indexnow": "node ./scripts/indexnow.js"
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.2.2",
@@ -98,5 +100,8 @@
       "prettier --write"
     ]
   },
-  "packageManager": "pnpm@10.33.4"
+  "packageManager": "pnpm@10.33.4",
+  "engines": {
+    "node": "24.x"
+  }
 }
