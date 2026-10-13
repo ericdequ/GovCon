@@ -5,16 +5,18 @@
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
     "dev": "next dev",
-    "build": "node ./scripts/validate-frontmatter.js && next build && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap.js && node ./scripts/verify-build.js",
+    "build": "node ./scripts/validate-frontmatter.js && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap.js && next build && node ./scripts/verify-publication.js",
     "serve": "next start",
-    "analyze": "cross-env ANALYZE=true next build",
+    "analyze": "cross-env ANALYZE=true pnpm run build",
     "lint": "next lint --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
     "commit": "git add . && git commit -m 'production push' && git push",
-    "deploy": "pnpm i && next build && pnpm vercel && pnpm vercel --prod && pnpm run commit",
+    "deploy": "pnpm i && pnpm run build && pnpm vercel && pnpm vercel --prod && pnpm run commit",
     "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build",
     "validate:content": "node ./scripts/validate-frontmatter.js",
-    "indexnow": "node ./scripts/indexnow.js"
+    "indexnow": "node ./scripts/indexnow.js",
+    "generate:publication": "node ./scripts/validate-frontmatter.js && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap.js",
+    "verify:publication": "node ./scripts/verify-publication.js"
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.2.2",
